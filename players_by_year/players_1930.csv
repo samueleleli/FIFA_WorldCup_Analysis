@@ -1,0 +1,246 @@
+player_id;family_name;given_name;shirt_number;position_name;position_code
+P-08988;Adams;Ferdinand;;forward;FW
+P-00815;Aguilera;Juan;;forward;FW
+P-00053;Aguirre;Francisco;;midfielder;MF
+P-05855;Alborta;Mario;;forward;FW
+P-04448;Amézcua;Efraín;;midfielder;MF
+P-08276;Andoire;Numa;;defender;DF
+P-01536;Andrade;José Leandro;;midfielder;MF
+P-08997;Anselmo;Peregrino;;forward;FW
+P-01450;Araken;not applicable;;forward;FW
+P-09068;Arellano;Guillermo;;forward;FW
+P-08381;Argote;Juan;;midfielder;MF
+P-02220;Arsenijevi?;Milorad;;midfielder;MF
+P-08033;Astengo;Eduardo;;midfielder;MF
+P-03079;Auld;Andy;;midfielder;MF
+P-04809;Badjou;Arnold;;goal keeper;GK
+P-01714;Ballesteros;Enrique;;goal keeper;GK
+P-01121;Barbu;?tefan;;forward;FW
+P-06435;Bek;Ivan;;forward;FW
+P-03390;Benedicto;not applicable;;forward;FW
+P-06873;Benítez;Pedro;;goal keeper;GK
+P-02979;Benítez;Santiago;;midfielder;MF
+P-07741;Benítez Cáceres;Delfín;;forward;FW
+P-09265;Benvenuto;not applicable;;midfielder;MF
+P-02442;Bermúdez;Jesús;;goal keeper;GK
+P-08760;Bonfiglio;Oscar;;goal keeper;GK
+P-06512;Bookie;Mike;;forward;FW
+P-01578;Bossio;Ángel;;goal keeper;GK
+P-02109;Botasso;Juan;;goal keeper;GK
+P-07947;Braine;Pierre;;midfielder;MF
+P-01970;Brilhante;not applicable;;defender;DF
+P-05500;Brito;Miguel;;midfielder;MF
+P-05896;Brown;Jim;;forward;FW
+P-01959;Bürger;Rudolf;;defender;DF
+P-00618;Bustamante;José;;forward;FW
+P-03169;Calvo;Juan Carlos;;forward;FW
+P-05869;Capelle;Marcel;;defender;DF
+P-05825;Capuccini;Miguel;;goal keeper;GK
+P-03952;Carreño;Juan;;forward;FW
+P-01868;Carreras;Saguier;;forward;FW
+P-00826;Castro;Héctor;;forward;FW
+P-04682;Castro;Jesús;;forward;FW
+P-00724;Cea;Pedro;;forward;FW
+P-02697;Chamorro;Eustacio;;defender;DF
+P-06745;Chantraine;Alexis;;midfielder;MF
+P-08263;Chantrel;Augustin;;midfielder;MF
+P-02300;Chaparro;Ernesto;;defender;DF
+P-02076;Chavarría;Casiano;;defender;DF
+P-06974;Cherro;Roberto;;forward;FW
+P-07975;Chividini;Alberto;;defender;DF
+P-09029;Cillóniz;Carlos;;midfielder;MF
+P-07628;Coddou;Arturo;;midfielder;MF
+P-08983;Cortés;Roberto;;goal keeper;GK
+P-05925;Czako;Iosif;;defender;DF
+P-03739;De Bie;Jean;;goal keeper;GK
+P-00045;De Clercq;Jean;;midfielder;MF
+P-07467;De Deken;Henri;;defender;DF
+P-03249;de las Casas;Mario;;defender;DF
+P-08242;Delbeke;Gérard;;midfielder;MF
+P-02254;Delfour;Edmond;;forward;FW
+P-06464;Della Torre;José;;defender;DF
+P-09494;Delmer;Célestin;;midfielder;MF
+P-07083;Demaría;Attilio;;forward;FW
+P-09558;Denegri;Alberto;;midfielder;MF
+P-05445;Denis;Modesto;;goal keeper;GK
+P-00978;De?u;Adalbert;;forward;FW
+P-01854;Díaz;Eusebio;;midfielder;MF
+P-07686;Diddens;Jan;;forward;FW
+P-06321;Doca;not applicable;;forward;FW
+P-02466;?oki?;Mom?ilo;;midfielder;MF
+P-09358;Domínguez;Diógenes;;forward;FW
+P-00275;Dorado;Pablo;;forward;FW
+P-02140;Douglas;Jimmy;;goal keeper;GK
+P-05471;Durandal;Segundo;;defender;DF
+P-05520;Eisenbeisser;Alfred;;midfielder;MF
+P-08972;Elgueta;Humberto;;midfielder;MF
+P-02706;Espinoza;César;;goal keeper;GK
+P-09526;Etcheverry;Romildo;;midfielder;MF
+P-00754;Evaristo;Juan;;midfielder;MF
+P-06416;Evaristo;Mario;;forward;FW
+P-04503;Fausto;not applicable;;defender;DF
+P-09943;Fernández;Arturo;;defender;DF
+P-04382;Fernández;Lorenzo;;midfielder;MF
+P-01830;Fernández;René;;forward;FW
+P-04545;Fernando;not applicable;;midfielder;MF
+P-05678;Ferreira;Manuel;;forward;FW
+P-04328;Florentín;Diego;;midfielder;MF
+P-08310;Flores;Salvador;;defender;DF
+P-06672;Florie;Tom;;forward;FW
+P-08477;Fortes;not applicable;;midfielder;MF
+P-03501;Galindo;Plácido;;midfielder;MF
+P-09481;Gallagher;Jimmy;;midfielder;MF
+P-06611;Garcete;Tranquilino;;midfielder;MF
+P-00563;García;Domingo;;midfielder;MF
+P-00249;Garza Gutiérrez;Francisco;;defender;DF
+P-07181;Garza Gutiérrez;Rafael;;defender;DF
+P-04746;Gayón;Roberto;;forward;FW
+P-03532;Gentle;James;;forward;FW
+P-01989;Gestido;Álvaro;;midfielder;MF
+P-00118;Gómez;Gumercindo;;forward;FW
+P-09089;Góngora;Jorge;;forward;FW
+P-03512;Gonsalves;Billy;;forward;FW
+P-08958;González;Aurelio;;forward;FW
+P-07499;Hellemans;August;;midfielder;MF
+P-04154;Hermógenes;not applicable;;defender;DF
+P-02975;Hoydonckx;Nic;;defender;DF
+P-04287;Hrnji?ek;Branislav;;midfielder;MF
+P-05989;Iriarte;Santos;;forward;FW
+P-06943;Itália;not applicable;;defender;DF
+P-07824;Ivkovi?;Milutin;;defender;DF
+P-07940;Jakši?;Milovan;;goal keeper;GK
+P-06300;Joel;not applicable;;goal keeper;GK
+P-02034;Kovács;Miklós;;forward;FW
+P-05670;Langiller;Marcel;;forward;FW
+P-04796;L?pu?neanu;Ion;;goal keeper;GK
+P-00114;Lara;Diógenes;;midfielder;MF
+P-06728;Laurent;Jean;;defender;DF
+P-09831;Laurent;Lucien;;forward;FW
+P-07519;Lavalle;José María;;forward;FW
+P-03549;Leite;Carvalho;;forward;FW
+P-06423;Libérati;Ernest;;forward;FW
+P-07242;López;Hilario;;forward;FW
+P-02310;Lores;Julio;;forward;FW
+P-05348;Manoelzinho;not applicable;;forward;FW
+P-06378;Maquilón;Antonio;;defender;DF
+P-09863;Mariz;Ivan;;midfielder;MF
+P-00296;Marjanovi?;Blagoje;;forward;FW
+P-05587;Markovi?;Bozidar;;forward;FW
+P-02545;Mascheroni;Ernesto;;defender;DF
+P-07295;Maschinot;André;;forward;FW
+P-09767;Mattler;Étienne;;defender;DF
+P-09935;McGhee;Bart;;forward;FW
+P-03933;Mejía;Dionisio;;forward;FW
+P-06937;Melogno;Ángel;;midfielder;MF
+P-00410;Méndez;Rafael;;forward;FW
+P-05511;Mihajlovi?;Dragoslav;;defender;DF
+P-09975;Miracca;José;;defender;DF
+P-04578;Moderato;not applicable;;forward;FW
+P-03374;Moeschal;Jacques;;forward;FW
+P-03789;Monti;Luis;;midfielder;MF
+P-03968;Moorhouse;George;;defender;DF
+P-03845;Morales;Víctor;;defender;DF
+P-09797;Muñoz;Horacio;;forward;FW
+P-01840;Murillo;Miguel;;goal keeper;GK
+P-07505;Muttis;Ramón;;defender;DF
+P-09878;Najdanovi?;Dragutin;;forward;FW
+P-08946;Nasazzi;José;;defender;DF
+P-07866;Nessi;Lino;;forward;FW
+P-04490;Neyra;Demetrio;;forward;FW
+P-01245;Nilo;not applicable;;forward;FW
+P-06342;Nouwens;Theodore;;defender;DF
+P-04053;Noya;Constantino;;midfielder;MF
+P-00054;Ojeda;Tomás;;forward;FW
+P-09592;Olivares;Felipe;;forward;FW
+P-09954;Oliver;Arnie;;forward;FW
+P-01489;Olmedo;Quiterio;;defender;DF
+P-08159;Orlandini;Rodolfo;;midfielder;MF
+P-07126;Ortega;Amadeo;;forward;FW
+P-05209;Oscarino;not applicable;;midfielder;MF
+P-05645;Pacheco;Pablo;;forward;FW
+P-04937;Pamplona;not applicable;;midfielder;MF
+P-02154;Pardon;Jorge;;goal keeper;GK
+P-09215;Patenaude;Bert;;forward;FW
+P-07461;Paternoster;Fernando;;defender;DF
+P-02224;Pérez;Luis;;forward;FW
+P-02705;Perinetti;Natalio;;forward;FW
+P-02038;Petrone;Pedro;;forward;FW
+P-03816;Peucelle;Carlos;;forward;FW
+P-04176;Piaggio;Edmundo;;defender;DF
+P-06259;Pinel;Marcel;;forward;FW
+P-00926;Píriz;Conduelo;;midfielder;MF
+P-08369;Poirier;Ulises;;defender;DF
+P-06724;Poly;not applicable;;forward;FW
+P-03855;Preguinho;not applicable;;forward;FW
+P-07392;Quintana;Julio;;midfielder;MF
+P-07320;Raffinsky;László;;midfielder;MF
+P-06765;Recoba;Emilio;;defender;DF
+P-02625;Reyes Ortiz;Eduardo;;forward;FW
+P-06275;Reyes Peñaranda;Luis;;defender;DF
+P-09887;Riolfo;Carlos;;midfielder;MF
+P-06387;Rivera;Bernabé;;forward;FW
+P-03762;Riveros;Guillermo;;defender;DF
+P-02337;Robe;Corneliu;;midfielder;MF
+P-00366;Rodríguez;Raymundo;;midfielder;MF
+P-05609;Rodríguez Nue;Lizardo;;forward;FW
+P-05956;Romero;Gerardo;;forward;FW
+P-06663;Rosas;Felipe;;midfielder;MF
+P-04652;Rosas;Manuel;;defender;DF
+P-08940;Ruíz;José;;forward;FW
+P-06917;Russinho;not applicable;;forward;FW
+P-06719;Saavedra;Guillermo;;midfielder;MF
+P-07557;Saeys;André;;forward;FW
+P-09361;Sáinz;Renato;;midfielder;MF
+P-05923;Saldombide;Zoilo;;forward;FW
+P-02138;Sánchez;Alfredo Viejo;;midfielder;MF
+P-09625;Sarmiento;Jorge;;forward;FW
+P-02775;Scarone;Héctor;;forward;FW
+P-01853;Schneeberger;Carlos;;forward;FW
+P-03988;Scopelli;Alejandro;;forward;FW
+P-01297;Sekuli?;Branislav;;forward;FW
+P-08340;Slone;Philip;;midfielder;MF
+P-00957;Soria;Alberto;;defender;DF
+P-08328;Sota;Isidoro;;goal keeper;GK
+P-00521;Souza Ferreira;Luis;;forward;FW
+P-09232;Spadaro;Carlos;;forward;FW
+P-03131;Spasojevi?;Teofilo;;midfielder;MF
+P-04418;Stábile;Guillermo;;forward;FW
+P-04102;Stanciu;Constantin;;forward;FW
+P-00928;Stefanovi?;Ljubiša;;defender;DF
+P-03292;Steiner;Adalbert;;defender;DF
+P-01343;Stojanovi?;Milan;;goal keeper;GK
+P-01166;Suárez;Arico;;midfielder;MF
+P-09559;Sub??eanu;Ilie;;forward;FW
+P-04702;Subiabre;Guillermo;;forward;FW
+P-05378;Tassin;André;;goal keeper;GK
+P-08074;Tejera;Domingo;;defender;DF
+P-07672;Teóphilo;not applicable;;forward;FW
+P-07977;Thépot;Alex;;goal keeper;GK
+P-00319;Tirnani?;Aleksandar;;forward;FW
+P-03568;Torres;Arturo;;midfielder;MF
+P-08807;Torres;Casimiro;;midfielder;MF
+P-05833;Toši?;Dragomir;;defender;DF
+P-05204;Tracey;Raphael;;forward;FW
+P-05171;Urdinarán;Santos;;forward;FW
+P-07646;Valderrama;Jorge;;midfielder;MF
+P-08098;Valdivieso;Juan;;goal keeper;GK
+P-05138;Valle;Juan Alfonso;;midfielder;MF
+P-00290;Varallo;Francisco;;forward;FW
+P-06978;Vargas Peña;Luis;;forward;FW
+P-03782;Vaughn;Frank;;defender;DF
+P-06225;Veinante;Émile;;forward;FW
+P-00370;Velloso;not applicable;;goal keeper;GK
+P-04609;Versyp;Louis;;forward;FW
+P-04216;Vidal;Carlos;;forward;FW
+P-06601;Villalba;Jacinto;;forward;FW
+P-06437;Villalobos;Eberardo;;forward;FW
+P-02787;Villanueva;Alejandro;;forward;FW
+P-06949;Villaplane;Alexandre;;midfielder;MF
+P-08796;Vogl;Emerich;;defender;DF
+P-00804;Voorhoof;Bernard;;forward;FW
+P-03989;Vujadinovi?;?or?e;;forward;FW
+P-06671;Wetzer;Rudolf;;forward;FW
+P-03207;Wood;Alexander;;defender;DF
+P-01449;Zauber;Samuel;;goal keeper;GK
+P-05567;Zé Luiz;not applicable;;defender;DF
+P-00455;Zumelzú;Adolfo;;midfielder;MF

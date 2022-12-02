@@ -1,0 +1,353 @@
+player_id,family_name,given_name,shirt_number,position_name,position_code
+P-05074,A'Court,Alan,,forward,FW
+P-02825,Abbes,Claude,,goal keeper,GK
+P-04924,Acevedo,David,,defender,DF
+P-04394,Achúcarro,Ignacio,,defender,DF
+P-09997,Agüero,Juan Bautista,,forward,FW
+P-07137,Aguilar,Samuel,,goal keeper,GK
+P-08649,Aguilera,Oscar,,forward,FW
+P-06738,Allchurch,Ivor,,forward,FW
+P-05114,Allchurch,Len,,midfielder,MF
+P-04236,Altafini,José,,forward,FW
+P-07891,Amarilla,Florencio,,forward,FW
+P-00802,Apukhtin,German,,forward,FW
+P-07625,Arévalo,Edelmiro,,defender,DF
+P-04336,Aveiro,José Raúl,,forward,FW
+P-02403,Avio,Ludovico,,forward,FW
+P-04993,Axbom,Sven,,defender,DF
+P-03076,Baird,Sammy,,forward,FW
+P-07360,Baker,Colin,,defender,DF
+P-06912,Baker,George,,midfielder,MF
+P-05629,Banks,Tommy,,defender,DF
+P-08115,Barschandt,Leopold,,defender,DF
+P-00735,Beara,Vladimir,,goal keeper,GK
+P-07138,Bellini,Hilderaldo,,defender,DF
+P-08077,Bellot,Raymond,,midfielder,MF
+P-04263,Belmonte,Jaime,,defender,DF
+P-08687,Belyayev,Vladimir,,goal keeper,GK
+P-06412,Bencsics,József,,forward,FW
+P-04385,Berendy,Pál,,midfielder,MF
+P-03571,Bergmark,Orvar,,defender,DF
+P-09580,Berndtsson,Bengt,,midfielder,MF
+P-04017,Bingham,Billy,,forward,FW
+P-02404,Blanchflower,Danny,,midfielder,MF
+P-07563,Blanco,Carlos,,forward,FW
+P-05557,Boggio,Norberto,,forward,FW
+P-08153,Börjesson,Reino,,midfielder,MF
+P-09038,Borovička,Jaroslav,,forward,FW
+P-00426,Boškov,Vujadin,,midfielder,MF
+P-00043,Bowen,Dave,,midfielder,MF
+P-00610,Bozsik,József,,midfielder,MF
+P-06830,Brabrook,Peter,,forward,FW
+P-04996,Broadbent,Peter,,forward,FW
+P-06566,Brown,Bill,,goal keeper,GK
+P-02481,Bruey,Stéphane,,forward,FW
+P-05234,Buberník,Titus,,defender,DF
+P-06143,Bubukin,Valentin,,forward,FW
+P-01207,Budai,László,,midfielder,MF
+P-00597,Bundzsák,Dezső,,forward,FW
+P-06969,Buzek,Hans,,forward,FW
+P-02159,Čadek,Jiří,,midfielder,MF
+P-08420,Calderón de la Barca,Carlos,,forward,FW
+P-03222,Caldow,Eric,,defender,DF
+P-07542,Camacho,Manuel,,goal keeper,GK
+P-00727,Carbajal,Antonio,,goal keeper,GK
+P-05812,Cárdenas,Raúl,,midfielder,MF
+P-07984,Carrizo,Amadeo,,goal keeper,GK
+P-03197,Casey,Tommy,,forward,FW
+P-05320,Castilho,Carlos José,,goal keeper,GK
+P-00525,Chapman,Sammy,,midfielder,MF
+P-04850,Charles,John,,forward,FW
+P-00594,Charles,Mel,,midfielder,MF
+P-00227,Charlton,Bobby,,forward,FW
+P-09685,Chiarelli,Bernard,,midfielder,MF
+P-08089,Cieslarczyk,Hans,,forward,FW
+P-05893,Clamp,Eddie,,midfielder,MF
+P-05876,Clayton,Ronnie,,midfielder,MF
+P-09698,Collins,Bobby,,forward,FW
+P-01174,Colonna,Dominique,,goal keeper,GK
+P-00334,Corbatta,Oreste,,forward,FW
+P-09832,Cowie,Doug,,midfielder,MF
+P-04496,Coyle,Fay,,forward,FW
+P-03507,Coyle,John,,forward,FW
+P-08495,Crnković,Tomislav,,defender,DF
+P-07026,Crowe,Vic,,midfielder,MF
+P-03286,Cruz,Osvaldo,,forward,FW
+P-07149,Cunningham,Willie,,defender,DF
+P-03481,Cush,Wilbur,,forward,FW
+P-05564,del Muro,Jesús,,defender,DF
+P-05706,Delgado,José Ramón,,defender,DF
+P-04984,Dellacha,Pedro,,defender,DF
+P-07008,Dida,not applicable,,forward,FW
+P-09343,Didi,not applicable,,midfielder,MF
+P-09516,Dienst,Robert,,forward,FW
+P-09876,Docherty,Tommy,,midfielder,MF
+P-05407,Dolejší,Břetislav,,goal keeper,GK
+P-00757,Dougan,Derek,,forward,FW
+P-04641,Douglas,Bryan,,forward,FW
+P-00529,Douis,Yvon,,forward,FW
+P-03577,Dvořák,Milan,,forward,FW
+P-02940,Echagüe,Eligio,,defender,DF
+P-04824,Eckel,Horst,,midfielder,MF
+P-04879,Edwards,Federico,,defender,DF
+P-03148,Edwards,Trevor,,defender,DF
+P-07425,Elsworthy,John,,midfielder,MF
+P-09314,Engelmeier,Bruno,,goal keeper,GK
+P-09102,Erhardt,Herbert,,defender,DF
+P-09949,Evans,Bobby,,defender,DF
+P-01767,Falin,Yuri,,forward,FW
+P-07976,Fedosov,Genrich,,forward,FW
+P-00159,Fenyvesi,Máté,,forward,FW
+P-04078,Fernie,Willie,,forward,FW
+P-00884,Feureisl,Jiří,,forward,FW
+P-03077,Finney,Tom,,forward,FW
+P-03387,Flores,Francisco,,midfielder,MF
+P-00643,Fontaine,Just,,forward,FW
+P-01296,Friedmanszky,Zoltán,,forward,FW
+P-03634,Gajdoš,Kazimír,,forward,FW
+P-04025,Garrincha,not applicable,,forward,FW
+P-04950,Gilmar,not applicable,,goal keeper,GK
+P-08737,Gini,Luis,,defender,DF
+P-07492,Gómez,Jaime,,goal keeper,GK
+P-01550,González,Carlos,,forward,FW
+P-01759,Graham,Len,,defender,DF
+P-08856,Gregg,Harry,,goal keeper,GK
+P-01255,Gren,Gunnar,,forward,FW
+P-07898,Grosics,Gyula,,goal keeper,GK
+P-07510,Gusarov,Gennadi,,forward,FW
+P-06211,Gustavsson,Bengt,,defender,DF
+P-07308,Gutiérrez,Crescencio,,forward,FW
+P-01033,Gutiérrez,Miguel,,forward,FW
+P-07603,Haddock,Harry,,defender,DF
+P-06369,Håkansson,Olle,,midfielder,MF
+P-07950,Halla,Paul,,defender,DF
+P-09436,Hamerl,Josef,,forward,FW
+P-03493,Hamill,Tommy,,defender,DF
+P-06276,Hamrin,Kurt,,midfielder,MF
+P-00402,Hanappi,Gerhard,,defender,DF
+P-02616,Happel,Ernst,,defender,DF
+P-03151,Haraldsson,Ingemar,,goal keeper,GK
+P-06181,Haynes,Johnny,,forward,FW
+P-08996,Herkenrath,Fritz,,goal keeper,GK
+P-08819,Hernández,Alfredo,,forward,FW
+P-09075,Hertl,Jan,,forward,FW
+P-02390,Hewie,John,,defender,DF
+P-00281,Hewitt,Ron,,forward,FW
+P-09699,Hidegkuti,Nándor,,forward,FW
+P-08389,Hnatow,Kazimir,,midfielder,MF
+P-05618,Hodgkinson,Alan,,goal keeper,GK
+P-02509,Hoffmann,Rudi,,midfielder,MF
+P-08202,Hopkins,Mel,,defender,DF
+P-09829,Hopkinson,Eddie,,goal keeper,GK
+P-07253,Horak,Walter,,forward,FW
+P-05314,Hovorka,Václav,,forward,FW
+P-02919,Howe,Don,,defender,DF
+P-03105,Ilku,István,,goal keeper,GK
+P-05753,Ilyin,Anatoli,,forward,FW
+P-00552,Imlach,Stewart,,forward,FW
+P-04932,Infante,Ricardo,,forward,FW
+P-07959,Insfrán,Eligio,,forward,FW
+P-05011,Insfrán,Eliseo,,forward,FW
+P-07475,Irović,Gordan,,goal keeper,GK
+P-06857,Ivanov,Aleksandr,,forward,FW
+P-03508,Ivanov,Valentin,,forward,FW
+P-00009,Jerković,Dražan,,forward,FW
+P-06415,Johansson,Åke,,defender,DF
+P-04377,Jones,Cliff,,forward,FW
+P-08042,Jones,Ken,,goal keeper,GK
+P-01535,Jonquet,Robert,,midfielder,MF
+P-09245,Juskowiak,Erich,,defender,DF
+P-00805,Kaelbel,Raymond,,defender,DF
+P-01753,Källgren,Henry,,forward,FW
+P-08869,Kárpáti,Béla,,defender,DF
+P-02978,Keith,Dick,,defender,DF
+P-07482,Kelbassa,Alfred,,forward,FW
+P-03293,Kelsey,Jack,,goal keeper,GK
+P-07192,Kesarev,Vladimir,,defender,DF
+P-07851,Kevan,Derek,,forward,FW
+P-02472,Klodt,Bernhard,,forward,FW
+P-04528,Koller,Karl,,midfielder,MF
+P-05793,Kollmann,Walter,,midfielder,MF
+P-07100,Kopa,Raymond,,forward,FW
+P-01034,Körner,Alfred,,forward,FW
+P-05718,Kotász,Antal,,midfielder,MF
+P-01598,Kozlicek,Ernst,,midfielder,MF
+P-02893,Kozlicek,Paul,,forward,FW
+P-01398,Kraus,Tadeáš,,forward,FW
+P-03560,Krivokuća,Srboljub,,goal keeper,GK
+P-03687,Krizhevsky,Konstantin,,midfielder,MF
+P-08832,Krstić,Dobrosav,,midfielder,MF
+P-08846,Kuznetsov,Boris,,defender,DF
+P-03090,Kwiatkowski,Heinz,,goal keeper,GK
+P-03515,Labruna,Ángel,,forward,FW
+P-01794,Lachos,László,,forward,FW
+P-02441,Lafont,Maurice,,midfielder,MF
+P-09432,Leek,Ken,,forward,FW
+P-06434,Leggat,Graham,,forward,FW
+P-08425,Lerond,André,,defender,DF
+P-08357,Lezcano,Claudio,,forward,FW
+P-04317,Lezcano,Juan Vicente,,midfielder,MF
+P-04687,Liedholm,Nils,,midfielder,MF
+P-03756,Lipošinović,Luka,,forward,FW
+P-05201,Löfgren,Gösta,,forward,FW
+P-07184,Lombardo,Juan,,defender,DF
+P-01367,López,Ligorio,,forward,FW
+P-03428,Mackay,Dave,,midfielder,MF
+P-08135,Marcel,Jean-Jacques,,midfielder,MF
+P-08710,Marche,Roger,,defender,DF
+P-05380,Martins,Joel Antônio,,forward,FW
+P-02671,Maslachenko,Vladimir,,goal keeper,GK
+P-04946,Maslyonkin,Anatoli,,defender,DF
+P-07840,Masopust,Josef,,midfielder,MF
+P-01731,Mátrai,Sándor,,defender,DF
+P-06567,Mayeregger,Ramón,,goal keeper,GK
+P-00337,McColl,Ian,,defender,DF
+P-06892,McCrory,Sammy,,forward,FW
+P-09566,McDonald,Colin,,goal keeper,GK
+P-04617,McIlroy,Jimmy,,forward,FW
+P-09231,McMichael,Alf,,defender,DF
+P-09662,McParland,Peter,,forward,FW
+P-07511,Medwin,Terry,,forward,FW
+P-05765,Mellberg,Bror,,forward,FW
+P-04327,Menéndez,Norberto,,forward,FW
+P-01358,Milutinović,Milorad,,defender,DF
+P-05338,Milutinović,Miloš,,forward,FW
+P-04719,Miranda,Agustín,,defender,DF
+P-06634,Moacir,not applicable,,midfielder,MF
+P-07270,Molnár,Pavol,,forward,FW
+P-07754,Monostori,Tivadar,,forward,FW
+P-09222,Moravčík,Anton,,midfielder,MF
+P-02462,Mouriño,Eliseo,,midfielder,MF
+P-09991,Mouynet,Robert,,defender,DF
+P-07116,Mráz,Gustav,,defender,DF
+P-06392,Mudie,Jackie,,forward,FW
+P-07617,Murray,Jimmy,,forward,FW
+P-02618,Musimessi,Julio,,goal keeper,GK
+P-00536,Netto,Igor,,midfielder,MF
+P-04304,Ninaus,Herbert,,forward,FW
+P-06597,Norman,Maurice,,defender,DF
+P-01555,Novák,Ladislav,,defender,DF
+P-06274,Nuber,Hermann,,defender,DF
+P-02476,Öberg,Prawitz,,defender,DF
+P-00185,Ognjanović,Radivoje,,forward,FW
+P-04990,Ohlsson,Owe,,forward,FW
+P-09148,Oliver,Célestin,,midfielder,MF
+P-06730,Oreco,not applicable,,midfielder,MF
+P-07224,Orlando,not applicable,,defender,DF
+P-09572,Ostrovskiy,Leonid,,defender,DF
+P-01065,Parker,Alex,,defender,DF
+P-00330,Parling,Sigge,,midfielder,MF
+P-08476,Parodi,José,,forward,FW
+P-00245,Pašić,Ilijas,,forward,FW
+P-06063,Peacock,Bertie,,midfielder,MF
+P-03795,Pelé,not applicable,,forward,FW
+P-01279,Penayo,Gilberto,,forward,FW
+P-08981,Penverne,Armand,,midfielder,MF
+P-01352,Pepe,not applicable,,forward,FW
+P-07934,Pérez,Alfredo,,defender,DF
+P-00722,Petaković,Aleksandar,,forward,FW
+P-06988,Peters,Wolfgang,,midfielder,MF
+P-09663,Piantoni,Roger,,forward,FW
+P-05254,Pluskal,Svatopluk,,midfielder,MF
+P-00264,Popluhár,Ján,,defender,DF
+P-01145,Popović,Vladica,,defender,DF
+P-09754,Portugal,Alfonso,,defender,DF
+P-06906,Prado,Eliseo,,forward,FW
+P-03443,Puschnik,Ignaz,,midfielder,MF
+P-06196,Radović,Nikola,,defender,DF
+P-08148,Rahn,Helmut,,forward,FW
+P-00476,Rajkov,Zdravko,,midfielder,MF
+P-04233,Ramos,Mauro,,defender,DF
+P-08154,Ré,Cayetano,,forward,FW
+P-00258,Rea,Roy,,goal keeper,GK
+P-06105,Remetter,François,,goal keeper,GK
+P-09596,Reyes,Salvador,,forward,FW
+P-06345,Robertson,Archie,,forward,FW
+P-02500,Robson,Bobby,,forward,FW
+P-01819,Roca,José Antonio,,forward,FW
+P-07666,Rojas,Alfredo,,forward,FW
+P-00859,Romero,Jorge Lino,,forward,FW
+P-00215,Romo,Jorge,,midfielder,MF
+P-08173,Rossi,Néstor,,defender,DF
+P-00713,Šafránek,František,,defender,DF
+P-01413,Salazar,Jaime,,midfielder,MF
+P-03661,Salnikov,Sergei,,forward,FW
+P-05727,Sándor,Károly,,forward,FW
+P-02950,Sanfilippo,José,,forward,FW
+P-00098,Sani,Dino,,midfielder,MF
+P-03150,Šantek,Ivan,,midfielder,MF
+P-08651,Santos,Djalma,,defender,DF
+P-04894,Santos,Nílton,,defender,DF
+P-03637,Santos Silva,Luis,,midfielder,MF
+P-09373,Sárosi,László,,defender,DF
+P-03147,Sawitzki,Günter,,goal keeper,GK
+P-09457,Schäfer,Hans,,forward,FW
+P-05183,Scherer,Adolf,,forward,FW
+P-02373,Schleger,Walter,,forward,FW
+P-01706,Schmidt,Aki,,midfielder,MF
+P-05499,Schmied,Kurt,,goal keeper,GK
+P-06318,Schnellinger,Karl-Heinz,,defender,DF
+P-07464,Schrojf,Viliam,,goal keeper,GK
+P-07141,Scott,Alex,,forward,FW
+P-06538,Scott,Jackie,,forward,FW
+P-04896,Seeler,Uwe,,forward,FW
+P-03063,Segovia,Darío,,defender,DF
+P-04115,Šekularac,Dragoslav,,midfielder,MF
+P-05129,Selmosson,Arne,,forward,FW
+P-01708,Senekowitsch,Helmut,,forward,FW
+P-03300,Sepúlveda,Guillermo,,midfielder,MF
+P-03956,Sesma,Enrique,,forward,FW
+P-03833,Setters,Maurice,,midfielder,MF
+P-04653,Šijaković,Vasilije,,defender,DF
+P-04318,Sillett,Peter,,defender,DF
+P-06078,Simonsson,Agne,,forward,FW
+P-06130,Simonyan,Nikita,,forward,FW
+P-08178,Simpson,Billy,,forward,FW
+P-06517,Sipos,Ferenc,,midfielder,MF
+P-03611,Skoglund,Lennart,,forward,FW
+P-06851,Slater,Bill,,midfielder,MF
+P-03369,Smith,Bobby,,forward,FW
+P-01875,Sordi,De,,defender,DF
+P-01507,Stacho,Imrich,,goal keeper,GK
+P-05630,Stollenwerk,Georg,,defender,DF
+P-01045,Stotz,Karl,,midfielder,MF
+P-09808,Sturm,Hans,,forward,FW
+P-03994,Sullivan,Derrick,,defender,DF
+P-02696,Svensson,Kalle,,goal keeper,GK
+P-05532,Svensson,Tore,,goal keeper,GK
+P-01061,Swoboda,Franz,,defender,DF
+P-02278,Szanwald,Rudolf,,goal keeper,GK
+P-01745,Szigeti,Oszkár,,defender,DF
+P-00487,Szojka,Ferenc,,forward,FW
+P-08942,Szymaniak,Horst,,midfielder,MF
+P-03393,Tichy,Lajos,,forward,FW
+P-08550,Tomić,Novak,,defender,DF
+P-04268,Trainor,Bobby,,forward,FW
+P-01418,Tsarev,Viktor,,midfielder,MF
+P-03662,Turnbull,Eddie,,midfielder,MF
+P-00998,Uprichard,Norman,,goal keeper,GK
+P-01951,Vairo,Federico,,defender,DF
+P-04167,Varacka,José,,midfielder,MF
+P-08874,Vasas,Mihály,,forward,FW
+P-01219,Vavá,not applicable,,forward,FW
+P-02189,Vearncombe,Graham,,goal keeper,GK
+P-09060,Vernon,Roy,,forward,FW
+P-00923,Veselinović,Todor,,forward,FW
+P-07944,Villalba,Salvador,,midfielder,MF
+P-07621,Villegas,José,,defender,DF
+P-08257,Vincent,Jean,,forward,FW
+P-03815,Voinov,Yuri,,defender,DF
+P-05420,Walter,Fritz,,forward,FW
+P-00277,Webster,Colin,,forward,FW
+P-08990,Wewers,Heinz,,defender,DF
+P-02268,Williams,Stuart,,defender,DF
+P-01776,Wisnieski,Maryan,,forward,FW
+P-03434,Wright,Billy,,midfielder,MF
+P-04105,Yashin,Lev,,goal keeper,GK
+P-04569,Yerokhin,Vladimir,,defender,DF
+P-07133,Younger,Tommy,,goal keeper,GK
+P-07205,Zagallo,Mário,,forward,FW
+P-02177,Zebec,Branko,,forward,FW
+P-00033,Zikán,Zdeněk,,forward,FW
+P-07351,Zito,not applicable,,midfielder,MF
+P-06046,Zózimo,not applicable,,midfielder,MF
