@@ -1,0 +1,33 @@
+match_name,total_teams_score,yellow_card,red_card,substitutions,n_same_squad_match,C-3,Segm K-means PCA,Segment
+Argentina v Belgium,4,21,0,27,3,-1.618275271000181,1,secondo
+Argentina v Croatia,4,28,0,22,2,-1.87644486010373,1,secondo
+Argentina v South Korea,9,14,0,18,2,-0.11995213672436716,1,secondo
+Argentina v Sweden,7,10,0,12,2,-0.0025747223132103606,1,secondo
+Argentina v Switzerland,3,10,0,12,2,-0.6989727558917008,1,secondo
+Austria v Chile,3,16,0,18,2,-1.2661275801402174,1,secondo
+Belgium v Brazil,5,12,0,18,2,-0.7147717772547433,1,secondo
+Belgium v Russia,6,16,0,24,2,-1.006248700060523,1,secondo
+Belgium v South Korea,5,14,1,24,3,-0.537748474323531,1,secondo
+Brazil v Croatia,5,16,0,16,2,-0.8304553483162477,1,secondo
+Brazil v Portugal,4,14,0,12,2,-0.728030033593307,1,secondo
+Bulgaria v Italy,5,16,0,14,2,-0.7429821332815233,1,secondo
+Bulgaria v Nigeria,4,16,0,20,2,-1.1795012867803192,1,secondo
+Chile v Spain,7,11,1,17,3,0.2689743846594213,1,secondo
+Colombia v England,4,26,0,28,2,-2.037286112159789,1,secondo
+Croatia v Japan,1,20,0,24,2,-2.079903028129865,1,secondo
+Denmark v France,5,12,0,30,3,-1.1182828164411305,1,secondo
+England v Paraguay,4,12,0,16,2,-0.8013980706146414,1,secondo
+Germany v Mexico,4,20,0,24,2,-1.5576045029459968,1,secondo
+Germany v Spain,3,8,0,18,2,-0.8598140079477598,1,secondo
+Germany v United States,4,27,0,29,3,-2.010483665179249,1,secondo
+Honduras v Spain,4,4,0,18,2,-0.48255771345690823,1,secondo
+Iran v Portugal,4,13,0,12,2,-0.6772408370692498,1,secondo
+Italy v Poland,5,17,0,15,3,-0.716179686300983,1,secondo
+Italy v Spain,6,6,0,12,3,0.14781080641035543,1,secondo
+Morocco v Portugal,5,6,0,18,2,-0.4100365981104001,1,secondo
+Netherlands v Spain,7,19,1,12,2,-0.039984400968184855,1,secondo
+Paraguay v Spain,5,22,0,28,3,-1.5387015666469779,1,secondo
+Paraguay v Sweden,5,16,0,12,2,-0.6555089182467988,1,secondo
+Portugal v United States,9,8,0,24,2,-0.07763660268419717,1,secondo
+Soviet Union v Uruguay,4,12,0,8,2,-0.45150521047574377,1,secondo
+Spain v Yugoslavia,6,18,0,16,2,-0.7579342329697395,1,secondo

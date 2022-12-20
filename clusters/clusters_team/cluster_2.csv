@@ -1,0 +1,19 @@
+match_name,total_teams_score,yellow_card,red_card,substitutions,n_same_squad_match,C-3,Segm K-means PCA,Segment
+Argentina v Germany,7,25,0,29,3,-1.3866067469472667,2,terzo
+Argentina v Mexico,16,21,0,33,3,0.20849918463111716,2,terzo
+Austria v Italy,6,24,0,52,4,-2.394530780695203,2,terzo
+Belgium v England,12,12,0,30,4,0.22174199334318764,2,terzo
+Brazil v Costa Rica,10,15,0,26,3,-0.22520643397073994,2,terzo
+Brazil v Italy,16,31,0,33,5,-0.05673627856553557,2,terzo
+Brazil v Poland,20,28,0,40,4,0.3645448409416314,2,terzo
+Brazil v Scotland,9,18,0,31,4,-0.6490283185023854,2,terzo
+Brazil v Spain,15,7,0,18,5,1.6441540423776477,2,terzo
+England v Sweden,8,15,0,28,3,-0.6608786657947093,2,terzo
+England v West Germany,13,18,0,30,4,0.09110632259346717,2,terzo
+France v Mexico,14,24,0,20,4,0.3978367270173685,2,terzo
+Germany v South Korea,8,18,0,28,3,-0.813246255366881,2,terzo
+Ghana v United States,9,19,0,30,3,-0.7774091585310401,2,terzo
+Italy v Mexico,9,17,0,20,3,-0.23846469030930348,2,terzo
+Italy v West Germany,11,33,0,33,4,-1.1501404646087228,2,terzo
+Spain v Switzerland,7,36,0,30,3,-1.9890245162292584,2,terzo
+West Germany v Yugoslavia,11,11,0,20,5,0.6571260076682042,2,terzo

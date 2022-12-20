@@ -1,0 +1,108 @@
+match_name,total_teams_score,yellow_card,red_card,substitutions,n_same_squad_match,C-3,Segm K-means PCA,Segment
+Algeria v Chile,5,1,0,4,1,0.3348936387309972,4,quinto
+Algeria v South Korea,6,3,0,6,1,0.31994153904278105,4,quinto
+Argentina v Czechoslovakia,7,0,0,0,1,0.9088282821137486,4,quinto
+Argentina v Greece,6,5,0,10,2,0.16474496694717744,4,quinto
+Argentina v Haiti,5,3,0,4,1,0.23331524568288287,4,quinto
+Argentina v Peru,6,0,0,3,1,0.6035189511670392,4,quinto
+Argentina v Poland,7,4,0,7,2,0.5208434944179439,4,quinto
+Argentina v Romania,7,12,0,7,2,0.11452992222548626,4,quinto
+Argentina v Serbia and Montenegro,6,4,1,6,1,0.6888454325802642,4,quinto
+Argentina v United States,7,0,0,0,1,0.9088282821137486,4,quinto
+Argentina v Uruguay,7,7,0,3,2,0.5434223349152211,4,quinto
+Australia v Chile,4,5,1,10,2,0.23623904021947253,4,quinto
+Australia v Netherlands,5,2,0,6,1,0.19663122717221565,4,quinto
+Austria v Brazil,4,0,0,8,2,0.15796514781294266,4,quinto
+Austria v Czechoslovakia,6,10,0,8,2,-0.0017278006383841789,4,quinto
+Austria v France,6,2,0,8,2,0.4045857715540735,4,quinto
+Austria v Germany,5,0,0,0,1,0.5606292653245033,4,quinto
+Austria v Netherlands,6,0,0,2,1,0.6472555586844015,4,quinto
+Belgium v El Salvador,4,4,0,12,2,-0.220138068352735,4,quinto
+Belgium v Italy,5,0,0,0,1,0.5606292653245033,4,quinto
+Belgium v Paraguay,5,4,0,4,2,0.3038543001807853,4,quinto
+Belgium v Spain,5,4,0,8,2,0.12890787011133645,4,quinto
+Belgium v United States,6,2,0,6,2,0.4920589865887979,4,quinto
+Bolivia v Uruguay,8,0,0,0,1,1.0829277905083714,4,quinto
+Brazil v Denmark,5,6,0,6,1,-0.0065255589240131836,4,quinto
+Brazil v Japan,5,2,0,6,1,0.19663122717221565,4,quinto
+Brazil v Romania,5,2,0,4,1,0.28410444220694003,4,quinto
+Brazil v Soviet Union,5,0,0,6,2,0.4195378712422897,4,quinto
+Brazil v Switzerland,6,8,0,12,2,-0.07509583765971861,4,quinto
+Brazil v Uruguay,7,4,0,1,2,0.783263139522117,4,quinto
+Bulgaria v Netherlands,5,5,0,4,1,0.13173685263476842,4,quinto
+Bulgaria v Peru,5,0,0,4,1,0.3856828352550545,4,quinto
+Bulgaria v Spain,7,4,0,6,1,0.4432518509133464,4,quinto
+Bulgaria v Sweden,4,4,0,14,2,-0.3076112833874594,4,quinto
+Bulgaria v West Germany,7,0,0,4,1,0.7338818520442998,4,quinto
+Cameroon v England,5,4,0,4,1,0.18252604915882564,4,quinto
+Cameroon v Russia,7,5,0,4,1,0.4799358694240137,4,quinto
+Chile v Soviet Union,6,0,0,0,2,0.8560570247410856,4,quinto
+Chile v United States,7,0,0,0,1,0.9088282821137486,4,quinto
+Colombia v Romania,5,8,0,7,2,-0.030512308467530183,4,quinto
+Colombia v Soviet Union,8,0,0,0,1,1.0829277905083714,4,quinto
+Colombia v Uruguay,5,2,0,6,2,0.3179594781941753,4,quinto
+Colombia v Yugoslavia,6,2,0,8,2,0.4045857715540735,4,quinto
+Costa Rica v Czechoslovakia,5,5,0,2,1,0.2192100676694928,4,quinto
+Costa Rica v Germany,6,1,0,6,1,0.42151993209089544,4,quinto
+Cuba v Sweden,8,0,0,0,1,1.0829277905083714,4,quinto
+Czechoslovakia v England,3,4,0,12,2,-0.39423757674735765,4,quinto
+Czechoslovakia v Italy,5,8,0,8,2,-0.07424891598489239,4,quinto
+Czechoslovakia v Romania,6,2,0,4,2,0.5795322016235223,4,quinto
+Czechoslovakia v Switzerland,5,0,0,0,1,0.5606292653245033,4,quinto
+Czechoslovakia v United States,6,4,1,4,1,0.7763186476149886,4,quinto
+Czechoslovakia v West Germany,5,7,1,3,2,0.6149164081875161,4,quinto
+Denmark v Nigeria,5,2,0,5,1,0.24036783468957784,4,quinto
+Denmark v Spain,6,4,0,4,1,0.35662555755344827,4,quinto
+Dutch East Indies v Hungary,6,0,0,0,1,0.7347287737191259,4,quinto
+Egypt v Hungary,6,0,1,0,1,1.1544218637806665,4,quinto
+England v France,6,2,0,6,2,0.4920589865887979,4,quinto
+England v Germany,5,2,0,6,1,0.19663122717221565,4,quinto
+England v Italy,6,1,0,10,2,0.3679017530434063,4,quinto
+England v Panama,7,4,0,6,1,0.4432518509133464,4,quinto
+England v Romania,4,4,0,8,2,-0.04519163828328615,4,quinto
+England v Soviet Union,5,0,0,0,2,0.681957516346463,4,quinto
+England v Tunisia,5,5,0,10,2,-0.009354541447445198,4,quinto
+England v United States,3,6,0,5,2,-0.18965971717393657,4,quinto
+France v Hungary,7,2,0,7,2,0.6224218874660583,4,quinto
+France v Kuwait,5,3,0,4,1,0.23331524568288287,4,quinto
+France v Poland,5,3,0,3,1,0.27705185320024506,4,quinto
+France v Switzerland,7,9,0,11,2,0.09195108172820904,4,quinto
+France v Yugoslavia,6,0,0,0,2,0.8560570247410856,4,quinto
+Germany v Ghana,5,3,0,12,2,0.004750636565944837,4,quinto
+Germany v Saudi Arabia,8,3,0,6,1,0.6681405558320265,4,quinto
+Germany v Uruguay,5,4,0,5,1,0.13878944164146345,4,quinto
+Haiti v Poland,7,1,0,4,1,0.6830926555202426,4,quinto
+Honduras v Switzerland,3,6,0,12,2,-0.49581596979547204,4,quinto
+Hungary v South Korea,9,0,0,0,1,1.257027298902994,4,quinto
+Hungary v Uruguay,6,0,0,0,1,0.7347287737191259,4,quinto
+Hungary v Wales,5,0,1,0,2,1.1016506064080034,4,quinto
+Iran v Peru,5,0,0,4,1,0.3856828352550545,4,quinto
+Italy v Paraguay,4,4,0,12,2,-0.220138068352735,4,quinto
+Italy v Slovakia,5,8,0,6,1,-0.10810395197212759,4,quinto
+Italy v Sweden,6,1,0,3,2,0.6740580056649417,4,quinto
+Mexico v Sweden,6,5,0,6,2,0.3396913970166263,4,quinto
+Mexico v Yugoslavia,5,0,0,0,1,0.5606292653245033,4,quinto
+Morocco v West Germany,4,2,0,5,2,0.18759657731691487,4,quinto
+Netherlands v Republic of Ireland,4,2,0,8,2,0.05638675476482823,4,quinto
+Netherlands v Scotland,5,1,0,2,1,0.42236685376572164,4,quinto
+Netherlands v South Korea,5,2,0,6,1,0.19663122717221565,4,quinto
+Netherlands v Switzerland,5,0,0,0,1,0.5606292653245033,4,quinto
+New Zealand v Scotland,7,0,0,4,1,0.7338818520442998,4,quinto
+Nigeria v Spain,5,4,0,6,1,0.09505283412410123,4,quinto
+Northern Ireland v Spain,4,5,1,8,2,0.323712255254197,4,quinto
+Paraguay v Scotland,5,0,0,0,1,0.5606292653245033,4,quinto
+Paraguay v Yugoslavia,6,0,0,0,1,0.7347287737191259,4,quinto
+Peru v Poland,7,5,0,8,2,0.42631769037652456,4,quinto
+Poland v Portugal,5,7,0,10,2,-0.1109329344955596,4,quinto
+Portugal v Spain,7,4,1,12,2,0.7218535468926732,4,quinto
+Russia v Saudi Arabia,5,2,0,6,1,0.19663122717221565,4,quinto
+Scotland v Uruguay,7,5,1,4,2,1.0209572105075138,4,quinto
+Scotland v Yugoslavia,4,5,0,2,2,0.16643881029682986,4,quinto
+Senegal v Uruguay,6,12,0,6,1,-0.1371612296737338,4,quinto
+South Africa v Spain,5,4,0,6,1,0.09505283412410123,4,quinto
+Spain v Sweden,5,1,0,3,2,0.49995849727031905,4,quinto
+Spain v Uruguay,4,8,0,8,2,-0.24834842437951496,4,quinto
+Spain v West Germany,6,10,0,6,2,0.08574541439634023,4,quinto
+Switzerland v West Germany,8,0,0,0,2,1.204256041530331,4,quinto
+United Arab Emirates v West Germany,6,3,0,4,1,0.4074147540775055,4,quinto
+Yugoslavia v Zaire,9,1,1,2,1,1.5384579774057527,4,quinto

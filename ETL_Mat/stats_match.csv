@@ -1,0 +1,901 @@
+match_name,home_team_id,home_team_name,home_team_code,away_team_id,away_team_name,away_team_code,score,home_team_score,away_team_score,home_team_score_margin,away_team_score_margin,home_team_score_penalties,away_team_score_penalties,home_team_win,away_team_win,yellow_card,red_card,substitutions
+France v Mexico,T-28,France,FRA,T-44,Mexico,MEX,4–1,4,1,3,-3,0,0,1,0,6,0,5
+Belgium v United States,T-06,Belgium,BEL,T-79,United States,USA,0–3,0,3,-3,3,0,0,0,1,0,0,0
+Brazil v Yugoslavia,T-09,Brazil,BRA,T-83,Yugoslavia,YUG,1–2,1,2,-1,1,0,0,0,1,0,0,0
+Peru v Romania,T-54,Peru,PER,T-58,Romania,ROU,1–3,1,3,-2,2,0,0,0,1,0,1,0
+Argentina v France,T-03,Argentina,ARG,T-28,France,FRA,1–0,1,0,1,-1,0,0,1,0,1,0,3
+Chile v Mexico,T-13,Chile,CHL,T-44,Mexico,MEX,3–0,3,0,3,-3,0,0,1,0,0,0,0
+Bolivia v Yugoslavia,T-07,Bolivia,BOL,T-83,Yugoslavia,YUG,0–4,0,4,-4,4,0,0,0,1,0,0,0
+Paraguay v United States,T-53,Paraguay,PRY,T-79,United States,USA,0–3,0,3,-3,3,0,0,0,1,0,0,0
+Peru v Uruguay,T-54,Peru,PER,T-80,Uruguay,URY,0–1,0,1,-1,1,0,0,0,1,0,0,0
+Chile v France,T-13,Chile,CHL,T-28,France,FRA,1–0,1,0,1,-1,0,0,1,0,0,0,0
+Argentina v Mexico,T-03,Argentina,ARG,T-44,Mexico,MEX,6–3,6,3,3,-3,0,0,1,0,7,0,11
+Bolivia v Brazil,T-07,Bolivia,BOL,T-09,Brazil,BRA,0–4,0,4,-4,4,0,0,0,1,0,0,0
+Belgium v Paraguay,T-06,Belgium,BEL,T-53,Paraguay,PRY,0–1,0,1,-1,1,0,0,0,1,2,0,2
+Romania v Uruguay,T-58,Romania,ROU,T-80,Uruguay,URY,0–4,0,4,-4,4,0,0,0,1,0,0,0
+Argentina v Chile,T-03,Argentina,ARG,T-13,Chile,CHL,3–1,3,1,2,-2,0,0,1,0,0,0,0
+Argentina v United States,T-03,Argentina,ARG,T-79,United States,USA,6–1,6,1,5,-5,0,0,1,0,0,0,0
+Uruguay v Yugoslavia,T-80,Uruguay,URY,T-83,Yugoslavia,YUG,6–1,6,1,5,-5,0,0,1,0,0,0,0
+Argentina v Uruguay,T-03,Argentina,ARG,T-80,Uruguay,URY,2–4,2,4,-2,2,0,0,0,1,0,0,0
+Austria v France,T-05,Austria,AUT,T-28,France,FRA,3–2,3,2,1,-1,0,0,1,0,1,0,4
+Czechoslovakia v Romania,T-20,Czechoslovakia,CSK,T-58,Romania,ROU,2–1,2,1,1,-1,0,0,1,0,0,0,0
+Belgium v Germany,T-06,Belgium,BEL,T-29,Germany,DEU,2–5,2,5,-3,3,0,0,0,1,3,0,4
+Egypt v Hungary,T-25,Egypt,EGY,T-34,Hungary,HUN,2–4,2,4,-2,2,0,0,0,1,0,1,0
+Italy v United States,T-39,Italy,ITA,T-79,United States,USA,7–1,7,1,6,-6,0,0,1,0,7,3,8
+Brazil v Spain,T-09,Brazil,BRA,T-70,Spain,ESP,1–3,1,3,-2,2,0,0,0,1,2,0,3
+Argentina v Sweden,T-03,Argentina,ARG,T-71,Sweden,SWE,2–3,2,3,-1,1,0,0,0,1,5,0,6
+Netherlands v Switzerland,T-46,Netherlands,NLD,T-72,Switzerland,CHE,2–3,2,3,-1,1,0,0,0,1,0,0,0
+Austria v Hungary,T-05,Austria,AUT,T-34,Hungary,HUN,2–1,2,1,1,-1,0,0,1,0,0,0,0
+Czechoslovakia v Switzerland,T-20,Czechoslovakia,CSK,T-72,Switzerland,CHE,3–2,3,2,1,-1,0,0,1,0,0,0,0
+Germany v Sweden,T-29,Germany,DEU,T-71,Sweden,SWE,2–1,2,1,1,-1,0,0,1,0,11,2,12
+Italy v Spain,T-39,Italy,ITA,T-70,Spain,ESP,1–1,1,1,0,0,0,0,0,0,2,0,4
+Italy v Spain,T-39,Italy,ITA,T-70,Spain,ESP,1–0,1,0,1,-1,0,0,1,0,2,0,4
+Czechoslovakia v Germany,T-20,Czechoslovakia,CSK,T-29,Germany,DEU,3–1,3,1,2,-2,0,0,1,0,0,0,0
+Austria v Italy,T-05,Austria,AUT,T-39,Italy,ITA,0–1,0,1,-1,1,0,0,0,1,6,0,13
+Austria v Germany,T-05,Austria,AUT,T-29,Germany,DEU,2–3,2,3,-1,1,0,0,0,1,0,0,0
+Czechoslovakia v Italy,T-20,Czechoslovakia,CSK,T-39,Italy,ITA,1–2,1,2,-1,1,0,0,0,1,4,0,4
+Germany v Switzerland,T-29,Germany,DEU,T-72,Switzerland,CHE,1–1,1,1,0,0,0,0,0,0,0,1,0
+Cuba v Romania,T-18,Cuba,CUB,T-58,Romania,ROU,3–3,3,3,0,0,0,0,0,0,0,0,0
+Belgium v France,T-06,Belgium,BEL,T-28,France,FRA,1–3,1,3,-2,2,0,0,0,1,5,0,5
+Dutch East Indies v Hungary,T-22,Dutch East Indies,IDN,T-34,Hungary,HUN,0–6,0,6,-6,6,0,0,0,1,0,0,0
+Italy v Norway,T-39,Italy,ITA,T-51,Norway,NOR,2–1,2,1,1,-1,0,0,1,0,9,1,11
+Brazil v Poland,T-09,Brazil,BRA,T-55,Poland,POL,6–5,6,5,1,-1,0,0,1,0,7,0,10
+Czechoslovakia v Netherlands,T-20,Czechoslovakia,CSK,T-46,Netherlands,NLD,3–0,3,0,3,-3,0,0,1,0,0,0,0
+Cuba v Romania,T-18,Cuba,CUB,T-58,Romania,ROU,2–1,2,1,1,-1,0,0,1,0,0,0,0
+Germany v Switzerland,T-29,Germany,DEU,T-72,Switzerland,CHE,2–4,2,4,-2,2,0,0,0,1,0,1,0
+Brazil v Czechoslovakia,T-09,Brazil,BRA,T-20,Czechoslovakia,CSK,1–1,1,1,0,0,0,0,0,0,1,3,3
+Hungary v Switzerland,T-34,Hungary,HUN,T-72,Switzerland,CHE,2–0,2,0,2,-2,0,0,1,0,0,0,0
+France v Italy,T-28,France,FRA,T-39,Italy,ITA,1–3,1,3,-2,2,0,0,0,1,15,1,18
+Cuba v Sweden,T-18,Cuba,CUB,T-71,Sweden,SWE,0–8,0,8,-8,8,0,0,0,1,0,0,0
+Brazil v Czechoslovakia,T-09,Brazil,BRA,T-20,Czechoslovakia,CSK,2–1,2,1,1,-1,0,0,1,0,1,3,3
+Hungary v Sweden,T-34,Hungary,HUN,T-71,Sweden,SWE,5–1,5,1,4,-4,0,0,1,0,0,0,0
+Brazil v Italy,T-09,Brazil,BRA,T-39,Italy,ITA,1–2,1,2,-1,1,0,0,0,1,2,0,3
+Brazil v Sweden,T-09,Brazil,BRA,T-71,Sweden,SWE,4–2,4,2,2,-2,0,0,1,0,8,0,10
+Hungary v Italy,T-34,Hungary,HUN,T-39,Italy,ITA,2–4,2,4,-2,2,0,0,0,1,2,0,4
+Brazil v Mexico,T-09,Brazil,BRA,T-44,Mexico,MEX,4–0,4,0,4,-4,0,0,1,0,10,0,12
+Switzerland v Yugoslavia,T-72,Switzerland,CHE,T-83,Yugoslavia,YUG,0–3,0,3,-3,3,0,0,0,1,0,0,0
+Chile v England,T-13,Chile,CHL,T-27,England,ENG,0–2,0,2,-2,2,0,0,0,1,0,0,0
+Spain v United States,T-70,Spain,ESP,T-79,United States,USA,3–1,3,1,2,-2,0,0,1,0,0,0,0
+Italy v Sweden,T-39,Italy,ITA,T-71,Sweden,SWE,2–3,2,3,-1,1,0,0,0,1,0,0,0
+Brazil v Switzerland,T-09,Brazil,BRA,T-72,Switzerland,CHE,2–2,2,2,0,0,0,0,0,0,4,0,6
+Mexico v Yugoslavia,T-44,Mexico,MEX,T-83,Yugoslavia,YUG,1–4,1,4,-3,3,0,0,0,1,0,0,0
+Chile v Spain,T-13,Chile,CHL,T-70,Spain,ESP,0–2,0,2,-2,2,0,0,0,1,3,0,6
+England v United States,T-27,England,ENG,T-79,United States,USA,0–1,0,1,-1,1,0,0,0,1,0,0,0
+Paraguay v Sweden,T-53,Paraguay,PRY,T-71,Sweden,SWE,2–2,2,2,0,0,0,0,0,0,8,0,6
+Brazil v Yugoslavia,T-09,Brazil,BRA,T-83,Yugoslavia,YUG,2–0,2,0,2,-2,0,0,1,0,2,0,0
+Chile v United States,T-13,Chile,CHL,T-79,United States,USA,5–2,5,2,3,-3,0,0,1,0,0,0,0
+England v Spain,T-27,England,ENG,T-70,Spain,ESP,0–1,0,1,-1,1,0,0,0,1,1,0,4
+Italy v Paraguay,T-39,Italy,ITA,T-53,Paraguay,PRY,2–0,2,0,2,-2,0,0,1,0,2,0,6
+Bolivia v Uruguay,T-07,Bolivia,BOL,T-80,Uruguay,URY,0–8,0,8,-8,8,0,0,0,1,0,0,0
+Mexico v Switzerland,T-44,Mexico,MEX,T-72,Switzerland,CHE,1–2,1,2,-1,1,0,0,0,1,0,0,0
+Brazil v Sweden,T-09,Brazil,BRA,T-71,Sweden,SWE,7–1,7,1,6,-6,0,0,1,0,8,0,10
+Spain v Uruguay,T-70,Spain,ESP,T-80,Uruguay,URY,2–2,2,2,0,0,0,0,0,0,4,0,4
+Brazil v Spain,T-09,Brazil,BRA,T-70,Spain,ESP,6–1,6,1,5,-5,0,0,1,0,1,0,4
+Sweden v Uruguay,T-71,Sweden,SWE,T-80,Uruguay,URY,2–3,2,3,-1,1,0,0,0,1,0,0,0
+Spain v Sweden,T-70,Spain,ESP,T-71,Sweden,SWE,1–3,1,3,-2,2,0,0,0,1,0,0,0
+Brazil v Uruguay,T-09,Brazil,BRA,T-80,Uruguay,URY,1–2,1,2,-1,1,0,0,0,1,0,0,0
+Brazil v Mexico,T-09,Brazil,BRA,T-44,Mexico,MEX,5–0,5,0,5,-5,0,0,1,0,10,0,12
+France v Yugoslavia,T-28,France,FRA,T-83,Yugoslavia,YUG,0–1,0,1,-1,1,0,0,0,1,0,0,0
+Austria v Scotland,T-05,Austria,AUT,T-61,Scotland,SCO,1–0,1,0,1,-1,0,0,1,0,0,0,0
+Czechoslovakia v Uruguay,T-20,Czechoslovakia,CSK,T-80,Uruguay,URY,0–2,0,2,-2,2,0,0,0,1,0,0,0
+Italy v Switzerland,T-39,Italy,ITA,T-72,Switzerland,CHE,1–2,1,2,-1,1,0,0,0,1,0,0,0
+Hungary v South Korea,T-34,Hungary,HUN,T-68,South Korea,KOR,9–0,9,0,9,-9,0,0,1,0,0,0,0
+Turkey v West Germany,T-76,Turkey,TUR,T-82,West Germany,DEU,1–4,1,4,-3,3,0,0,0,1,0,0,0
+Belgium v England,T-06,Belgium,BEL,T-27,England,ENG,4–4,4,4,0,0,0,0,0,0,3,0,8
+Scotland v Uruguay,T-61,Scotland,SCO,T-80,Uruguay,URY,0–7,0,7,-7,7,0,0,0,1,0,0,0
+Brazil v Yugoslavia,T-09,Brazil,BRA,T-83,Yugoslavia,YUG,1–1,1,1,0,0,0,0,0,0,2,0,0
+Austria v Czechoslovakia,T-05,Austria,AUT,T-20,Czechoslovakia,CSK,5–0,5,0,5,-5,0,0,1,0,5,0,4
+France v Mexico,T-28,France,FRA,T-44,Mexico,MEX,3–2,3,2,1,-1,0,0,1,0,6,0,5
+Hungary v West Germany,T-34,Hungary,HUN,T-82,West Germany,DEU,8–3,8,3,5,-5,0,0,1,0,0,0,0
+South Korea v Turkey,T-68,South Korea,KOR,T-76,Turkey,TUR,0–7,0,7,-7,7,0,0,0,1,0,0,0
+Belgium v Italy,T-06,Belgium,BEL,T-39,Italy,ITA,1–4,1,4,-3,3,0,0,0,1,0,0,0
+England v Switzerland,T-27,England,ENG,T-72,Switzerland,CHE,2–0,2,0,2,-2,0,0,1,0,0,0,0
+Turkey v West Germany,T-76,Turkey,TUR,T-82,West Germany,DEU,2–7,2,7,-5,5,0,0,0,1,0,0,0
+Italy v Switzerland,T-39,Italy,ITA,T-72,Switzerland,CHE,1–4,1,4,-3,3,0,0,0,1,0,0,0
+Austria v Switzerland,T-05,Austria,AUT,T-72,Switzerland,CHE,7–5,7,5,2,-2,0,0,1,0,0,0,0
+England v Uruguay,T-27,England,ENG,T-80,Uruguay,URY,2–4,2,4,-2,2,0,0,0,1,2,0,6
+Brazil v Hungary,T-09,Brazil,BRA,T-34,Hungary,HUN,2–4,2,4,-2,2,0,0,0,1,0,1,0
+West Germany v Yugoslavia,T-82,West Germany,DEU,T-83,Yugoslavia,YUG,2–0,2,0,2,-2,0,0,1,0,1,0,4
+Hungary v Uruguay,T-34,Hungary,HUN,T-80,Uruguay,URY,4–2,4,2,2,-2,0,0,1,0,0,0,0
+Austria v West Germany,T-05,Austria,AUT,T-82,West Germany,DEU,1–6,1,6,-5,5,0,0,0,1,2,0,2
+Austria v Uruguay,T-05,Austria,AUT,T-80,Uruguay,URY,3–1,3,1,2,-2,0,0,1,0,0,0,0
+Hungary v West Germany,T-34,Hungary,HUN,T-82,West Germany,DEU,2–3,2,3,-1,1,0,0,0,1,0,0,0
+Mexico v Sweden,T-44,Mexico,MEX,T-71,Sweden,SWE,0–3,0,3,-3,3,0,0,0,1,0,0,0
+Argentina v West Germany,T-03,Argentina,ARG,T-82,West Germany,DEU,1–3,1,3,-2,2,0,0,0,1,6,0,3
+Czechoslovakia v Northern Ireland,T-20,Czechoslovakia,CSK,T-50,Northern Ireland,NIR,0–1,0,1,-1,1,0,0,0,1,0,1,0
+France v Paraguay,T-28,France,FRA,T-53,Paraguay,PRY,7–3,7,3,4,-4,0,0,1,0,5,0,6
+Scotland v Yugoslavia,T-61,Scotland,SCO,T-83,Yugoslavia,YUG,1–1,1,1,0,0,0,0,0,0,0,0,0
+Hungary v Wales,T-34,Hungary,HUN,T-81,Wales,WAL,1–1,1,1,0,0,0,0,0,0,0,0,0
+Austria v Brazil,T-05,Austria,AUT,T-09,Brazil,BRA,0–3,0,3,-3,3,0,0,0,1,0,0,4
+England v Soviet Union,T-27,England,ENG,T-69,Soviet Union,SUN,2–2,2,2,0,0,0,0,0,0,0,0,0
+Argentina v Northern Ireland,T-03,Argentina,ARG,T-50,Northern Ireland,NIR,3–1,3,1,2,-2,0,0,1,0,0,0,0
+Czechoslovakia v West Germany,T-20,Czechoslovakia,CSK,T-82,West Germany,DEU,2–2,2,2,0,0,0,0,0,0,0,0,0
+Paraguay v Scotland,T-53,Paraguay,PRY,T-61,Scotland,SCO,3–2,3,2,1,-1,0,0,1,0,0,0,0
+France v Yugoslavia,T-28,France,FRA,T-83,Yugoslavia,YUG,2–3,2,3,-1,1,0,0,0,1,0,0,0
+Mexico v Wales,T-44,Mexico,MEX,T-81,Wales,WAL,1–1,1,1,0,0,0,0,0,0,0,0,0
+Brazil v England,T-09,Brazil,BRA,T-27,England,ENG,0–0,0,0,0,0,0,0,0,0,1,0,3
+Austria v Soviet Union,T-05,Austria,AUT,T-69,Soviet Union,SUN,0–2,0,2,-2,2,0,0,0,1,0,0,0
+Hungary v Sweden,T-34,Hungary,HUN,T-71,Sweden,SWE,1–2,1,2,-1,1,0,0,0,1,0,0,0
+Sweden v Wales,T-71,Sweden,SWE,T-81,Wales,WAL,0–0,0,0,0,0,0,0,0,0,0,0,0
+Argentina v Czechoslovakia,T-03,Argentina,ARG,T-20,Czechoslovakia,CSK,1–6,1,6,-5,5,0,0,0,1,0,0,0
+Northern Ireland v West Germany,T-50,Northern Ireland,NIR,T-82,West Germany,DEU,2–2,2,2,0,0,0,0,0,0,0,0,0
+France v Scotland,T-28,France,FRA,T-61,Scotland,SCO,2–1,2,1,1,-1,0,0,1,0,0,0,0
+Paraguay v Yugoslavia,T-53,Paraguay,PRY,T-83,Yugoslavia,YUG,3–3,3,3,0,0,0,0,0,0,0,0,0
+Hungary v Mexico,T-34,Hungary,HUN,T-44,Mexico,MEX,4–0,4,0,4,-4,0,0,1,0,0,0,0
+Brazil v Soviet Union,T-09,Brazil,BRA,T-69,Soviet Union,SUN,2–0,2,0,2,-2,0,0,1,0,0,0,3
+Austria v England,T-05,Austria,AUT,T-27,England,ENG,2–2,2,2,0,0,0,0,0,0,0,0,0
+Czechoslovakia v Northern Ireland,T-20,Czechoslovakia,CSK,T-50,Northern Ireland,NIR,1–2,1,2,-1,1,0,0,0,1,0,1,0
+Hungary v Wales,T-34,Hungary,HUN,T-81,Wales,WAL,1–2,1,2,-1,1,0,0,0,1,0,1,0
+England v Soviet Union,T-27,England,ENG,T-69,Soviet Union,SUN,0–1,0,1,-1,1,0,0,0,1,0,0,0
+Brazil v Wales,T-09,Brazil,BRA,T-81,Wales,WAL,1–0,1,0,1,-1,0,0,1,0,0,0,0
+France v Northern Ireland,T-28,France,FRA,T-50,Northern Ireland,NIR,4–0,4,0,4,-4,0,0,1,0,2,0,3
+Soviet Union v Sweden,T-69,Soviet Union,SUN,T-71,Sweden,SWE,0–2,0,2,-2,2,0,0,0,1,0,0,0
+West Germany v Yugoslavia,T-82,West Germany,DEU,T-83,Yugoslavia,YUG,1–0,1,0,1,-1,0,0,1,0,1,0,4
+Brazil v France,T-09,Brazil,BRA,T-28,France,FRA,5–2,5,2,3,-3,0,0,1,0,13,1,15
+Sweden v West Germany,T-71,Sweden,SWE,T-82,West Germany,DEU,3–1,3,1,2,-2,0,0,1,0,0,1,0
+France v West Germany,T-28,France,FRA,T-82,West Germany,DEU,6–3,6,3,3,-3,0,0,1,0,2,0,3
+Brazil v Sweden,T-09,Brazil,BRA,T-71,Sweden,SWE,5–2,5,2,3,-3,0,0,1,0,8,0,10
+Colombia v Uruguay,T-15,Colombia,COL,T-80,Uruguay,URY,1–2,1,2,-1,1,0,0,0,1,0,0,0
+Chile v Switzerland,T-13,Chile,CHL,T-72,Switzerland,CHE,3–1,3,1,2,-2,0,0,1,0,9,1,6
+Brazil v Mexico,T-09,Brazil,BRA,T-44,Mexico,MEX,2–0,2,0,2,-2,0,0,1,0,10,0,12
+Argentina v Bulgaria,T-03,Argentina,ARG,T-10,Bulgaria,BGR,1–0,1,0,1,-1,0,0,1,0,11,1,8
+Soviet Union v Yugoslavia,T-69,Soviet Union,SUN,T-83,Yugoslavia,YUG,2–0,2,0,2,-2,0,0,1,0,0,0,0
+Italy v West Germany,T-39,Italy,ITA,T-82,West Germany,DEU,0–0,0,0,0,0,0,0,0,0,0,0,0
+Czechoslovakia v Spain,T-20,Czechoslovakia,CSK,T-70,Spain,ESP,1–0,1,0,1,-1,0,0,1,0,0,0,0
+England v Hungary,T-27,England,ENG,T-34,Hungary,HUN,1–2,1,2,-1,1,0,0,0,1,0,0,0
+Uruguay v Yugoslavia,T-80,Uruguay,URY,T-83,Yugoslavia,YUG,1–3,1,3,-2,2,0,0,0,1,0,2,0
+Chile v Italy,T-13,Chile,CHL,T-39,Italy,ITA,2–0,2,0,2,-2,0,0,1,0,0,2,0
+Brazil v Czechoslovakia,T-09,Brazil,BRA,T-20,Czechoslovakia,CSK,0–0,0,0,0,0,0,0,0,0,1,3,3
+Argentina v England,T-03,Argentina,ARG,T-27,England,ENG,1–3,1,3,-2,2,0,0,0,1,3,1,0
+Colombia v Soviet Union,T-15,Colombia,COL,T-69,Soviet Union,SUN,4–4,4,4,0,0,0,0,0,0,0,0,0
+Switzerland v West Germany,T-72,Switzerland,CHE,T-82,West Germany,DEU,1–2,1,2,-1,1,0,0,0,1,0,0,0
+Mexico v Spain,T-44,Mexico,MEX,T-70,Spain,ESP,0–1,0,1,-1,1,0,0,0,1,0,0,0
+Bulgaria v Hungary,T-10,Bulgaria,BGR,T-34,Hungary,HUN,1–6,1,6,-5,5,0,0,0,1,0,0,0
+Soviet Union v Uruguay,T-69,Soviet Union,SUN,T-80,Uruguay,URY,2–1,2,1,1,-1,0,0,1,0,6,0,4
+Chile v West Germany,T-13,Chile,CHL,T-82,West Germany,DEU,0–2,0,2,-2,2,0,0,0,1,5,1,7
+Brazil v Spain,T-09,Brazil,BRA,T-70,Spain,ESP,2–1,2,1,1,-1,0,0,1,0,1,0,4
+Argentina v Hungary,T-03,Argentina,ARG,T-34,Hungary,HUN,0–0,0,0,0,0,0,0,0,0,0,0,0
+Colombia v Yugoslavia,T-15,Colombia,COL,T-83,Yugoslavia,YUG,0–5,0,5,-5,5,0,0,0,1,1,0,4
+Italy v Switzerland,T-39,Italy,ITA,T-72,Switzerland,CHE,3–0,3,0,3,-3,0,0,1,0,0,0,0
+Czechoslovakia v Mexico,T-20,Czechoslovakia,CSK,T-44,Mexico,MEX,1–3,1,3,-2,2,0,0,0,1,0,0,0
+Bulgaria v England,T-10,Bulgaria,BGR,T-27,England,ENG,0–0,0,0,0,0,0,0,0,0,0,0,0
+Brazil v England,T-09,Brazil,BRA,T-27,England,ENG,3–1,3,1,2,-2,0,0,1,0,1,0,3
+Chile v Soviet Union,T-13,Chile,CHL,T-69,Soviet Union,SUN,2–1,2,1,1,-1,0,0,1,0,0,0,0
+Czechoslovakia v Hungary,T-20,Czechoslovakia,CSK,T-34,Hungary,HUN,1–0,1,0,1,-1,0,0,1,0,0,0,0
+West Germany v Yugoslavia,T-82,West Germany,DEU,T-83,Yugoslavia,YUG,0–1,0,1,-1,1,0,0,0,1,4,0,4
+Brazil v Chile,T-09,Brazil,BRA,T-13,Chile,CHL,4–2,4,2,2,-2,0,0,1,0,16,0,17
+Czechoslovakia v Yugoslavia,T-20,Czechoslovakia,CSK,T-83,Yugoslavia,YUG,3–1,3,1,2,-2,0,0,1,0,0,0,0
+Chile v Yugoslavia,T-13,Chile,CHL,T-83,Yugoslavia,YUG,1–0,1,0,1,-1,0,0,1,0,0,0,0
+Brazil v Czechoslovakia,T-09,Brazil,BRA,T-20,Czechoslovakia,CSK,3–1,3,1,2,-2,0,0,1,0,1,3,3
+England v Uruguay,T-27,England,ENG,T-80,Uruguay,URY,0–0,0,0,0,0,0,0,0,0,0,0,0
+Switzerland v West Germany,T-72,Switzerland,CHE,T-82,West Germany,DEU,0–5,0,5,-5,5,0,0,0,1,0,0,0
+Brazil v Bulgaria,T-09,Brazil,BRA,T-10,Bulgaria,BGR,2–0,2,0,2,-2,0,0,1,0,0,0,0
+North Korea v Soviet Union,T-49,North Korea,PRK,T-69,Soviet Union,SUN,0–3,0,3,-3,3,0,0,0,1,1,0,0
+France v Mexico,T-28,France,FRA,T-44,Mexico,MEX,1–1,1,1,0,0,0,0,0,0,6,0,5
+Argentina v Spain,T-03,Argentina,ARG,T-70,Spain,ESP,2–1,2,1,1,-1,0,0,1,0,0,0,0
+Hungary v Portugal,T-34,Hungary,HUN,T-56,Portugal,PRT,1–3,1,3,-2,2,0,0,0,1,0,0,0
+Chile v Italy,T-13,Chile,CHL,T-39,Italy,ITA,0–2,0,2,-2,2,0,0,0,1,5,0,6
+France v Uruguay,T-28,France,FRA,T-80,Uruguay,URY,1–2,1,2,-1,1,0,0,0,1,12,1,12
+Spain v Switzerland,T-70,Spain,ESP,T-72,Switzerland,CHE,2–1,2,1,1,-1,0,0,1,0,12,0,10
+Brazil v Hungary,T-09,Brazil,BRA,T-34,Hungary,HUN,1–3,1,3,-2,2,0,0,0,1,0,1,0
+Chile v North Korea,T-13,Chile,CHL,T-49,North Korea,PRK,1–1,1,1,0,0,0,0,0,0,0,0,0
+Argentina v West Germany,T-03,Argentina,ARG,T-82,West Germany,DEU,0–0,0,0,0,0,0,0,0,0,6,0,3
+Bulgaria v Portugal,T-10,Bulgaria,BGR,T-56,Portugal,PRT,0–3,0,3,-3,3,0,0,0,1,0,0,0
+Italy v Soviet Union,T-39,Italy,ITA,T-69,Soviet Union,SUN,0–1,0,1,-1,1,0,0,0,1,0,0,0
+England v Mexico,T-27,England,ENG,T-44,Mexico,MEX,2–0,2,0,2,-2,0,0,1,0,0,0,0
+Mexico v Uruguay,T-44,Mexico,MEX,T-80,Uruguay,URY,0–0,0,0,0,0,0,0,0,0,3,0,5
+Argentina v Switzerland,T-03,Argentina,ARG,T-72,Switzerland,CHE,2–0,2,0,2,-2,0,0,1,0,5,0,6
+Brazil v Portugal,T-09,Brazil,BRA,T-56,Portugal,PRT,1–3,1,3,-2,2,0,0,0,1,7,0,6
+Italy v North Korea,T-39,Italy,ITA,T-49,North Korea,PRK,0–1,0,1,-1,1,0,0,0,1,0,0,0
+England v France,T-27,England,ENG,T-28,France,FRA,2–0,2,0,2,-2,0,0,1,0,1,0,3
+Spain v West Germany,T-70,Spain,ESP,T-82,West Germany,DEU,1–2,1,2,-1,1,0,0,0,1,5,0,3
+Bulgaria v Hungary,T-10,Bulgaria,BGR,T-34,Hungary,HUN,1–3,1,3,-2,2,0,0,0,1,0,0,0
+Chile v Soviet Union,T-13,Chile,CHL,T-69,Soviet Union,SUN,1–2,1,2,-1,1,0,0,0,1,0,0,0
+Argentina v England,T-03,Argentina,ARG,T-27,England,ENG,0–1,0,1,-1,1,0,0,0,1,3,1,0
+North Korea v Portugal,T-49,North Korea,PRK,T-56,Portugal,PRT,3–5,3,5,-2,2,0,0,0,1,4,0,6
+Hungary v Soviet Union,T-34,Hungary,HUN,T-69,Soviet Union,SUN,1–2,1,2,-1,1,0,0,0,1,0,0,4
+Uruguay v West Germany,T-80,Uruguay,URY,T-82,West Germany,DEU,0–4,0,4,-4,4,0,0,0,1,4,2,4
+Soviet Union v West Germany,T-69,Soviet Union,SUN,T-82,West Germany,DEU,1–2,1,2,-1,1,0,0,0,1,1,1,0
+England v Portugal,T-27,England,ENG,T-56,Portugal,PRT,2–1,2,1,1,-1,0,0,1,0,4,1,6
+Portugal v Soviet Union,T-56,Portugal,PRT,T-69,Soviet Union,SUN,2–1,2,1,1,-1,0,0,1,0,0,0,0
+England v West Germany,T-27,England,ENG,T-82,West Germany,DEU,4–2,4,2,2,-2,0,0,1,0,0,0,0
+Mexico v Soviet Union,T-44,Mexico,MEX,T-69,Soviet Union,SUN,0–0,0,0,0,0,0,0,0,0,5,0,3
+Israel v Uruguay,T-38,Israel,ISR,T-80,Uruguay,URY,0–2,0,2,-2,2,0,0,0,1,0,0,3
+England v Romania,T-27,England,ENG,T-58,Romania,ROU,1–0,1,0,1,-1,0,0,1,0,0,0,3
+Bulgaria v Peru,T-10,Bulgaria,BGR,T-54,Peru,PER,2–3,2,3,-1,1,0,0,0,1,0,0,4
+Belgium v El Salvador,T-06,Belgium,BEL,T-26,El Salvador,SLV,3–0,3,0,3,-3,0,0,1,0,2,0,6
+Italy v Sweden,T-39,Italy,ITA,T-71,Sweden,SWE,1–0,1,0,1,-1,0,0,1,0,1,0,3
+Brazil v Czechoslovakia,T-09,Brazil,BRA,T-20,Czechoslovakia,CSK,4–1,4,1,3,-3,0,0,1,0,1,3,3
+Morocco v West Germany,T-45,Morocco,MAR,T-82,West Germany,DEU,1–2,1,2,-1,1,0,0,0,1,0,0,4
+Belgium v Soviet Union,T-06,Belgium,BEL,T-69,Soviet Union,SUN,1–4,1,4,-3,3,0,0,0,1,1,0,6
+Italy v Uruguay,T-39,Italy,ITA,T-80,Uruguay,URY,0–0,0,0,0,0,0,0,0,0,0,0,2
+Czechoslovakia v Romania,T-20,Czechoslovakia,CSK,T-58,Romania,ROU,1–2,1,2,-1,1,0,0,0,1,2,0,4
+Morocco v Peru,T-45,Morocco,MAR,T-54,Peru,PER,0–3,0,3,-3,3,0,0,0,1,0,0,4
+El Salvador v Mexico,T-26,El Salvador,SLV,T-44,Mexico,MEX,0–4,0,4,-4,4,0,0,0,1,4,0,4
+Israel v Sweden,T-38,Israel,ISR,T-71,Sweden,SWE,1–1,1,1,0,0,0,0,0,0,3,0,2
+Brazil v England,T-09,Brazil,BRA,T-27,England,ENG,1–0,1,0,1,-1,0,0,1,0,1,0,3
+Bulgaria v West Germany,T-10,Bulgaria,BGR,T-82,West Germany,DEU,2–5,2,5,-3,3,0,0,0,1,0,0,4
+El Salvador v Soviet Union,T-26,El Salvador,SLV,T-69,Soviet Union,SUN,0–2,0,2,-2,2,0,0,0,1,1,0,4
+Sweden v Uruguay,T-71,Sweden,SWE,T-80,Uruguay,URY,1-0,1,0,1,-1,0,0,1,0,1,0,7
+Brazil v Romania,T-09,Brazil,BRA,T-58,Romania,ROU,3–2,3,2,1,-1,0,0,1,0,2,0,4
+Peru v West Germany,T-54,Peru,PER,T-82,West Germany,DEU,1–3,1,3,-2,2,0,0,0,1,0,0,4
+Belgium v Mexico,T-06,Belgium,BEL,T-44,Mexico,MEX,0–1,0,1,-1,1,0,0,0,1,5,0,2
+Israel v Italy,T-38,Israel,ISR,T-39,Italy,ITA,0–0,0,0,0,0,0,0,0,0,3,0,2
+Czechoslovakia v England,T-20,Czechoslovakia,CSK,T-27,England,ENG,0–1,0,1,-1,1,0,0,0,1,2,0,6
+Bulgaria v Morocco,T-10,Bulgaria,BGR,T-45,Morocco,MAR,1–1,1,1,0,0,0,0,0,0,0,0,4
+Brazil v Peru,T-09,Brazil,BRA,T-54,Peru,PER,4–2,4,2,2,-2,0,0,1,0,0,0,8
+Italy v Mexico,T-39,Italy,ITA,T-44,Mexico,MEX,4–1,4,1,3,-3,0,0,1,0,5,0,7
+Soviet Union v Uruguay,T-69,Soviet Union,SUN,T-80,Uruguay,URY,0–1,0,1,-1,1,0,0,0,1,6,0,4
+England v West Germany,T-27,England,ENG,T-82,West Germany,DEU,2–3,2,3,-1,1,0,0,0,1,6,0,10
+Brazil v Uruguay,T-09,Brazil,BRA,T-80,Uruguay,URY,3–1,3,1,2,-2,0,0,1,0,4,0,1
+Italy v West Germany,T-39,Italy,ITA,T-82,West Germany,DEU,4–3,4,3,1,-1,0,0,1,0,11,0,11
+Uruguay v West Germany,T-80,Uruguay,URY,T-82,West Germany,DEU,0–1,0,1,-1,1,0,0,0,1,4,2,4
+Brazil v Italy,T-09,Brazil,BRA,T-39,Italy,ITA,4–1,4,1,3,-3,0,0,1,0,9,0,9
+Brazil v Yugoslavia,T-09,Brazil,BRA,T-83,Yugoslavia,YUG,0–0,0,0,0,0,0,0,0,0,2,0,0
+Chile v West Germany,T-13,Chile,CHL,T-82,West Germany,DEU,0–1,0,1,-1,1,0,0,0,1,5,1,7
+Australia v East Germany,T-04,Australia,AUS,T-23,East Germany,DDR,0–2,0,2,-2,2,0,0,0,1,3,0,1
+Scotland v Zaire,T-61,Scotland,SCO,T-84,Zaire,COD,2–0,2,0,2,-2,0,0,1,0,2,0,3
+Bulgaria v Sweden,T-10,Bulgaria,BGR,T-71,Sweden,SWE,0–0,0,0,0,0,0,0,0,0,2,0,7
+Netherlands v Uruguay,T-46,Netherlands,NLD,T-80,Uruguay,URY,2–0,2,0,2,-2,0,0,1,0,8,1,5
+Haiti v Italy,T-32,Haiti,HTI,T-39,Italy,ITA,1–3,1,3,-2,2,0,0,0,1,1,0,2
+Argentina v Poland,T-03,Argentina,ARG,T-55,Poland,POL,2–3,2,3,-1,1,0,0,0,1,2,0,4
+Australia v West Germany,T-04,Australia,AUS,T-82,West Germany,DEU,0–3,0,3,-3,3,0,0,0,1,0,0,4
+Chile v East Germany,T-13,Chile,CHL,T-23,East Germany,DDR,1–1,1,1,0,0,0,0,0,0,3,0,4
+Brazil v Scotland,T-09,Brazil,BRA,T-61,Scotland,SCO,0–0,0,0,0,0,0,0,0,0,3,0,1
+Yugoslavia v Zaire,T-83,Yugoslavia,YUG,T-84,Zaire,COD,9–0,9,0,9,-9,0,0,1,0,1,1,2
+Bulgaria v Uruguay,T-10,Bulgaria,BGR,T-80,Uruguay,URY,1–1,1,1,0,0,0,0,0,0,2,0,3
+Netherlands v Sweden,T-46,Netherlands,NLD,T-71,Sweden,SWE,0–0,0,0,0,0,0,0,0,0,5,0,3
+Argentina v Italy,T-03,Argentina,ARG,T-39,Italy,ITA,1–1,1,1,0,0,0,0,0,0,11,1,11
+Haiti v Poland,T-32,Haiti,HTI,T-55,Poland,POL,0–7,0,7,-7,7,0,0,0,1,1,0,4
+Australia v Chile,T-04,Australia,AUS,T-13,Chile,CHL,0–0,0,0,0,0,0,0,0,0,1,1,4
+Scotland v Yugoslavia,T-61,Scotland,SCO,T-83,Yugoslavia,YUG,1–1,1,1,0,0,0,0,0,0,5,0,2
+Brazil v Zaire,T-09,Brazil,BRA,T-84,Zaire,COD,3–0,3,0,3,-3,0,0,1,0,2,0,4
+East Germany v West Germany,T-23,East Germany,DDR,T-82,West Germany,DEU,1–0,1,0,1,-1,0,0,1,0,3,0,3
+Bulgaria v Netherlands,T-10,Bulgaria,BGR,T-46,Netherlands,NLD,1–4,1,4,-3,3,0,0,0,1,5,0,4
+Sweden v Uruguay,T-71,Sweden,SWE,T-80,Uruguay,URY,3–0,3,0,3,-3,0,0,1,0,1,0,7
+Argentina v Haiti,T-03,Argentina,ARG,T-32,Haiti,HTI,4–1,4,1,3,-3,0,0,1,0,3,0,4
+Italy v Poland,T-39,Italy,ITA,T-55,Poland,POL,1–2,1,2,-1,1,0,0,0,1,7,0,7
+West Germany v Yugoslavia,T-82,West Germany,DEU,T-83,Yugoslavia,YUG,2–0,2,0,2,-2,0,0,1,0,4,0,4
+Brazil v East Germany,T-09,Brazil,BRA,T-23,East Germany,DDR,1–0,1,0,1,-1,0,0,1,0,5,0,2
+Argentina v Netherlands,T-03,Argentina,ARG,T-46,Netherlands,NLD,0–4,0,4,-4,4,0,0,0,1,18,2,18
+Poland v Sweden,T-55,Poland,POL,T-71,Sweden,SWE,1–0,1,0,1,-1,0,0,1,0,2,0,3
+Argentina v Brazil,T-03,Argentina,ARG,T-09,Brazil,BRA,1–2,1,2,-1,1,0,0,0,1,4,1,10
+East Germany v Netherlands,T-23,East Germany,DDR,T-46,Netherlands,NLD,0–2,0,2,-2,2,0,0,0,1,0,0,2
+Poland v Yugoslavia,T-55,Poland,POL,T-83,Yugoslavia,YUG,2–1,2,1,1,-1,0,0,1,0,0,0,4
+Sweden v West Germany,T-71,Sweden,SWE,T-82,West Germany,DEU,2–4,2,4,-2,2,0,0,0,1,1,0,3
+Poland v West Germany,T-55,Poland,POL,T-82,West Germany,DEU,0–1,0,1,-1,1,0,0,0,1,0,0,2
+Argentina v East Germany,T-03,Argentina,ARG,T-23,East Germany,DDR,1–1,1,1,0,0,0,0,0,0,2,0,2
+Brazil v Netherlands,T-09,Brazil,BRA,T-46,Netherlands,NLD,0–2,0,2,-2,2,0,0,0,1,13,2,10
+Sweden v Yugoslavia,T-71,Sweden,SWE,T-83,Yugoslavia,YUG,2–1,2,1,1,-1,0,0,1,0,2,0,2
+Brazil v Poland,T-09,Brazil,BRA,T-55,Poland,POL,0–1,0,1,-1,1,0,0,0,1,7,0,10
+Netherlands v West Germany,T-46,Netherlands,NLD,T-82,West Germany,DEU,1–2,1,2,-1,1,0,0,0,1,7,1,3
+Poland v West Germany,T-55,Poland,POL,T-82,West Germany,DEU,0–0,0,0,0,0,0,0,0,0,0,0,2
+France v Italy,T-28,France,FRA,T-39,Italy,ITA,1–2,1,2,-1,1,0,0,0,1,15,1,18
+Mexico v Tunisia,T-44,Mexico,MEX,T-75,Tunisia,TUN,1–3,1,3,-2,2,0,0,0,1,0,0,3
+Argentina v Hungary,T-03,Argentina,ARG,T-34,Hungary,HUN,2–1,2,1,1,-1,0,0,1,0,3,2,7
+Austria v Spain,T-05,Austria,AUT,T-70,Spain,ESP,2–1,2,1,1,-1,0,0,1,0,0,0,4
+Brazil v Sweden,T-09,Brazil,BRA,T-71,Sweden,SWE,1–1,1,1,0,0,0,0,0,0,8,0,10
+Iran v Netherlands,T-36,Iran,IRN,T-46,Netherlands,NLD,0–3,0,3,-3,3,0,0,0,1,0,0,2
+Peru v Scotland,T-54,Peru,PER,T-61,Scotland,SCO,3–1,3,1,2,-2,0,0,1,0,1,0,4
+Hungary v Italy,T-34,Hungary,HUN,T-39,Italy,ITA,1–3,1,3,-2,2,0,0,0,1,2,0,4
+Poland v Tunisia,T-55,Poland,POL,T-75,Tunisia,TUN,1–0,1,0,1,-1,0,0,1,0,0,0,2
+Mexico v West Germany,T-44,Mexico,MEX,T-82,West Germany,DEU,0–6,0,6,-6,6,0,0,0,1,12,2,6
+Argentina v France,T-03,Argentina,ARG,T-28,France,FRA,2–1,2,1,1,-1,0,0,1,0,1,0,3
+Austria v Sweden,T-05,Austria,AUT,T-71,Sweden,SWE,1–0,1,0,1,-1,0,0,1,0,0,0,3
+Brazil v Spain,T-09,Brazil,BRA,T-70,Spain,ESP,0–0,0,0,0,0,0,0,0,0,1,0,4
+Netherlands v Peru,T-46,Netherlands,NLD,T-54,Peru,PER,0–0,0,0,0,0,0,0,0,0,1,0,3
+Iran v Scotland,T-36,Iran,IRN,T-61,Scotland,SCO,1–1,1,1,0,0,0,0,0,0,0,0,4
+France v Hungary,T-28,France,FRA,T-34,Hungary,HUN,3–1,3,1,2,-2,0,0,1,0,0,0,3
+Mexico v Poland,T-44,Mexico,MEX,T-55,Poland,POL,1–3,1,3,-2,2,0,0,0,1,0,0,3
+Tunisia v West Germany,T-75,Tunisia,TUN,T-82,West Germany,DEU,0–0,0,0,0,0,0,0,0,0,2,0,1
+Argentina v Italy,T-03,Argentina,ARG,T-39,Italy,ITA,0–1,0,1,-1,1,0,0,0,1,11,1,11
+Austria v Brazil,T-05,Austria,AUT,T-09,Brazil,BRA,0–1,0,1,-1,1,0,0,0,1,0,0,4
+Spain v Sweden,T-70,Spain,ESP,T-71,Sweden,SWE,1–0,1,0,1,-1,0,0,1,0,1,0,3
+Iran v Peru,T-36,Iran,IRN,T-54,Peru,PER,1–4,1,4,-3,3,0,0,0,1,0,0,4
+Netherlands v Scotland,T-46,Netherlands,NLD,T-61,Scotland,SCO,2–3,2,3,-1,1,0,0,0,1,1,0,2
+Austria v Netherlands,T-05,Austria,AUT,T-46,Netherlands,NLD,1–5,1,5,-4,4,0,0,0,1,0,0,2
+Italy v West Germany,T-39,Italy,ITA,T-82,West Germany,DEU,0–0,0,0,0,0,0,0,0,0,11,0,11
+Brazil v Peru,T-09,Brazil,BRA,T-54,Peru,PER,3–0,3,0,3,-3,0,0,1,0,0,0,8
+Argentina v Poland,T-03,Argentina,ARG,T-55,Poland,POL,2–0,2,0,2,-2,0,0,1,0,2,0,3
+Peru v Poland,T-54,Peru,PER,T-55,Poland,POL,0–1,0,1,-1,1,0,0,0,1,4,0,4
+Austria v Italy,T-05,Austria,AUT,T-39,Italy,ITA,0–1,0,1,-1,1,0,0,0,1,6,0,13
+Netherlands v West Germany,T-46,Netherlands,NLD,T-82,West Germany,DEU,2–2,2,2,0,0,0,0,0,0,7,1,3
+Argentina v Brazil,T-03,Argentina,ARG,T-09,Brazil,BRA,0–0,0,0,0,0,0,0,0,0,4,1,10
+Austria v West Germany,T-05,Austria,AUT,T-82,West Germany,DEU,3–2,3,2,1,-1,0,0,1,0,3,0,3
+Italy v Netherlands,T-39,Italy,ITA,T-46,Netherlands,NLD,1–2,1,2,-1,1,0,0,0,1,5,0,4
+Brazil v Poland,T-09,Brazil,BRA,T-55,Poland,POL,3–1,3,1,2,-2,0,0,1,0,7,0,10
+Argentina v Peru,T-03,Argentina,ARG,T-54,Peru,PER,6–0,6,0,6,-6,0,0,1,0,0,0,3
+Brazil v Italy,T-09,Brazil,BRA,T-39,Italy,ITA,2–1,2,1,1,-1,0,0,1,0,9,0,9
+Argentina v Netherlands,T-03,Argentina,ARG,T-46,Netherlands,NLD,3–1,3,1,2,-2,0,0,1,0,5,0,4
+Argentina v Belgium,T-03,Argentina,ARG,T-06,Belgium,BEL,0–1,0,1,-1,1,0,0,0,1,7,0,9
+Italy v Poland,T-39,Italy,ITA,T-55,Poland,POL,0–0,0,0,0,0,0,0,0,0,3,0,1
+Brazil v Soviet Union,T-09,Brazil,BRA,T-69,Soviet Union,SUN,2–1,2,1,1,-1,0,0,1,0,0,0,3
+Cameroon v Peru,T-11,Cameroon,CMR,T-54,Peru,PER,0–0,0,0,0,0,0,0,0,0,1,0,4
+El Salvador v Hungary,T-26,El Salvador,SLV,T-34,Hungary,HUN,1–10,1,10,-9,9,0,0,0,1,2,0,4
+New Zealand v Scotland,T-47,New Zealand,NZL,T-61,Scotland,SCO,2–5,2,5,-3,3,0,0,0,1,0,0,4
+Algeria v West Germany,T-01,Algeria,DZA,T-82,West Germany,DEU,2–1,2,1,1,-1,0,0,1,0,2,0,3
+England v France,T-27,England,ENG,T-28,France,FRA,3–1,3,1,2,-2,0,0,1,0,1,0,3
+Honduras v Spain,T-33,Honduras,HND,T-70,Spain,ESP,1–1,1,1,0,0,0,0,0,0,2,0,9
+Austria v Chile,T-05,Austria,AUT,T-13,Chile,CHL,1–0,1,0,1,-1,0,0,1,0,8,0,9
+Czechoslovakia v Kuwait,T-20,Czechoslovakia,CSK,T-43,Kuwait,KWT,1–1,1,1,0,0,0,0,0,0,0,0,3
+Northern Ireland v Yugoslavia,T-50,Northern Ireland,NIR,T-83,Yugoslavia,YUG,0–0,0,0,0,0,0,0,0,0,1,0,0
+Italy v Peru,T-39,Italy,ITA,T-54,Peru,PER,1–1,1,1,0,0,0,0,0,0,2,0,3
+Argentina v Hungary,T-03,Argentina,ARG,T-34,Hungary,HUN,4–1,4,1,3,-3,0,0,1,0,3,2,7
+Brazil v Scotland,T-09,Brazil,BRA,T-61,Scotland,SCO,4–1,4,1,3,-3,0,0,1,0,5,0,10
+Cameroon v Poland,T-11,Cameroon,CMR,T-55,Poland,POL,0–0,0,0,0,0,0,0,0,0,3,0,3
+Belgium v El Salvador,T-06,Belgium,BEL,T-26,El Salvador,SLV,1–0,1,0,1,-1,0,0,1,0,2,0,6
+New Zealand v Soviet Union,T-47,New Zealand,NZL,T-69,Soviet Union,SUN,0–3,0,3,-3,3,0,0,0,1,0,0,2
+Chile v West Germany,T-13,Chile,CHL,T-82,West Germany,DEU,1–4,1,4,-3,3,0,0,0,1,5,1,7
+Czechoslovakia v England,T-20,Czechoslovakia,CSK,T-27,England,ENG,0–2,0,2,-2,2,0,0,0,1,2,0,6
+Spain v Yugoslavia,T-70,Spain,ESP,T-83,Yugoslavia,YUG,2–1,2,1,1,-1,0,0,1,0,9,0,8
+Algeria v Austria,T-01,Algeria,DZA,T-05,Austria,AUT,0–2,0,2,-2,2,0,0,0,1,1,0,4
+France v Kuwait,T-28,France,FRA,T-43,Kuwait,KWT,4–1,4,1,3,-3,0,0,1,0,3,0,4
+Honduras v Northern Ireland,T-33,Honduras,HND,T-50,Northern Ireland,NIR,1–1,1,1,0,0,0,0,0,0,0,0,3
+Peru v Poland,T-54,Peru,PER,T-55,Poland,POL,1–5,1,5,-4,4,0,0,0,1,1,0,4
+Belgium v Hungary,T-06,Belgium,BEL,T-34,Hungary,HUN,1–1,1,1,0,0,0,0,0,0,2,0,4
+Scotland v Soviet Union,T-61,Scotland,SCO,T-69,Soviet Union,SUN,2–2,2,2,0,0,0,0,0,0,1,0,3
+Cameroon v Italy,T-11,Cameroon,CMR,T-39,Italy,ITA,1–1,1,1,0,0,0,0,0,0,8,1,6
+Argentina v El Salvador,T-03,Argentina,ARG,T-26,El Salvador,SLV,2–0,2,0,2,-2,0,0,1,0,5,0,4
+Brazil v New Zealand,T-09,Brazil,BRA,T-47,New Zealand,NZL,4–0,4,0,4,-4,0,0,1,0,0,0,4
+Algeria v Chile,T-01,Algeria,DZA,T-13,Chile,CHL,3–2,3,2,1,-1,0,0,1,0,1,0,4
+Czechoslovakia v France,T-20,Czechoslovakia,CSK,T-28,France,FRA,1–1,1,1,0,0,0,0,0,0,2,1,4
+Honduras v Yugoslavia,T-33,Honduras,HND,T-83,Yugoslavia,YUG,0–1,0,1,-1,1,0,0,0,1,2,1,3
+Austria v West Germany,T-05,Austria,AUT,T-82,West Germany,DEU,0–1,0,1,-1,1,0,0,0,1,2,0,2
+England v Kuwait,T-27,England,ENG,T-43,Kuwait,KWT,1–0,1,0,1,-1,0,0,1,0,2,0,1
+Northern Ireland v Spain,T-50,Northern Ireland,NIR,T-70,Spain,ESP,1–0,1,0,1,-1,0,0,1,0,3,1,4
+Austria v France,T-05,Austria,AUT,T-28,France,FRA,0–1,0,1,-1,1,0,0,0,1,1,0,4
+Belgium v Poland,T-06,Belgium,BEL,T-55,Poland,POL,0–3,0,3,-3,3,0,0,0,1,1,0,3
+Argentina v Italy,T-03,Argentina,ARG,T-39,Italy,ITA,1–2,1,2,-1,1,0,0,0,1,8,1,8
+England v West Germany,T-27,England,ENG,T-82,West Germany,DEU,0–0,0,0,0,0,0,0,0,0,6,0,10
+Austria v Northern Ireland,T-05,Austria,AUT,T-50,Northern Ireland,NIR,2–2,2,2,0,0,0,0,0,0,1,0,3
+Belgium v Soviet Union,T-06,Belgium,BEL,T-69,Soviet Union,SUN,0–1,0,1,-1,1,0,0,0,1,1,0,4
+Argentina v Brazil,T-03,Argentina,ARG,T-09,Brazil,BRA,1–3,1,3,-2,2,0,0,0,1,4,1,10
+Spain v West Germany,T-70,Spain,ESP,T-82,West Germany,DEU,1–2,1,2,-1,1,0,0,0,1,5,0,3
+France v Northern Ireland,T-28,France,FRA,T-50,Northern Ireland,NIR,4–1,4,1,3,-3,0,0,1,0,2,0,3
+Poland v Soviet Union,T-55,Poland,POL,T-69,Soviet Union,SUN,0–0,0,0,0,0,0,0,0,0,5,0,3
+Brazil v Italy,T-09,Brazil,BRA,T-39,Italy,ITA,2–3,2,3,-1,1,0,0,0,1,2,0,3
+England v Spain,T-27,England,ENG,T-70,Spain,ESP,0–0,0,0,0,0,0,0,0,0,1,0,4
+Italy v Poland,T-39,Italy,ITA,T-55,Poland,POL,2–0,2,0,2,-2,0,0,1,0,7,0,7
+France v West Germany,T-28,France,FRA,T-82,West Germany,DEU,3–3,3,3,0,0,4,5,0,1,3,0,4
+France v Poland,T-28,France,FRA,T-55,Poland,POL,2–3,2,3,-1,1,0,0,0,1,3,0,3
+Italy v West Germany,T-39,Italy,ITA,T-82,West Germany,DEU,3–1,3,1,2,-2,0,0,1,0,11,0,11
+Bulgaria v Italy,T-10,Bulgaria,BGR,T-39,Italy,ITA,1–1,1,1,0,0,0,0,0,0,8,0,7
+Brazil v Spain,T-09,Brazil,BRA,T-70,Spain,ESP,1–0,1,0,1,-1,0,0,1,0,2,0,3
+Canada v France,T-12,Canada,CAN,T-28,France,FRA,0–1,0,1,-1,1,0,0,0,1,0,0,3
+Argentina v South Korea,T-03,Argentina,ARG,T-68,South Korea,KOR,3–1,3,1,2,-2,0,0,1,0,7,0,9
+Hungary v Soviet Union,T-34,Hungary,HUN,T-69,Soviet Union,SUN,0–6,0,6,-6,6,0,0,0,1,0,0,4
+Morocco v Poland,T-45,Morocco,MAR,T-55,Poland,POL,0–0,0,0,0,0,0,0,0,0,1,0,4
+Belgium v Mexico,T-06,Belgium,BEL,T-44,Mexico,MEX,1–2,1,2,-1,1,0,0,0,1,6,2,10
+Algeria v Northern Ireland,T-01,Algeria,DZA,T-50,Northern Ireland,NIR,1–1,1,1,0,0,0,0,0,0,4,0,4
+England v Portugal,T-27,England,ENG,T-56,Portugal,PRT,0–1,0,1,-1,1,0,0,0,1,3,0,4
+Iraq v Paraguay,T-37,Iraq,IRQ,T-53,Paraguay,PRY,0–1,0,1,-1,1,0,0,0,1,2,0,3
+Uruguay v West Germany,T-80,Uruguay,URY,T-82,West Germany,DEU,1–1,1,1,0,0,0,0,0,0,2,0,4
+Denmark v Scotland,T-21,Denmark,DNK,T-61,Scotland,SCO,1–0,1,0,1,-1,0,0,1,0,1,0,4
+Argentina v Italy,T-03,Argentina,ARG,T-39,Italy,ITA,1–1,1,1,0,0,0,0,0,0,8,1,8
+France v Soviet Union,T-28,France,FRA,T-69,Soviet Union,SUN,1–1,1,1,0,0,0,0,0,0,4,0,4
+Bulgaria v South Korea,T-10,Bulgaria,BGR,T-68,South Korea,KOR,1–1,1,1,0,0,0,0,0,0,3,0,4
+Canada v Hungary,T-12,Canada,CAN,T-34,Hungary,HUN,0–2,0,2,-2,2,0,0,0,1,4,1,4
+Algeria v Brazil,T-01,Algeria,DZA,T-09,Brazil,BRA,0–1,0,1,-1,1,0,0,0,1,0,0,4
+England v Morocco,T-27,England,ENG,T-45,Morocco,MAR,0–0,0,0,0,0,0,0,0,0,4,1,4
+Mexico v Paraguay,T-44,Mexico,MEX,T-53,Paraguay,PRY,1–1,1,1,0,0,0,0,0,0,5,0,4
+Northern Ireland v Spain,T-50,Northern Ireland,NIR,T-70,Spain,ESP,1–2,1,2,-1,1,0,0,0,1,2,0,4
+Poland v Portugal,T-55,Poland,POL,T-56,Portugal,PRT,1–0,1,0,1,-1,0,0,1,0,2,0,4
+Belgium v Iraq,T-06,Belgium,BEL,T-37,Iraq,IRQ,2–1,2,1,1,-1,0,0,1,0,7,1,3
+Scotland v West Germany,T-61,Scotland,SCO,T-82,West Germany,DEU,1–2,1,2,-1,1,0,0,0,1,3,0,4
+Denmark v Uruguay,T-21,Denmark,DNK,T-80,Uruguay,URY,6–1,6,1,5,-5,0,0,1,0,5,1,4
+France v Hungary,T-28,France,FRA,T-34,Hungary,HUN,3–0,3,0,3,-3,0,0,1,0,2,0,4
+Canada v Soviet Union,T-12,Canada,CAN,T-69,Soviet Union,SUN,0–2,0,2,-2,2,0,0,0,1,0,0,4
+Argentina v Bulgaria,T-03,Argentina,ARG,T-10,Bulgaria,BGR,2–0,2,0,2,-2,0,0,1,0,11,1,8
+Italy v South Korea,T-39,Italy,ITA,T-68,South Korea,KOR,3–2,3,2,1,-1,0,0,1,0,16,1,9
+Iraq v Mexico,T-37,Iraq,IRQ,T-44,Mexico,MEX,0–1,0,1,-1,1,0,0,0,1,2,0,4
+Belgium v Paraguay,T-06,Belgium,BEL,T-53,Paraguay,PRY,2–2,2,2,0,0,0,0,0,0,2,0,2
+England v Poland,T-27,England,ENG,T-55,Poland,POL,3–0,3,0,3,-3,0,0,1,0,1,0,4
+Morocco v Portugal,T-45,Morocco,MAR,T-56,Portugal,PRT,3–1,3,1,2,-2,0,0,1,0,3,0,9
+Algeria v Spain,T-01,Algeria,DZA,T-70,Spain,ESP,0–3,0,3,-3,3,0,0,0,1,2,0,4
+Brazil v Northern Ireland,T-09,Brazil,BRA,T-50,Northern Ireland,NIR,3–0,3,0,3,-3,0,0,1,0,1,0,4
+Denmark v West Germany,T-21,Denmark,DNK,T-82,West Germany,DEU,2–0,2,0,2,-2,0,0,1,0,5,1,4
+Scotland v Uruguay,T-61,Scotland,SCO,T-80,Uruguay,URY,0–0,0,0,0,0,0,0,0,0,5,1,4
+Bulgaria v Mexico,T-10,Bulgaria,BGR,T-44,Mexico,MEX,0–2,0,2,-2,2,0,0,0,1,13,2,5
+Belgium v Soviet Union,T-06,Belgium,BEL,T-69,Soviet Union,SUN,4–3,4,3,1,-1,0,0,1,0,1,0,6
+Brazil v Poland,T-09,Brazil,BRA,T-55,Poland,POL,4–0,4,0,4,-4,0,0,1,0,7,0,10
+Argentina v Uruguay,T-03,Argentina,ARG,T-80,Uruguay,URY,1–0,1,0,1,-1,0,0,1,0,7,0,3
+France v Italy,T-28,France,FRA,T-39,Italy,ITA,2–0,2,0,2,-2,0,0,1,0,15,1,18
+Morocco v West Germany,T-45,Morocco,MAR,T-82,West Germany,DEU,0–1,0,1,-1,1,0,0,0,1,2,0,1
+England v Paraguay,T-27,England,ENG,T-53,Paraguay,PRY,3–0,3,0,3,-3,0,0,1,0,6,0,8
+Denmark v Spain,T-21,Denmark,DNK,T-70,Spain,ESP,1–5,1,5,-4,4,0,0,0,1,4,0,4
+Brazil v France,T-09,Brazil,BRA,T-28,France,FRA,1–1,1,1,0,0,3,4,0,1,13,1,15
+Mexico v West Germany,T-44,Mexico,MEX,T-82,West Germany,DEU,0–0,0,0,0,0,1,4,0,1,12,2,6
+Argentina v England,T-03,Argentina,ARG,T-27,England,ENG,2–1,2,1,1,-1,0,0,1,0,11,1,15
+Belgium v Spain,T-06,Belgium,BEL,T-70,Spain,ESP,1–1,1,1,0,0,5,4,1,0,4,0,4
+France v West Germany,T-28,France,FRA,T-82,West Germany,DEU,0–2,0,2,-2,2,0,0,0,1,2,0,3
+Argentina v Belgium,T-03,Argentina,ARG,T-06,Belgium,BEL,2–0,2,0,2,-2,0,0,1,0,7,0,9
+Belgium v France,T-06,Belgium,BEL,T-28,France,FRA,2–4,2,4,-2,2,0,0,0,1,1,0,4
+Argentina v West Germany,T-03,Argentina,ARG,T-82,West Germany,DEU,3–2,3,2,1,-1,0,0,1,0,6,0,3
+Argentina v Cameroon,T-03,Argentina,ARG,T-11,Cameroon,CMR,0–1,0,1,-1,1,0,0,0,1,4,2,4
+Romania v Soviet Union,T-58,Romania,ROU,T-69,Soviet Union,SUN,2–0,2,0,2,-2,0,0,1,0,2,0,4
+Colombia v United Arab Emirates,T-15,Colombia,COL,T-78,United Arab Emirates,ARE,2–0,2,0,2,-2,0,0,1,0,3,0,3
+Austria v Italy,T-05,Austria,AUT,T-39,Italy,ITA,0–1,0,1,-1,1,0,0,0,1,6,0,13
+Czechoslovakia v United States,T-20,Czechoslovakia,CSK,T-79,United States,USA,5–1,5,1,4,-4,0,0,1,0,4,1,4
+Brazil v Sweden,T-09,Brazil,BRA,T-71,Sweden,SWE,2–1,2,1,1,-1,0,0,1,0,8,0,10
+West Germany v Yugoslavia,T-82,West Germany,DEU,T-83,Yugoslavia,YUG,4–1,4,1,3,-3,0,0,1,0,1,0,4
+Costa Rica v Scotland,T-16,Costa Rica,CRI,T-61,Scotland,SCO,1–0,1,0,1,-1,0,0,1,0,0,0,3
+England v Republic of Ireland,T-27,England,ENG,T-57,Republic of Ireland,IRL,1–1,1,1,0,0,0,0,0,0,1,0,3
+Belgium v South Korea,T-06,Belgium,BEL,T-68,South Korea,KOR,2–0,2,0,2,-2,0,0,1,0,6,0,9
+Egypt v Netherlands,T-25,Egypt,EGY,T-46,Netherlands,NLD,1–1,1,1,0,0,0,0,0,0,2,0,4
+Spain v Uruguay,T-70,Spain,ESP,T-80,Uruguay,URY,0–0,0,0,0,0,0,0,0,0,4,0,4
+Argentina v Soviet Union,T-03,Argentina,ARG,T-69,Soviet Union,SUN,2–0,2,0,2,-2,0,0,1,0,5,1,4
+Cameroon v Romania,T-11,Cameroon,CMR,T-58,Romania,ROU,2–1,2,1,1,-1,0,0,1,0,3,0,4
+Colombia v Yugoslavia,T-15,Colombia,COL,T-83,Yugoslavia,YUG,0–1,0,1,-1,1,0,0,0,1,1,0,4
+Italy v United States,T-39,Italy,ITA,T-79,United States,USA,1–0,1,0,1,-1,0,0,1,0,7,3,8
+Austria v Czechoslovakia,T-05,Austria,AUT,T-20,Czechoslovakia,CSK,0–1,0,1,-1,1,0,0,0,1,5,0,4
+United Arab Emirates v West Germany,T-78,United Arab Emirates,ARE,T-82,West Germany,DEU,1–5,1,5,-4,4,0,0,0,1,3,0,4
+Brazil v Costa Rica,T-09,Brazil,BRA,T-16,Costa Rica,CRI,1–0,1,0,1,-1,0,0,1,0,7,0,10
+Scotland v Sweden,T-61,Scotland,SCO,T-71,Sweden,SWE,2–1,2,1,1,-1,0,0,1,0,2,0,4
+England v Netherlands,T-27,England,ENG,T-46,Netherlands,NLD,0–0,0,0,0,0,0,0,0,0,0,0,3
+Egypt v Republic of Ireland,T-25,Egypt,EGY,T-57,Republic of Ireland,IRL,0–0,0,0,0,0,0,0,0,0,2,0,4
+Belgium v Uruguay,T-06,Belgium,BEL,T-80,Uruguay,URY,3–1,3,1,2,-2,0,0,1,0,4,1,4
+South Korea v Spain,T-68,South Korea,KOR,T-70,Spain,ESP,1–3,1,3,-2,2,0,0,0,1,3,0,4
+Argentina v Romania,T-03,Argentina,ARG,T-58,Romania,ROU,1–1,1,1,0,0,0,0,0,0,5,0,4
+Cameroon v Soviet Union,T-11,Cameroon,CMR,T-69,Soviet Union,SUN,0–4,0,4,-4,4,0,0,0,1,3,0,4
+Colombia v West Germany,T-15,Colombia,COL,T-82,West Germany,DEU,1–1,1,1,0,0,0,0,0,0,4,0,2
+United Arab Emirates v Yugoslavia,T-78,United Arab Emirates,ARE,T-83,Yugoslavia,YUG,1–4,1,4,-3,3,0,0,0,1,6,1,4
+Austria v United States,T-05,Austria,AUT,T-79,United States,USA,2–1,2,1,1,-1,0,0,1,0,9,1,4
+Czechoslovakia v Italy,T-20,Czechoslovakia,CSK,T-39,Italy,ITA,0–2,0,2,-2,2,0,0,0,1,4,0,4
+Brazil v Scotland,T-09,Brazil,BRA,T-61,Scotland,SCO,1–0,1,0,1,-1,0,0,1,0,5,0,10
+Costa Rica v Sweden,T-16,Costa Rica,CRI,T-71,Sweden,SWE,2–1,2,1,1,-1,0,0,1,0,4,0,4
+Belgium v Spain,T-06,Belgium,BEL,T-70,Spain,ESP,1–2,1,2,-1,1,0,0,0,1,0,0,4
+South Korea v Uruguay,T-68,South Korea,KOR,T-80,Uruguay,URY,0–1,0,1,-1,1,0,0,0,1,7,1,4
+Egypt v England,T-25,Egypt,EGY,T-27,England,ENG,0–1,0,1,-1,1,0,0,0,1,3,0,4
+Netherlands v Republic of Ireland,T-46,Netherlands,NLD,T-57,Republic of Ireland,IRL,1–1,1,1,0,0,0,0,0,0,1,0,4
+Cameroon v Colombia,T-11,Cameroon,CMR,T-15,Colombia,COL,2–1,2,1,1,-1,0,0,1,0,6,0,4
+Costa Rica v Czechoslovakia,T-16,Costa Rica,CRI,T-20,Czechoslovakia,CSK,1–4,1,4,-3,3,0,0,0,1,5,0,2
+Argentina v Brazil,T-03,Argentina,ARG,T-09,Brazil,BRA,1–0,1,0,1,-1,0,0,1,0,5,1,3
+Netherlands v West Germany,T-46,Netherlands,NLD,T-82,West Germany,DEU,1–2,1,2,-1,1,0,0,0,1,5,2,3
+Republic of Ireland v Romania,T-57,Republic of Ireland,IRL,T-58,Romania,ROU,0–0,0,0,0,0,5,4,1,0,4,0,4
+Italy v Uruguay,T-39,Italy,ITA,T-80,Uruguay,URY,2–0,2,0,2,-2,0,0,1,0,9,1,10
+Spain v Yugoslavia,T-70,Spain,ESP,T-83,Yugoslavia,YUG,1–2,1,2,-1,1,0,0,0,1,9,0,8
+Belgium v England,T-06,Belgium,BEL,T-27,England,ENG,0–1,0,1,-1,1,0,0,0,1,3,0,8
+Argentina v Yugoslavia,T-03,Argentina,ARG,T-83,Yugoslavia,YUG,0–0,0,0,0,0,3,2,1,0,7,1,3
+Italy v Republic of Ireland,T-39,Italy,ITA,T-57,Republic of Ireland,IRL,1–0,1,0,1,-1,0,0,1,0,2,0,4
+Czechoslovakia v West Germany,T-20,Czechoslovakia,CSK,T-82,West Germany,DEU,0–1,0,1,-1,1,0,0,0,1,7,1,3
+Cameroon v England,T-11,Cameroon,CMR,T-27,England,ENG,2–3,2,3,-1,1,0,0,0,1,4,0,4
+Argentina v Italy,T-03,Argentina,ARG,T-39,Italy,ITA,1–1,1,1,0,0,4,3,1,0,11,1,11
+England v West Germany,T-27,England,ENG,T-82,West Germany,DEU,1–1,1,1,0,0,3,4,0,1,6,0,10
+England v Italy,T-27,England,ENG,T-39,Italy,ITA,1–2,1,2,-1,1,0,0,0,1,0,0,4
+Argentina v West Germany,T-03,Argentina,ARG,T-82,West Germany,DEU,0–1,0,1,-1,1,0,0,0,1,4,2,3
+Bolivia v Germany,T-07,Bolivia,BOL,T-29,Germany,DEU,0–1,0,1,-1,1,0,0,0,1,6,1,4
+South Korea v Spain,T-68,South Korea,KOR,T-70,Spain,ESP,2–2,2,2,0,0,0,0,0,0,7,1,10
+Switzerland v United States,T-72,Switzerland,CHE,T-79,United States,USA,1–1,1,1,0,0,0,0,0,0,3,0,4
+Italy v Republic of Ireland,T-39,Italy,ITA,T-57,Republic of Ireland,IRL,0–1,0,1,-1,1,0,0,0,1,3,0,4
+Colombia v Romania,T-15,Colombia,COL,T-58,Romania,ROU,1–3,1,3,-2,2,0,0,0,1,4,0,2
+Belgium v Morocco,T-06,Belgium,BEL,T-45,Morocco,MAR,1–0,1,0,1,-1,0,0,1,0,5,0,5
+Mexico v Norway,T-44,Mexico,MEX,T-51,Norway,NOR,0–1,0,1,-1,1,0,0,0,1,3,0,4
+Cameroon v Sweden,T-11,Cameroon,CMR,T-71,Sweden,SWE,2–2,2,2,0,0,0,0,0,0,2,0,4
+Brazil v Russia,T-09,Brazil,BRA,T-59,Russia,RUS,2–0,2,0,2,-2,0,0,1,0,3,0,4
+Netherlands v Saudi Arabia,T-46,Netherlands,NLD,T-60,Saudi Arabia,SAU,2–1,2,1,1,-1,0,0,1,0,5,0,4
+Argentina v Greece,T-03,Argentina,ARG,T-31,Greece,GRC,4–0,4,0,4,-4,0,0,1,0,3,0,4
+Germany v Spain,T-29,Germany,DEU,T-70,Spain,ESP,1–1,1,1,0,0,0,0,0,0,4,0,9
+Bulgaria v Nigeria,T-10,Bulgaria,BGR,T-48,Nigeria,NGA,0–3,0,3,-3,3,0,0,0,1,8,0,10
+Romania v Switzerland,T-58,Romania,ROU,T-72,Switzerland,CHE,1–4,1,4,-3,3,0,0,0,1,3,1,4
+Colombia v United States,T-15,Colombia,COL,T-79,United States,USA,1–2,1,2,-1,1,0,0,0,1,2,0,4
+Italy v Norway,T-39,Italy,ITA,T-51,Norway,NOR,1–0,1,0,1,-1,0,0,1,0,9,1,11
+Bolivia v South Korea,T-07,Bolivia,BOL,T-68,South Korea,KOR,0–0,0,0,0,0,0,0,0,0,8,1,3
+Mexico v Republic of Ireland,T-44,Mexico,MEX,T-57,Republic of Ireland,IRL,2–1,2,1,1,-1,0,0,1,0,4,0,4
+Brazil v Cameroon,T-09,Brazil,BRA,T-11,Cameroon,CMR,3–0,3,0,3,-3,0,0,1,0,3,1,4
+Russia v Sweden,T-59,Russia,RUS,T-71,Sweden,SWE,1–3,1,3,-2,2,0,0,0,1,7,1,4
+Belgium v Netherlands,T-06,Belgium,BEL,T-46,Netherlands,NLD,1–0,1,0,1,-1,0,0,1,0,6,0,4
+Morocco v Saudi Arabia,T-45,Morocco,MAR,T-60,Saudi Arabia,SAU,1–2,1,2,-1,1,0,0,0,1,6,0,4
+Argentina v Nigeria,T-03,Argentina,ARG,T-48,Nigeria,NGA,2–1,2,1,1,-1,0,0,1,0,8,0,15
+Bulgaria v Greece,T-10,Bulgaria,BGR,T-31,Greece,GRC,4–0,4,0,4,-4,0,0,1,0,8,0,4
+Colombia v Switzerland,T-15,Colombia,COL,T-72,Switzerland,CHE,2–0,2,0,2,-2,0,0,1,0,5,0,4
+Romania v United States,T-58,Romania,ROU,T-79,United States,USA,1–0,1,0,1,-1,0,0,1,0,4,0,4
+Bolivia v Spain,T-07,Bolivia,BOL,T-70,Spain,ESP,1–3,1,3,-2,2,0,0,0,1,2,0,4
+Germany v South Korea,T-29,Germany,DEU,T-68,South Korea,KOR,3–2,3,2,1,-1,0,0,1,0,7,0,11
+Italy v Mexico,T-39,Italy,ITA,T-44,Mexico,MEX,1–1,1,1,0,0,0,0,0,0,5,0,7
+Norway v Republic of Ireland,T-51,Norway,NOR,T-57,Republic of Ireland,IRL,0–0,0,0,0,0,0,0,0,0,5,0,4
+Cameroon v Russia,T-11,Cameroon,CMR,T-59,Russia,RUS,1–6,1,6,-5,5,0,0,0,1,5,0,4
+Brazil v Sweden,T-09,Brazil,BRA,T-71,Sweden,SWE,1–1,1,1,0,0,0,0,0,0,8,0,10
+Belgium v Saudi Arabia,T-06,Belgium,BEL,T-60,Saudi Arabia,SAU,0–1,0,1,-1,1,0,0,0,1,4,0,4
+Morocco v Netherlands,T-45,Morocco,MAR,T-46,Netherlands,NLD,1–2,1,2,-1,1,0,0,0,1,7,0,4
+Argentina v Bulgaria,T-03,Argentina,ARG,T-10,Bulgaria,BGR,0–2,0,2,-2,2,0,0,0,1,11,1,8
+Greece v Nigeria,T-31,Greece,GRC,T-48,Nigeria,NGA,0–2,0,2,-2,2,0,0,0,1,8,1,9
+Belgium v Germany,T-06,Belgium,BEL,T-29,Germany,DEU,2–3,2,3,-1,1,0,0,0,1,3,0,4
+Spain v Switzerland,T-70,Spain,ESP,T-72,Switzerland,CHE,3–0,3,0,3,-3,0,0,1,0,12,0,10
+Saudi Arabia v Sweden,T-60,Saudi Arabia,SAU,T-71,Sweden,SWE,1–3,1,3,-2,2,0,0,0,1,4,0,4
+Argentina v Romania,T-03,Argentina,ARG,T-58,Romania,ROU,2–3,2,3,-1,1,0,0,0,1,7,0,3
+Netherlands v Republic of Ireland,T-46,Netherlands,NLD,T-57,Republic of Ireland,IRL,2–0,2,0,2,-2,0,0,1,0,1,0,4
+Brazil v United States,T-09,Brazil,BRA,T-79,United States,USA,1–0,1,0,1,-1,0,0,1,0,8,2,3
+Italy v Nigeria,T-39,Italy,ITA,T-48,Nigeria,NGA,2–1,2,1,1,-1,0,0,1,0,9,1,4
+Bulgaria v Mexico,T-10,Bulgaria,BGR,T-44,Mexico,MEX,1–1,1,1,0,0,3,1,1,0,13,2,5
+Italy v Spain,T-39,Italy,ITA,T-70,Spain,ESP,2–1,2,1,1,-1,0,0,1,0,2,0,4
+Brazil v Netherlands,T-09,Brazil,BRA,T-46,Netherlands,NLD,3–2,3,2,1,-1,0,0,1,0,13,2,10
+Bulgaria v Germany,T-10,Bulgaria,BGR,T-29,Germany,DEU,2–1,2,1,1,-1,0,0,1,0,8,0,4
+Romania v Sweden,T-58,Romania,ROU,T-71,Sweden,SWE,2–2,2,2,0,0,4,5,0,1,7,1,3
+Bulgaria v Italy,T-10,Bulgaria,BGR,T-39,Italy,ITA,1–2,1,2,-1,1,0,0,0,1,8,0,7
+Brazil v Sweden,T-09,Brazil,BRA,T-71,Sweden,SWE,1–0,1,0,1,-1,0,0,1,0,3,1,2
+Bulgaria v Sweden,T-10,Bulgaria,BGR,T-71,Sweden,SWE,0–4,0,4,-4,4,0,0,0,1,2,0,7
+Brazil v Italy,T-09,Brazil,BRA,T-39,Italy,ITA,0–0,0,0,0,0,3,2,1,0,9,0,9
+Brazil v Scotland,T-09,Brazil,BRA,T-61,Scotland,SCO,2–1,2,1,1,-1,0,0,1,0,5,0,10
+Morocco v Norway,T-45,Morocco,MAR,T-51,Norway,NOR,2–2,2,2,0,0,0,0,0,0,1,0,5
+Chile v Italy,T-13,Chile,CHL,T-39,Italy,ITA,2–2,2,2,0,0,0,0,0,0,5,0,6
+Austria v Cameroon,T-05,Austria,AUT,T-11,Cameroon,CMR,1–1,1,1,0,0,0,0,0,0,2,0,6
+Bulgaria v Paraguay,T-10,Bulgaria,BGR,T-53,Paraguay,PRY,0–0,0,0,0,0,0,0,0,0,6,1,5
+Denmark v Saudi Arabia,T-21,Denmark,DNK,T-60,Saudi Arabia,SAU,1–0,1,0,1,-1,0,0,1,0,4,0,6
+France v South Africa,T-28,France,FRA,T-67,South Africa,ZAF,3–0,3,0,3,-3,0,0,1,0,5,1,11
+Nigeria v Spain,T-48,Nigeria,NGA,T-70,Spain,ESP,3–2,3,2,1,-1,0,0,1,0,4,0,6
+Mexico v South Korea,T-44,Mexico,MEX,T-68,South Korea,KOR,3–1,3,1,2,-2,0,0,1,0,7,1,12
+Belgium v Netherlands,T-06,Belgium,BEL,T-46,Netherlands,NLD,0–0,0,0,0,0,0,0,0,0,2,1,5
+Argentina v Japan,T-03,Argentina,ARG,T-42,Japan,JPN,1–0,1,0,1,-1,0,0,1,0,3,0,4
+Iran v Yugoslavia,T-36,Iran,IRN,T-83,Yugoslavia,YUG,0–1,0,1,-1,1,0,0,0,1,2,0,4
+Croatia v Jamaica,T-17,Croatia,HRV,T-41,Jamaica,JAM,3–1,3,1,2,-2,0,0,1,0,3,0,4
+England v Tunisia,T-27,England,ENG,T-75,Tunisia,TUN,2–0,2,0,2,-2,0,0,1,0,4,0,4
+Colombia v Romania,T-15,Colombia,COL,T-58,Romania,ROU,0–1,0,1,-1,1,0,0,0,1,4,0,5
+Germany v United States,T-29,Germany,DEU,T-79,United States,USA,2–0,2,0,2,-2,0,0,1,0,12,0,12
+Norway v Scotland,T-51,Norway,NOR,T-61,Scotland,SCO,1–1,1,1,0,0,0,0,0,0,4,0,5
+Brazil v Morocco,T-09,Brazil,BRA,T-45,Morocco,MAR,3–0,3,0,3,-3,0,0,1,0,4,0,6
+Austria v Chile,T-05,Austria,AUT,T-13,Chile,CHL,1–1,1,1,0,0,0,0,0,0,8,0,9
+Cameroon v Italy,T-11,Cameroon,CMR,T-39,Italy,ITA,0–3,0,3,-3,3,0,0,0,1,8,1,6
+Denmark v South Africa,T-21,Denmark,DNK,T-67,South Africa,ZAF,1–1,1,1,0,0,0,0,0,0,7,3,6
+France v Saudi Arabia,T-28,France,FRA,T-60,Saudi Arabia,SAU,4–0,4,0,4,-4,0,0,1,0,4,2,6
+Bulgaria v Nigeria,T-10,Bulgaria,BGR,T-48,Nigeria,NGA,0–1,0,1,-1,1,0,0,0,1,8,0,10
+Paraguay v Spain,T-53,Paraguay,PRY,T-70,Spain,ESP,0–0,0,0,0,0,0,0,0,0,8,0,11
+Croatia v Japan,T-17,Croatia,HRV,T-42,Japan,JPN,1–0,1,0,1,-1,0,0,1,0,10,0,12
+Belgium v Mexico,T-06,Belgium,BEL,T-44,Mexico,MEX,2–2,2,2,0,0,0,0,0,0,6,2,10
+Netherlands v South Korea,T-46,Netherlands,NLD,T-68,South Korea,KOR,5–0,5,0,5,-5,0,0,1,0,2,0,6
+Germany v Yugoslavia,T-29,Germany,DEU,T-83,Yugoslavia,YUG,2–2,2,2,0,0,0,0,0,0,1,0,6
+Argentina v Jamaica,T-03,Argentina,ARG,T-41,Jamaica,JAM,5–0,5,0,5,-5,0,0,1,0,5,1,6
+Iran v United States,T-36,Iran,IRN,T-79,United States,USA,2–1,2,1,1,-1,0,0,1,0,3,0,6
+Colombia v Tunisia,T-15,Colombia,COL,T-75,Tunisia,TUN,1–0,1,0,1,-1,0,0,1,0,3,0,6
+England v Romania,T-27,England,ENG,T-58,Romania,ROU,1–2,1,2,-1,1,0,0,0,1,4,0,5
+Cameroon v Chile,T-11,Cameroon,CMR,T-13,Chile,CHL,1–1,1,1,0,0,0,0,0,0,5,2,6
+Austria v Italy,T-05,Austria,AUT,T-39,Italy,ITA,1–2,1,2,-1,1,0,0,0,1,6,0,13
+Brazil v Norway,T-09,Brazil,BRA,T-51,Norway,NOR,1–2,1,2,-1,1,0,0,0,1,2,0,3
+Morocco v Scotland,T-45,Morocco,MAR,T-61,Scotland,SCO,3–0,3,0,3,-3,0,0,1,0,2,1,5
+Denmark v France,T-21,Denmark,DNK,T-28,France,FRA,1–2,1,2,-1,1,0,0,0,1,4,0,6
+Saudi Arabia v South Africa,T-60,Saudi Arabia,SAU,T-67,South Africa,ZAF,2–2,2,2,0,0,0,0,0,0,3,0,5
+Nigeria v Paraguay,T-48,Nigeria,NGA,T-53,Paraguay,PRY,1–3,1,3,-2,2,0,0,0,1,2,0,5
+Bulgaria v Spain,T-10,Bulgaria,BGR,T-70,Spain,ESP,1–6,1,6,-5,5,0,0,0,1,4,0,6
+Belgium v South Korea,T-06,Belgium,BEL,T-68,South Korea,KOR,1–1,1,1,0,0,0,0,0,0,6,0,9
+Mexico v Netherlands,T-44,Mexico,MEX,T-46,Netherlands,NLD,2–2,2,2,0,0,0,0,0,0,9,1,11
+Germany v Iran,T-29,Germany,DEU,T-36,Iran,IRN,2–0,2,0,2,-2,0,0,1,0,3,0,4
+United States v Yugoslavia,T-79,United States,USA,T-83,Yugoslavia,YUG,0–1,0,1,-1,1,0,0,0,1,3,0,6
+Argentina v Croatia,T-03,Argentina,ARG,T-17,Croatia,HRV,1–0,1,0,1,-1,0,0,1,0,14,0,11
+Jamaica v Japan,T-41,Jamaica,JAM,T-42,Japan,JPN,2–1,2,1,1,-1,0,0,1,0,3,0,6
+Colombia v England,T-15,Colombia,COL,T-27,England,ENG,0–2,0,2,-2,2,0,0,0,1,13,0,14
+Romania v Tunisia,T-58,Romania,ROU,T-75,Tunisia,TUN,1–1,1,1,0,0,0,0,0,0,2,0,6
+Italy v Norway,T-39,Italy,ITA,T-51,Norway,NOR,1–0,1,0,1,-1,0,0,1,0,9,1,11
+Brazil v Chile,T-09,Brazil,BRA,T-13,Chile,CHL,4–1,4,1,3,-3,0,0,1,0,16,0,17
+France v Paraguay,T-28,France,FRA,T-53,Paraguay,PRY,1–0,1,0,1,-1,0,0,1,0,5,0,6
+Denmark v Nigeria,T-21,Denmark,DNK,T-48,Nigeria,NGA,4–1,4,1,3,-3,0,0,1,0,2,0,5
+Germany v Mexico,T-29,Germany,DEU,T-44,Mexico,MEX,2–1,2,1,1,-1,0,0,1,0,10,0,12
+Netherlands v Yugoslavia,T-46,Netherlands,NLD,T-83,Yugoslavia,YUG,2–1,2,1,1,-1,0,0,1,0,3,0,2
+Croatia v Romania,T-17,Croatia,HRV,T-58,Romania,ROU,1–0,1,0,1,-1,0,0,1,0,5,0,5
+Argentina v England,T-03,Argentina,ARG,T-27,England,ENG,2–2,2,2,0,0,4,3,1,0,11,1,15
+France v Italy,T-28,France,FRA,T-39,Italy,ITA,0–0,0,0,0,0,4,3,1,0,15,1,18
+Brazil v Denmark,T-09,Brazil,BRA,T-21,Denmark,DNK,3–2,3,2,1,-1,0,0,1,0,6,0,6
+Argentina v Netherlands,T-03,Argentina,ARG,T-46,Netherlands,NLD,1–2,1,2,-1,1,0,0,0,1,18,2,18
+Croatia v Germany,T-17,Croatia,HRV,T-29,Germany,DEU,3–0,3,0,3,-3,0,0,1,0,4,1,3
+Brazil v Netherlands,T-09,Brazil,BRA,T-46,Netherlands,NLD,1–1,1,1,0,0,4,2,1,0,11,0,11
+Croatia v France,T-17,Croatia,HRV,T-28,France,FRA,1–2,1,2,-1,1,0,0,0,1,6,1,10
+Croatia v Netherlands,T-17,Croatia,HRV,T-46,Netherlands,NLD,2–1,2,1,1,-1,0,0,1,0,6,0,4
+Brazil v France,T-09,Brazil,BRA,T-28,France,FRA,0–3,0,3,-3,3,0,0,0,1,13,1,15
+France v Senegal,T-28,France,FRA,T-62,Senegal,SEN,0–1,0,1,-1,1,0,0,0,1,2,0,2
+Cameroon v Republic of Ireland,T-11,Cameroon,CMR,T-57,Republic of Ireland,IRL,1–1,1,1,0,0,0,0,0,0,4,0,3
+Denmark v Uruguay,T-21,Denmark,DNK,T-80,Uruguay,URY,2–1,2,1,1,-1,0,0,1,0,3,0,6
+Germany v Saudi Arabia,T-29,Germany,DEU,T-60,Saudi Arabia,SAU,8–0,8,0,8,-8,0,0,1,0,3,0,6
+Argentina v Nigeria,T-03,Argentina,ARG,T-48,Nigeria,NGA,1–0,1,0,1,-1,0,0,1,0,8,0,15
+Paraguay v South Africa,T-53,Paraguay,PRY,T-67,South Africa,ZAF,2–2,2,2,0,0,0,0,0,0,8,0,5
+England v Sweden,T-27,England,ENG,T-71,Sweden,SWE,1–1,1,1,0,0,0,0,0,0,3,0,4
+Slovenia v Spain,T-66,Slovenia,SVN,T-70,Spain,ESP,1–3,1,3,-2,2,0,0,0,1,3,0,6
+Croatia v Mexico,T-17,Croatia,HRV,T-44,Mexico,MEX,0–1,0,1,-1,1,0,0,0,1,3,2,11
+Brazil v Turkey,T-09,Brazil,BRA,T-76,Turkey,TUR,2–1,2,1,1,-1,0,0,1,0,9,2,12
+Ecuador v Italy,T-24,Ecuador,ECU,T-39,Italy,ITA,0–2,0,2,-2,2,0,0,0,1,4,0,6
+China v Costa Rica,T-14,China,CHN,T-16,Costa Rica,CRI,0–2,0,2,-2,2,0,0,0,1,7,0,6
+Belgium v Japan,T-06,Belgium,BEL,T-42,Japan,JPN,2–2,2,2,0,0,0,0,0,0,5,0,5
+Poland v South Korea,T-55,Poland,POL,T-68,South Korea,KOR,0–2,0,2,-2,2,0,0,0,1,5,0,6
+Russia v Tunisia,T-59,Russia,RUS,T-75,Tunisia,TUN,2–0,2,0,2,-2,0,0,1,0,4,0,6
+Portugal v United States,T-56,Portugal,PRT,T-79,United States,USA,2–3,2,3,-1,1,0,0,0,1,4,0,12
+Germany v Republic of Ireland,T-29,Germany,DEU,T-57,Republic of Ireland,IRL,1–1,1,1,0,0,0,0,0,0,0,0,6
+Denmark v Senegal,T-21,Denmark,DNK,T-62,Senegal,SEN,1–1,1,1,0,0,0,0,0,0,6,1,6
+Cameroon v Saudi Arabia,T-11,Cameroon,CMR,T-60,Saudi Arabia,SAU,1–0,1,0,1,-1,0,0,1,0,2,0,6
+France v Uruguay,T-28,France,FRA,T-80,Uruguay,URY,0–0,0,0,0,0,0,0,0,0,5,1,6
+Nigeria v Sweden,T-48,Nigeria,NGA,T-71,Sweden,SWE,1–2,1,2,-1,1,0,0,0,1,3,0,4
+Paraguay v Spain,T-53,Paraguay,PRY,T-70,Spain,ESP,1–3,1,3,-2,2,0,0,0,1,8,0,11
+Argentina v England,T-03,Argentina,ARG,T-27,England,ENG,0–1,0,1,-1,1,0,0,0,1,11,1,15
+Slovenia v South Africa,T-66,Slovenia,SVN,T-67,South Africa,ZAF,0–1,0,1,-1,1,0,0,0,1,6,0,6
+Croatia v Italy,T-17,Croatia,HRV,T-39,Italy,ITA,2–1,2,1,1,-1,0,0,1,0,2,0,5
+Brazil v China,T-09,Brazil,BRA,T-14,China,CHN,4–0,4,0,4,-4,0,0,1,0,2,0,6
+Ecuador v Mexico,T-24,Ecuador,ECU,T-44,Mexico,MEX,1–2,1,2,-1,1,0,0,0,1,6,0,6
+Costa Rica v Turkey,T-16,Costa Rica,CRI,T-76,Turkey,TUR,1–1,1,1,0,0,0,0,0,0,5,0,6
+Japan v Russia,T-42,Japan,JPN,T-59,Russia,RUS,1–0,1,0,1,-1,0,0,1,0,6,0,6
+South Korea v United States,T-68,South Korea,KOR,T-79,United States,USA,1–1,1,1,0,0,0,0,0,0,3,0,5
+Belgium v Tunisia,T-06,Belgium,BEL,T-75,Tunisia,TUN,1–1,1,1,0,0,0,0,0,0,5,0,6
+Poland v Portugal,T-55,Poland,POL,T-56,Portugal,PRT,0–4,0,4,-4,4,0,0,0,1,5,0,6
+Denmark v France,T-21,Denmark,DNK,T-28,France,FRA,2–0,2,0,2,-2,0,0,1,0,4,0,12
+Senegal v Uruguay,T-62,Senegal,SEN,T-80,Uruguay,URY,3–3,3,3,0,0,0,0,0,0,12,0,6
+Cameroon v Germany,T-11,Cameroon,CMR,T-29,Germany,DEU,0–2,0,2,-2,2,0,0,0,1,18,2,6
+Republic of Ireland v Saudi Arabia,T-57,Republic of Ireland,IRL,T-60,Saudi Arabia,SAU,3–0,3,0,3,-3,0,0,1,0,2,0,6
+England v Nigeria,T-27,England,ENG,T-48,Nigeria,NGA,0–0,0,0,0,0,0,0,0,0,0,0,4
+Argentina v Sweden,T-03,Argentina,ARG,T-71,Sweden,SWE,1–1,1,1,0,0,0,0,0,0,5,0,6
+Paraguay v Slovenia,T-53,Paraguay,PRY,T-66,Slovenia,SVN,3–1,3,1,2,-2,0,0,1,0,7,2,6
+South Africa v Spain,T-67,South Africa,ZAF,T-70,Spain,ESP,2–3,2,3,-1,1,0,0,0,1,4,0,6
+Brazil v Costa Rica,T-09,Brazil,BRA,T-16,Costa Rica,CRI,5–2,5,2,3,-3,0,0,1,0,1,0,6
+China v Turkey,T-14,China,CHN,T-76,Turkey,TUR,0–3,0,3,-3,3,0,0,0,1,5,1,6
+Croatia v Ecuador,T-17,Croatia,HRV,T-24,Ecuador,ECU,0–1,0,1,-1,1,0,0,0,1,3,0,5
+Italy v Mexico,T-39,Italy,ITA,T-44,Mexico,MEX,1–1,1,1,0,0,0,0,0,0,7,0,6
+Belgium v Russia,T-06,Belgium,BEL,T-59,Russia,RUS,3–2,3,2,1,-1,0,0,1,0,8,0,12
+Japan v Tunisia,T-42,Japan,JPN,T-75,Tunisia,TUN,2–0,2,0,2,-2,0,0,1,0,2,0,6
+Poland v United States,T-55,Poland,POL,T-79,United States,USA,3–1,3,1,2,-2,0,0,1,0,5,0,6
+Portugal v South Korea,T-56,Portugal,PRT,T-68,South Korea,KOR,0–1,0,1,-1,1,0,0,0,1,8,2,4
+Germany v Paraguay,T-29,Germany,DEU,T-53,Paraguay,PRY,1–0,1,0,1,-1,0,0,1,0,5,1,6
+Denmark v England,T-21,Denmark,DNK,T-27,England,ENG,0–3,0,3,-3,3,0,0,0,1,2,0,5
+Senegal v Sweden,T-62,Senegal,SEN,T-71,Sweden,SWE,2–1,2,1,1,-1,0,0,1,0,2,0,4
+Republic of Ireland v Spain,T-57,Republic of Ireland,IRL,T-70,Spain,ESP,1–1,1,1,0,0,2,3,0,1,3,0,6
+Mexico v United States,T-44,Mexico,MEX,T-79,United States,USA,0–2,0,2,-2,2,0,0,0,1,10,1,6
+Belgium v Brazil,T-06,Belgium,BEL,T-09,Brazil,BRA,0–2,0,2,-2,2,0,0,0,1,6,0,9
+Japan v Turkey,T-42,Japan,JPN,T-76,Turkey,TUR,0–1,0,1,-1,1,0,0,0,1,4,0,6
+Italy v South Korea,T-39,Italy,ITA,T-68,South Korea,KOR,1–2,1,2,-1,1,0,0,0,1,16,1,9
+Brazil v England,T-09,Brazil,BRA,T-27,England,ENG,2–1,2,1,1,-1,0,0,1,0,2,1,4
+Germany v United States,T-29,Germany,DEU,T-79,United States,USA,1–0,1,0,1,-1,0,0,1,0,12,0,12
+South Korea v Spain,T-68,South Korea,KOR,T-70,Spain,ESP,0–0,0,0,0,0,5,3,1,0,7,1,10
+Senegal v Turkey,T-62,Senegal,SEN,T-76,Turkey,TUR,0–1,0,1,-1,1,0,0,0,1,4,0,2
+Germany v South Korea,T-29,Germany,DEU,T-68,South Korea,KOR,1–0,1,0,1,-1,0,0,1,0,7,0,11
+Brazil v Turkey,T-09,Brazil,BRA,T-76,Turkey,TUR,1–0,1,0,1,-1,0,0,1,0,9,2,12
+South Korea v Turkey,T-68,South Korea,KOR,T-76,Turkey,TUR,2–3,2,3,-1,1,0,0,0,1,3,0,6
+Brazil v Germany,T-09,Brazil,BRA,T-29,Germany,DEU,2–0,2,0,2,-2,0,0,1,0,2,0,5
+Costa Rica v Germany,T-16,Costa Rica,CRI,T-29,Germany,DEU,2–4,2,4,-2,2,0,0,0,1,1,0,6
+Ecuador v Poland,T-24,Ecuador,ECU,T-55,Poland,POL,2–0,2,0,2,-2,0,0,1,0,3,0,6
+England v Paraguay,T-27,England,ENG,T-53,Paraguay,PRY,1–0,1,0,1,-1,0,0,1,0,6,0,8
+Sweden v Trinidad and Tobago,T-71,Sweden,SWE,T-74,Trinidad and Tobago,TTO,0–0,0,0,0,0,0,0,0,0,5,1,5
+Argentina v Ivory Coast,T-03,Argentina,ARG,T-40,Ivory Coast,CIV,2–1,2,1,1,-1,0,0,1,0,5,0,6
+Netherlands v Serbia and Montenegro,T-46,Netherlands,NLD,T-64,Serbia and Montenegro,SCG,1–0,1,0,1,-1,0,0,1,0,6,0,6
+Iran v Mexico,T-36,Iran,IRN,T-44,Mexico,MEX,1–3,1,3,-2,2,0,0,0,1,3,0,5
+Angola v Portugal,T-02,Angola,AGO,T-56,Portugal,PRT,0–1,0,1,-1,1,0,0,0,1,5,0,6
+Australia v Japan,T-04,Australia,AUS,T-42,Japan,JPN,3–1,3,1,2,-2,0,0,1,0,7,0,6
+Czech Republic v United States,T-19,Czech Republic,CZE,T-79,United States,USA,3–0,3,0,3,-3,0,0,1,0,6,0,6
+Ghana v Italy,T-30,Ghana,GHA,T-39,Italy,ITA,0–2,0,2,-2,2,0,0,0,1,5,0,6
+South Korea v Togo,T-68,South Korea,KOR,T-73,Togo,TGO,2–1,2,1,1,-1,0,0,1,0,7,1,6
+France v Switzerland,T-28,France,FRA,T-72,Switzerland,CHE,0–0,0,0,0,0,0,0,0,0,8,0,5
+Brazil v Croatia,T-09,Brazil,BRA,T-17,Croatia,HRV,1–0,1,0,1,-1,0,0,1,0,8,0,8
+Spain v Ukraine,T-70,Spain,ESP,T-77,Ukraine,UKR,4–0,4,0,4,-4,0,0,1,0,2,1,6
+Saudi Arabia v Tunisia,T-60,Saudi Arabia,SAU,T-75,Tunisia,TUN,2–2,2,2,0,0,0,0,0,0,4,0,6
+Germany v Poland,T-29,Germany,DEU,T-55,Poland,POL,1–0,1,0,1,-1,0,0,1,0,8,1,6
+Costa Rica v Ecuador,T-16,Costa Rica,CRI,T-24,Ecuador,ECU,0–3,0,3,-3,3,0,0,0,1,5,0,6
+England v Trinidad and Tobago,T-27,England,ENG,T-74,Trinidad and Tobago,TTO,2–0,2,0,2,-2,0,0,1,0,6,0,5
+Paraguay v Sweden,T-53,Paraguay,PRY,T-71,Sweden,SWE,0–1,0,1,-1,1,0,0,0,1,8,0,6
+Argentina v Serbia and Montenegro,T-03,Argentina,ARG,T-64,Serbia and Montenegro,SCG,6–0,6,0,6,-6,0,0,1,0,4,1,6
+Ivory Coast v Netherlands,T-40,Ivory Coast,CIV,T-46,Netherlands,NLD,1–2,1,2,-1,1,0,0,0,1,7,0,6
+Angola v Mexico,T-02,Angola,AGO,T-44,Mexico,MEX,0–0,0,0,0,0,0,0,0,0,7,1,6
+Iran v Portugal,T-36,Iran,IRN,T-56,Portugal,PRT,0–2,0,2,-2,2,0,0,0,1,7,0,6
+Czech Republic v Ghana,T-19,Czech Republic,CZE,T-30,Ghana,GHA,0–2,0,2,-2,2,0,0,0,1,7,1,6
+Italy v United States,T-39,Italy,ITA,T-79,United States,USA,1–1,1,1,0,0,0,0,0,0,7,3,8
+Croatia v Japan,T-17,Croatia,HRV,T-42,Japan,JPN,0–0,0,0,0,0,0,0,0,0,10,0,12
+Australia v Brazil,T-04,Australia,AUS,T-09,Brazil,BRA,0–2,0,2,-2,2,0,0,0,1,5,0,6
+France v South Korea,T-28,France,FRA,T-68,South Korea,KOR,1–1,1,1,0,0,0,0,0,0,4,0,6
+Switzerland v Togo,T-72,Switzerland,CHE,T-73,Togo,TGO,2–0,2,0,2,-2,0,0,1,0,4,0,6
+Saudi Arabia v Ukraine,T-60,Saudi Arabia,SAU,T-77,Ukraine,UKR,0–4,0,4,-4,4,0,0,0,1,6,0,6
+Spain v Tunisia,T-70,Spain,ESP,T-75,Tunisia,TUN,3–1,3,1,2,-2,0,0,1,0,8,0,6
+Costa Rica v Poland,T-16,Costa Rica,CRI,T-55,Poland,POL,1–2,1,2,-1,1,0,0,0,1,10,0,6
+Ecuador v Germany,T-24,Ecuador,ECU,T-29,Germany,DEU,0–3,0,3,-3,3,0,0,0,1,2,0,6
+Paraguay v Trinidad and Tobago,T-53,Paraguay,PRY,T-74,Trinidad and Tobago,TTO,2–0,2,0,2,-2,0,0,1,0,4,0,6
+England v Sweden,T-27,England,ENG,T-71,Sweden,SWE,2–2,2,2,0,0,0,0,0,0,6,0,12
+Angola v Iran,T-02,Angola,AGO,T-36,Iran,IRN,1–1,1,1,0,0,0,0,0,0,6,0,6
+Mexico v Portugal,T-44,Mexico,MEX,T-56,Portugal,PRT,1–2,1,2,-1,1,0,0,0,1,10,1,6
+Ivory Coast v Serbia and Montenegro,T-40,Ivory Coast,CIV,T-64,Serbia and Montenegro,SCG,3–2,3,2,1,-1,0,0,1,0,11,2,4
+Argentina v Netherlands,T-03,Argentina,ARG,T-46,Netherlands,NLD,0–0,0,0,0,0,0,0,0,0,18,2,18
+Czech Republic v Italy,T-19,Czech Republic,CZE,T-39,Italy,ITA,0–2,0,2,-2,2,0,0,0,1,4,1,6
+Ghana v United States,T-30,Ghana,GHA,T-79,United States,USA,2–1,2,1,1,-1,0,0,1,0,7,0,12
+Australia v Croatia,T-04,Australia,AUS,T-17,Croatia,HRV,2–2,2,2,0,0,0,0,0,0,11,3,6
+Brazil v Japan,T-09,Brazil,BRA,T-42,Japan,JPN,4–1,4,1,3,-3,0,0,1,0,2,0,6
+Saudi Arabia v Spain,T-60,Saudi Arabia,SAU,T-70,Spain,ESP,0–1,0,1,-1,1,0,0,0,1,5,0,6
+Tunisia v Ukraine,T-75,Tunisia,TUN,T-77,Ukraine,UKR,0–1,0,1,-1,1,0,0,0,1,9,1,6
+South Korea v Switzerland,T-68,South Korea,KOR,T-72,Switzerland,CHE,0–2,0,2,-2,2,0,0,0,1,10,0,5
+France v Togo,T-28,France,FRA,T-73,Togo,TGO,2–0,2,0,2,-2,0,0,1,0,4,0,5
+Germany v Sweden,T-29,Germany,DEU,T-71,Sweden,SWE,2–0,2,0,2,-2,0,0,1,0,11,2,12
+Argentina v Mexico,T-03,Argentina,ARG,T-44,Mexico,MEX,2–1,2,1,1,-1,0,0,1,0,7,0,11
+Ecuador v England,T-24,Ecuador,ECU,T-27,England,ENG,0–1,0,1,-1,1,0,0,0,1,6,0,5
+Netherlands v Portugal,T-46,Netherlands,NLD,T-56,Portugal,PRT,0–1,0,1,-1,1,0,0,0,1,20,4,6
+Australia v Italy,T-04,Australia,AUS,T-39,Italy,ITA,0–1,0,1,-1,1,0,0,0,1,6,1,4
+Switzerland v Ukraine,T-72,Switzerland,CHE,T-77,Ukraine,UKR,0–0,0,0,0,0,0,3,0,1,1,0,6
+Brazil v Ghana,T-09,Brazil,BRA,T-30,Ghana,GHA,3–0,3,0,3,-3,0,0,1,0,9,1,5
+France v Spain,T-28,France,FRA,T-70,Spain,ESP,3–1,3,1,2,-2,0,0,1,0,4,0,5
+Argentina v Germany,T-03,Argentina,ARG,T-29,Germany,DEU,1–1,1,1,0,0,2,4,0,1,11,0,12
+Italy v Ukraine,T-39,Italy,ITA,T-77,Ukraine,UKR,3–0,3,0,3,-3,0,0,1,0,3,0,6
+England v Portugal,T-27,England,ENG,T-56,Portugal,PRT,0–0,0,0,0,0,1,3,0,1,4,1,6
+Brazil v France,T-09,Brazil,BRA,T-28,France,FRA,0–1,0,1,-1,1,0,0,0,1,13,1,15
+Germany v Italy,T-29,Germany,DEU,T-39,Italy,ITA,0–2,0,2,-2,2,0,0,0,1,3,0,6
+France v Portugal,T-28,France,FRA,T-56,Portugal,PRT,1–0,1,0,1,-1,0,0,1,0,2,0,6
+Germany v Portugal,T-29,Germany,DEU,T-56,Portugal,PRT,3–1,3,1,2,-2,0,0,1,0,6,1,12
+France v Italy,T-28,France,FRA,T-39,Italy,ITA,1–1,1,1,0,0,3,5,0,1,15,1,18
+Mexico v South Africa,T-44,Mexico,MEX,T-67,South Africa,ZAF,1–1,1,1,0,0,0,0,0,0,4,0,5
+France v Uruguay,T-28,France,FRA,T-80,Uruguay,URY,0–0,0,0,0,0,0,0,0,0,12,1,12
+Greece v South Korea,T-31,Greece,GRC,T-68,South Korea,KOR,0–2,0,2,-2,2,0,0,0,1,1,0,6
+Argentina v Nigeria,T-03,Argentina,ARG,T-48,Nigeria,NGA,1–0,1,0,1,-1,0,0,1,0,8,0,15
+England v United States,T-27,England,ENG,T-79,United States,USA,1–1,1,1,0,0,0,0,0,0,6,0,5
+Algeria v Slovenia,T-01,Algeria,DZA,T-66,Slovenia,SVN,0–1,0,1,-1,1,0,0,0,1,6,1,6
+Ghana v Serbia,T-30,Ghana,GHA,T-63,Serbia,SRB,1–0,1,0,1,-1,0,0,1,0,7,1,6
+Australia v Germany,T-04,Australia,AUS,T-29,Germany,DEU,0–4,0,4,-4,4,0,0,0,1,5,1,6
+Denmark v Netherlands,T-21,Denmark,DNK,T-46,Netherlands,NLD,0–2,0,2,-2,2,0,0,0,1,3,0,6
+Cameroon v Japan,T-11,Cameroon,CMR,T-42,Japan,JPN,0–1,0,1,-1,1,0,0,0,1,2,0,6
+Italy v Paraguay,T-39,Italy,ITA,T-53,Paraguay,PRY,1–1,1,1,0,0,0,0,0,0,2,0,6
+New Zealand v Slovakia,T-47,New Zealand,NZL,T-65,Slovakia,SVK,1–1,1,1,0,0,0,0,0,0,3,0,5
+Ivory Coast v Portugal,T-40,Ivory Coast,CIV,T-56,Portugal,PRT,0–0,0,0,0,0,0,0,0,0,3,0,6
+Brazil v North Korea,T-09,Brazil,BRA,T-49,North Korea,PRK,2–1,2,1,1,-1,0,0,1,0,1,0,4
+Chile v Honduras,T-13,Chile,CHL,T-33,Honduras,HND,1–0,1,0,1,-1,0,0,1,0,3,0,6
+Spain v Switzerland,T-70,Spain,ESP,T-72,Switzerland,CHE,0–1,0,1,-1,1,0,0,0,1,12,0,10
+South Africa v Uruguay,T-67,South Africa,ZAF,T-80,Uruguay,URY,0–3,0,3,-3,3,0,0,0,1,2,1,5
+Argentina v South Korea,T-03,Argentina,ARG,T-68,South Korea,KOR,4–1,4,1,3,-3,0,0,1,0,7,0,9
+Greece v Nigeria,T-31,Greece,GRC,T-48,Nigeria,NGA,2–1,2,1,1,-1,0,0,1,0,8,1,9
+France v Mexico,T-28,France,FRA,T-44,Mexico,MEX,0–2,0,2,-2,2,0,0,0,1,6,0,5
+Germany v Serbia,T-29,Germany,DEU,T-63,Serbia,SRB,0–1,0,1,-1,1,0,0,0,1,10,1,6
+Slovenia v United States,T-66,Slovenia,SVN,T-79,United States,USA,2–2,2,2,0,0,0,0,0,0,5,0,6
+Algeria v England,T-01,Algeria,DZA,T-27,England,ENG,0–0,0,0,0,0,0,0,0,0,2,0,6
+Japan v Netherlands,T-42,Japan,JPN,T-46,Netherlands,NLD,0–1,0,1,-1,1,0,0,0,1,1,0,6
+Australia v Ghana,T-04,Australia,AUS,T-30,Ghana,GHA,1–1,1,1,0,0,0,0,0,0,4,1,6
+Cameroon v Denmark,T-11,Cameroon,CMR,T-21,Denmark,DNK,1–2,1,2,-1,1,0,0,0,1,4,0,6
+Paraguay v Slovakia,T-53,Paraguay,PRY,T-65,Slovakia,SVK,2–0,2,0,2,-2,0,0,1,0,4,0,5
+Italy v New Zealand,T-39,Italy,ITA,T-47,New Zealand,NZL,1–1,1,1,0,0,0,0,0,0,3,0,6
+Brazil v Ivory Coast,T-09,Brazil,BRA,T-40,Ivory Coast,CIV,3–1,3,1,2,-2,0,0,1,0,6,1,5
+North Korea v Portugal,T-49,North Korea,PRK,T-56,Portugal,PRT,0–7,0,7,-7,7,0,0,0,1,4,0,6
+Chile v Switzerland,T-13,Chile,CHL,T-72,Switzerland,CHE,1–0,1,0,1,-1,0,0,1,0,9,1,6
+Honduras v Spain,T-33,Honduras,HND,T-70,Spain,ESP,0–2,0,2,-2,2,0,0,0,1,2,0,9
+France v South Africa,T-28,France,FRA,T-67,South Africa,ZAF,1–2,1,2,-1,1,0,0,0,1,5,1,11
+Mexico v Uruguay,T-44,Mexico,MEX,T-80,Uruguay,URY,0–1,0,1,-1,1,0,0,0,1,3,0,5
+Argentina v Greece,T-03,Argentina,ARG,T-31,Greece,GRC,2–0,2,0,2,-2,0,0,1,0,2,0,6
+Nigeria v South Korea,T-48,Nigeria,NGA,T-68,South Korea,KOR,2–2,2,2,0,0,0,0,0,0,4,0,6
+England v Slovenia,T-27,England,ENG,T-66,Slovenia,SVN,1–0,1,0,1,-1,0,0,1,0,4,0,4
+Algeria v United States,T-01,Algeria,DZA,T-79,United States,USA,0–1,0,1,-1,1,0,0,0,1,7,1,6
+Australia v Serbia,T-04,Australia,AUS,T-63,Serbia,SRB,2–1,2,1,1,-1,0,0,1,0,5,0,6
+Germany v Ghana,T-29,Germany,DEU,T-30,Ghana,GHA,1–0,1,0,1,-1,0,0,1,0,2,0,6
+New Zealand v Paraguay,T-47,New Zealand,NZL,T-53,Paraguay,PRY,0–0,0,0,0,0,0,0,0,0,3,0,4
+Italy v Slovakia,T-39,Italy,ITA,T-65,Slovakia,SVK,2–3,2,3,-1,1,0,0,0,1,8,0,6
+Cameroon v Netherlands,T-11,Cameroon,CMR,T-46,Netherlands,NLD,1–2,1,2,-1,1,0,0,0,1,5,0,6
+Denmark v Japan,T-21,Denmark,DNK,T-42,Japan,JPN,1–3,1,3,-2,2,0,0,0,1,5,0,6
+Ivory Coast v North Korea,T-40,Ivory Coast,CIV,T-49,North Korea,PRK,3–0,3,0,3,-3,0,0,1,0,0,0,4
+Brazil v Portugal,T-09,Brazil,BRA,T-56,Portugal,PRT,0–0,0,0,0,0,0,0,0,0,7,0,6
+Chile v Spain,T-13,Chile,CHL,T-70,Spain,ESP,1–2,1,2,-1,1,0,0,0,1,5,1,5
+Honduras v Switzerland,T-33,Honduras,HND,T-72,Switzerland,CHE,0–0,0,0,0,0,0,0,0,0,5,0,6
+South Korea v Uruguay,T-68,South Korea,KOR,T-80,Uruguay,URY,1–2,1,2,-1,1,0,0,0,1,3,0,5
+Ghana v United States,T-30,Ghana,GHA,T-79,United States,USA,2–1,2,1,1,-1,0,0,1,0,5,0,6
+England v Germany,T-27,England,ENG,T-29,Germany,DEU,1–4,1,4,-3,3,0,0,0,1,2,0,6
+Argentina v Mexico,T-03,Argentina,ARG,T-44,Mexico,MEX,3–1,3,1,2,-2,0,0,1,0,7,0,11
+Netherlands v Slovakia,T-46,Netherlands,NLD,T-65,Slovakia,SVK,2–1,2,1,1,-1,0,0,1,0,5,0,6
+Brazil v Chile,T-09,Brazil,BRA,T-13,Chile,CHL,3–0,3,0,3,-3,0,0,1,0,16,0,17
+Japan v Paraguay,T-42,Japan,JPN,T-53,Paraguay,PRY,0–0,0,0,0,0,3,5,0,1,5,0,6
+Portugal v Spain,T-56,Portugal,PRT,T-70,Spain,ESP,0–1,0,1,-1,1,0,0,0,1,2,1,6
+Brazil v Netherlands,T-09,Brazil,BRA,T-46,Netherlands,NLD,1–2,1,2,-1,1,0,0,0,1,13,2,10
+Ghana v Uruguay,T-30,Ghana,GHA,T-80,Uruguay,URY,1–1,1,1,0,0,2,4,0,1,6,1,5
+Argentina v Germany,T-03,Argentina,ARG,T-29,Germany,DEU,0–4,0,4,-4,4,0,0,0,1,3,0,5
+Paraguay v Spain,T-53,Paraguay,PRY,T-70,Spain,ESP,0–1,0,1,-1,1,0,0,0,1,6,0,6
+Netherlands v Uruguay,T-46,Netherlands,NLD,T-80,Uruguay,URY,3–2,3,2,1,-1,0,0,1,0,8,1,5
+Germany v Spain,T-29,Germany,DEU,T-70,Spain,ESP,0–1,0,1,-1,1,0,0,0,1,4,0,9
+Germany v Uruguay,T-29,Germany,DEU,T-80,Uruguay,URY,3–2,3,2,1,-1,0,0,1,0,4,0,5
+Netherlands v Spain,T-46,Netherlands,NLD,T-70,Spain,ESP,0–1,0,1,-1,1,0,0,0,1,15,1,6
+Brazil v Croatia,T-09,Brazil,BRA,T-17,Croatia,HRV,3–1,3,1,2,-2,0,0,1,0,8,0,8
+Cameroon v Mexico,T-11,Cameroon,CMR,T-44,Mexico,MEX,0–1,0,1,-1,1,0,0,0,1,2,0,5
+Netherlands v Spain,T-46,Netherlands,NLD,T-70,Spain,ESP,5–1,5,1,4,-4,0,0,1,0,4,0,6
+Australia v Chile,T-04,Australia,AUS,T-13,Chile,CHL,1–3,1,3,-2,2,0,0,0,1,4,0,6
+Colombia v Greece,T-15,Colombia,COL,T-31,Greece,GRC,3–0,3,0,3,-3,0,0,1,0,3,0,6
+Costa Rica v Uruguay,T-16,Costa Rica,CRI,T-80,Uruguay,URY,3–1,3,1,2,-2,0,0,1,0,3,1,6
+England v Italy,T-27,England,ENG,T-39,Italy,ITA,1–2,1,2,-1,1,0,0,0,1,1,0,6
+Ivory Coast v Japan,T-40,Ivory Coast,CIV,T-42,Japan,JPN,2–1,2,1,1,-1,0,0,1,0,4,0,6
+Ecuador v Switzerland,T-24,Ecuador,ECU,T-72,Switzerland,CHE,1–2,1,2,-1,1,0,0,0,1,2,0,4
+France v Honduras,T-28,France,FRA,T-33,Honduras,HND,3–0,3,0,3,-3,0,0,1,0,8,1,6
+Argentina v Bosnia and Herzegovina,T-03,Argentina,ARG,T-08,Bosnia and Herzegovina,BIH,2–1,2,1,1,-1,0,0,1,0,2,0,6
+Germany v Portugal,T-29,Germany,DEU,T-56,Portugal,PRT,4–0,4,0,4,-4,0,0,1,0,6,1,12
+Iran v Nigeria,T-36,Iran,IRN,T-48,Nigeria,NGA,0–0,0,0,0,0,0,0,0,0,1,0,5
+Ghana v United States,T-30,Ghana,GHA,T-79,United States,USA,1–2,1,2,-1,1,0,0,0,1,7,0,12
+Algeria v Belgium,T-01,Algeria,DZA,T-06,Belgium,BEL,1–2,1,2,-1,1,0,0,0,1,2,0,6
+Brazil v Mexico,T-09,Brazil,BRA,T-44,Mexico,MEX,0–0,0,0,0,0,0,0,0,0,10,0,12
+Russia v South Korea,T-59,Russia,RUS,T-68,South Korea,KOR,1–1,1,1,0,0,0,0,0,0,4,0,6
+Australia v Netherlands,T-04,Australia,AUS,T-46,Netherlands,NLD,2–3,2,3,-1,1,0,0,0,1,2,0,6
+Chile v Spain,T-13,Chile,CHL,T-70,Spain,ESP,2–0,2,0,2,-2,0,0,1,0,3,0,6
+Cameroon v Croatia,T-11,Cameroon,CMR,T-17,Croatia,HRV,0–4,0,4,-4,4,0,0,0,1,1,1,6
+Colombia v Ivory Coast,T-15,Colombia,COL,T-40,Ivory Coast,CIV,2–1,2,1,1,-1,0,0,1,0,2,0,6
+England v Uruguay,T-27,England,ENG,T-80,Uruguay,URY,1–2,1,2,-1,1,0,0,0,1,2,0,6
+Greece v Japan,T-31,Greece,GRC,T-42,Japan,JPN,0–0,0,0,0,0,0,0,0,0,6,1,5
+Costa Rica v Italy,T-16,Costa Rica,CRI,T-39,Italy,ITA,1–0,1,0,1,-1,0,0,1,0,2,0,6
+France v Switzerland,T-28,France,FRA,T-72,Switzerland,CHE,5–2,5,2,3,-3,0,0,1,0,1,0,6
+Ecuador v Honduras,T-24,Ecuador,ECU,T-33,Honduras,HND,2–1,2,1,1,-1,0,0,1,0,5,0,6
+Argentina v Iran,T-03,Argentina,ARG,T-36,Iran,IRN,1–0,1,0,1,-1,0,0,1,0,2,0,6
+Germany v Ghana,T-29,Germany,DEU,T-30,Ghana,GHA,2–2,2,2,0,0,0,0,0,0,1,0,6
+Bosnia and Herzegovina v Nigeria,T-08,Bosnia and Herzegovina,BIH,T-48,Nigeria,NGA,0–1,0,1,-1,1,0,0,0,1,2,0,5
+Belgium v Russia,T-06,Belgium,BEL,T-59,Russia,RUS,1–0,1,0,1,-1,0,0,1,0,8,0,12
+Algeria v South Korea,T-01,Algeria,DZA,T-68,South Korea,KOR,4–2,4,2,2,-2,0,0,1,0,3,0,6
+Portugal v United States,T-56,Portugal,PRT,T-79,United States,USA,2–2,2,2,0,0,0,0,0,0,4,0,12
+Australia v Spain,T-04,Australia,AUS,T-70,Spain,ESP,0–3,0,3,-3,3,0,0,0,1,3,0,6
+Chile v Netherlands,T-13,Chile,CHL,T-46,Netherlands,NLD,0–2,0,2,-2,2,0,0,0,1,2,0,6
+Brazil v Cameroon,T-09,Brazil,BRA,T-11,Cameroon,CMR,4–1,4,1,3,-3,0,0,1,0,3,0,6
+Croatia v Mexico,T-17,Croatia,HRV,T-44,Mexico,MEX,1–3,1,3,-2,2,0,0,0,1,3,2,11
+Costa Rica v England,T-16,Costa Rica,CRI,T-27,England,ENG,0–0,0,0,0,0,0,0,0,0,3,0,6
+Italy v Uruguay,T-39,Italy,ITA,T-80,Uruguay,URY,0–1,0,1,-1,1,0,0,0,1,9,1,10
+Colombia v Japan,T-15,Colombia,COL,T-42,Japan,JPN,4–1,4,1,3,-3,0,0,1,0,2,0,6
+Greece v Ivory Coast,T-31,Greece,GRC,T-40,Ivory Coast,CIV,2–1,2,1,1,-1,0,0,1,0,3,0,6
+Bosnia and Herzegovina v Iran,T-08,Bosnia and Herzegovina,BIH,T-36,Iran,IRN,3–1,3,1,2,-2,0,0,1,0,2,0,6
+Argentina v Nigeria,T-03,Argentina,ARG,T-48,Nigeria,NGA,3–2,3,2,1,-1,0,0,1,0,7,0,11
+Honduras v Switzerland,T-33,Honduras,HND,T-72,Switzerland,CHE,0–3,0,3,-3,3,0,0,0,1,1,0,6
+Ecuador v France,T-24,Ecuador,ECU,T-28,France,FRA,0–0,0,0,0,0,0,0,0,0,1,1,6
+Ghana v Portugal,T-30,Ghana,GHA,T-56,Portugal,PRT,1–2,1,2,-1,1,0,0,0,1,4,0,6
+Germany v United States,T-29,Germany,DEU,T-79,United States,USA,1–0,1,0,1,-1,0,0,1,0,3,0,5
+Algeria v Russia,T-01,Algeria,DZA,T-59,Russia,RUS,1–1,1,1,0,0,0,0,0,0,4,0,6
+Belgium v South Korea,T-06,Belgium,BEL,T-68,South Korea,KOR,1–0,1,0,1,-1,0,0,1,0,2,1,6
+Brazil v Chile,T-09,Brazil,BRA,T-13,Chile,CHL,1–1,1,1,0,0,3,2,1,0,16,0,17
+Colombia v Uruguay,T-15,Colombia,COL,T-80,Uruguay,URY,2–0,2,0,2,-2,0,0,1,0,2,0,6
+Mexico v Netherlands,T-44,Mexico,MEX,T-46,Netherlands,NLD,1–2,1,2,-1,1,0,0,0,1,9,1,11
+Costa Rica v Greece,T-16,Costa Rica,CRI,T-31,Greece,GRC,1–1,1,1,0,0,5,3,1,0,8,1,6
+France v Nigeria,T-28,France,FRA,T-48,Nigeria,NGA,2–0,2,0,2,-2,0,0,1,0,1,0,4
+Algeria v Germany,T-01,Algeria,DZA,T-29,Germany,DEU,1–2,1,2,-1,1,0,0,0,1,2,0,6
+Argentina v Switzerland,T-03,Argentina,ARG,T-72,Switzerland,CHE,1–0,1,0,1,-1,0,0,1,0,5,0,6
+Belgium v United States,T-06,Belgium,BEL,T-79,United States,USA,2–1,2,1,1,-1,0,0,1,0,2,0,6
+France v Germany,T-28,France,FRA,T-29,Germany,DEU,0–1,0,1,-1,1,0,0,0,1,2,0,6
+Brazil v Colombia,T-09,Brazil,BRA,T-15,Colombia,COL,2–1,2,1,1,-1,0,0,1,0,4,0,6
+Argentina v Belgium,T-03,Argentina,ARG,T-06,Belgium,BEL,1–0,1,0,1,-1,0,0,1,0,7,0,9
+Costa Rica v Netherlands,T-16,Costa Rica,CRI,T-46,Netherlands,NLD,0–0,0,0,0,0,3,4,0,1,6,0,6
+Brazil v Germany,T-09,Brazil,BRA,T-29,Germany,DEU,1–7,1,7,-6,6,0,0,0,1,1,0,6
+Argentina v Netherlands,T-03,Argentina,ARG,T-46,Netherlands,NLD,0–0,0,0,0,0,4,2,1,0,18,2,18
+Brazil v Netherlands,T-09,Brazil,BRA,T-46,Netherlands,NLD,0–3,0,3,-3,3,0,0,0,1,11,0,11
+Argentina v Germany,T-03,Argentina,ARG,T-29,Germany,DEU,0–1,0,1,-1,1,0,0,0,1,11,0,12
+Russia v Saudi Arabia,T-59,Russia,RUS,T-60,Saudi Arabia,SAU,5–0,5,0,5,-5,0,0,1,0,2,0,6
+Egypt v Uruguay,T-25,Egypt,EGY,T-80,Uruguay,URY,0–1,0,1,-1,1,0,0,0,1,2,0,6
+Iran v Morocco,T-36,Iran,IRN,T-45,Morocco,MAR,1–0,1,0,1,-1,0,0,1,0,4,0,6
+Portugal v Spain,T-56,Portugal,PRT,T-70,Spain,ESP,3–3,3,3,0,0,0,0,0,0,2,0,6
+Australia v France,T-04,Australia,AUS,T-28,France,FRA,1–2,1,2,-1,1,0,0,0,1,4,0,6
+Argentina v Iceland,T-03,Argentina,ARG,T-35,Iceland,ISL,1–1,1,1,0,0,0,0,0,0,0,0,6
+Denmark v Peru,T-21,Denmark,DNK,T-54,Peru,PER,1–0,1,0,1,-1,0,0,1,0,3,0,6
+Croatia v Nigeria,T-17,Croatia,HRV,T-48,Nigeria,NGA,2–0,2,0,2,-2,0,0,1,0,3,0,6
+Costa Rica v Serbia,T-16,Costa Rica,CRI,T-63,Serbia,SRB,0–1,0,1,-1,1,0,0,0,1,4,0,6
+Germany v Mexico,T-29,Germany,DEU,T-44,Mexico,MEX,0–1,0,1,-1,1,0,0,0,1,10,0,12
+Brazil v Switzerland,T-09,Brazil,BRA,T-72,Switzerland,CHE,1–1,1,1,0,0,0,0,0,0,4,0,6
+South Korea v Sweden,T-68,South Korea,KOR,T-71,Sweden,SWE,0–1,0,1,-1,1,0,0,0,1,3,0,6
+Belgium v Panama,T-06,Belgium,BEL,T-52,Panama,PAN,3–0,3,0,3,-3,0,0,1,0,8,0,6
+England v Tunisia,T-27,England,ENG,T-75,Tunisia,TUN,2–1,2,1,1,-1,0,0,1,0,1,0,6
+Colombia v Japan,T-15,Colombia,COL,T-42,Japan,JPN,1–2,1,2,-1,1,0,0,0,1,3,1,6
+Poland v Senegal,T-55,Poland,POL,T-62,Senegal,SEN,1–2,1,2,-1,1,0,0,0,1,3,0,6
+Egypt v Russia,T-25,Egypt,EGY,T-59,Russia,RUS,1–3,1,3,-2,2,0,0,0,1,2,0,6
+Morocco v Portugal,T-45,Morocco,MAR,T-56,Portugal,PRT,0–1,0,1,-1,1,0,0,0,1,3,0,9
+Saudi Arabia v Uruguay,T-60,Saudi Arabia,SAU,T-80,Uruguay,URY,0–1,0,1,-1,1,0,0,0,1,0,0,6
+Iran v Spain,T-36,Iran,IRN,T-70,Spain,ESP,0–1,0,1,-1,1,0,0,0,1,2,0,6
+Australia v Denmark,T-04,Australia,AUS,T-21,Denmark,DNK,1–1,1,1,0,0,0,0,0,0,2,0,5
+France v Peru,T-28,France,FRA,T-54,Peru,PER,1–0,1,0,1,-1,0,0,1,0,4,0,6
+Argentina v Croatia,T-03,Argentina,ARG,T-17,Croatia,HRV,0–3,0,3,-3,3,0,0,0,1,14,0,11
+Brazil v Costa Rica,T-09,Brazil,BRA,T-16,Costa Rica,CRI,2–0,2,0,2,-2,0,0,1,0,7,0,10
+Iceland v Nigeria,T-35,Iceland,ISL,T-48,Nigeria,NGA,0–2,0,2,-2,2,0,0,0,1,1,0,6
+Serbia v Switzerland,T-63,Serbia,SRB,T-72,Switzerland,CHE,1–2,1,2,-1,1,0,0,0,1,5,0,5
+Belgium v Tunisia,T-06,Belgium,BEL,T-75,Tunisia,TUN,5–2,5,2,3,-3,0,0,1,0,1,0,6
+Mexico v South Korea,T-44,Mexico,MEX,T-68,South Korea,KOR,2–1,2,1,1,-1,0,0,1,0,7,1,12
+Germany v Sweden,T-29,Germany,DEU,T-71,Sweden,SWE,2–1,2,1,1,-1,0,0,1,0,11,2,12
+England v Panama,T-27,England,ENG,T-52,Panama,PAN,6–1,6,1,5,-5,0,0,1,0,4,0,6
+Japan v Senegal,T-42,Japan,JPN,T-62,Senegal,SEN,2–2,2,2,0,0,0,0,0,0,5,0,6
+Colombia v Poland,T-15,Colombia,COL,T-55,Poland,POL,3–0,3,0,3,-3,0,0,1,0,2,0,6
+Egypt v Saudi Arabia,T-25,Egypt,EGY,T-60,Saudi Arabia,SAU,1–2,1,2,-1,1,0,0,0,1,2,0,5
+Russia v Uruguay,T-59,Russia,RUS,T-80,Uruguay,URY,0–3,0,3,-3,3,0,0,0,1,5,1,6
+Morocco v Spain,T-45,Morocco,MAR,T-70,Spain,ESP,2–2,2,2,0,0,0,0,0,0,6,0,6
+Iran v Portugal,T-36,Iran,IRN,T-56,Portugal,PRT,1–1,1,1,0,0,0,0,0,0,6,0,6
+Australia v Peru,T-04,Australia,AUS,T-54,Peru,PER,0–2,0,2,-2,2,0,0,0,1,6,0,6
+Denmark v France,T-21,Denmark,DNK,T-28,France,FRA,0–0,0,0,0,0,0,0,0,0,4,0,12
+Croatia v Iceland,T-17,Croatia,HRV,T-35,Iceland,ISL,2–1,2,1,1,-1,0,0,1,0,5,0,6
+Argentina v Nigeria,T-03,Argentina,ARG,T-48,Nigeria,NGA,2–1,2,1,1,-1,0,0,1,0,7,0,11
+Germany v South Korea,T-29,Germany,DEU,T-68,South Korea,KOR,0–2,0,2,-2,2,0,0,0,1,4,0,6
+Mexico v Sweden,T-44,Mexico,MEX,T-71,Sweden,SWE,0–3,0,3,-3,3,0,0,0,1,5,0,6
+Brazil v Serbia,T-09,Brazil,BRA,T-63,Serbia,SRB,2–0,2,0,2,-2,0,0,1,0,3,0,6
+Costa Rica v Switzerland,T-16,Costa Rica,CRI,T-72,Switzerland,CHE,2–2,2,2,0,0,0,0,0,0,6,0,6
+Japan v Poland,T-42,Japan,JPN,T-55,Poland,POL,0–1,0,1,-1,1,0,0,0,1,1,0,5
+Colombia v Senegal,T-15,Colombia,COL,T-62,Senegal,SEN,1–0,1,0,1,-1,0,0,1,0,2,0,6
+Belgium v England,T-06,Belgium,BEL,T-27,England,ENG,1–0,1,0,1,-1,0,0,1,0,3,0,8
+Panama v Tunisia,T-52,Panama,PAN,T-75,Tunisia,TUN,1–2,1,2,-1,1,0,0,0,1,6,0,6
+Argentina v France,T-03,Argentina,ARG,T-28,France,FRA,3–4,3,4,-1,1,0,0,0,1,8,0,6
+Portugal v Uruguay,T-56,Portugal,PRT,T-80,Uruguay,URY,1–2,1,2,-1,1,0,0,0,1,1,0,6
+Russia v Spain,T-59,Russia,RUS,T-70,Spain,ESP,1–1,1,1,0,0,4,3,1,0,3,0,8
+Croatia v Denmark,T-17,Croatia,HRV,T-21,Denmark,DNK,1–1,1,1,0,0,3,2,1,0,1,0,8
+Brazil v Mexico,T-09,Brazil,BRA,T-44,Mexico,MEX,2–0,2,0,2,-2,0,0,1,0,10,0,12
+Belgium v Japan,T-06,Belgium,BEL,T-42,Japan,JPN,3–2,3,2,1,-1,0,0,1,0,1,0,4
+Sweden v Switzerland,T-71,Sweden,SWE,T-72,Switzerland,CHE,1–0,1,0,1,-1,0,0,1,0,3,1,5
+Colombia v England,T-15,Colombia,COL,T-27,England,ENG,1–1,1,1,0,0,3,4,0,1,13,0,14
+France v Uruguay,T-28,France,FRA,T-80,Uruguay,URY,2–0,2,0,2,-2,0,0,1,0,12,1,12
+Belgium v Brazil,T-06,Belgium,BEL,T-09,Brazil,BRA,2–1,2,1,1,-1,0,0,1,0,6,0,9
+England v Sweden,T-27,England,ENG,T-71,Sweden,SWE,2–0,2,0,2,-2,0,0,1,0,6,0,12
+Croatia v Russia,T-17,Croatia,HRV,T-59,Russia,RUS,2–2,2,2,0,0,4,3,1,0,5,0,8
+Belgium v France,T-06,Belgium,BEL,T-28,France,FRA,0–1,0,1,-1,1,0,0,0,1,5,0,5
+Croatia v England,T-17,Croatia,HRV,T-27,England,ENG,2–1,2,1,1,-1,0,0,1,0,3,0,8
+Belgium v England,T-06,Belgium,BEL,T-27,England,ENG,2–0,2,0,2,-2,0,0,1,0,3,0,6
+Croatia v France,T-17,Croatia,HRV,T-28,France,FRA,2–4,2,4,-2,2,0,0,0,1,6,1,10
