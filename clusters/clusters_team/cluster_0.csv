@@ -1,0 +1,314 @@
+match_name,total_teams_score,yellow_card,red_card,substitutions,n_same_squad_match,C-3,Segm K-means PCA,Segment
+Algeria v Austria,2,1,0,4,1,-0.18740488645287065,0,primo
+Algeria v Belgium,3,2,0,6,1,-0.15156778961702963,0,primo
+Algeria v Brazil,1,0,0,4,1,-0.310715198323436,0,primo
+Algeria v England,0,2,0,6,1,-0.6738663148008973,0,primo
+Algeria v Germany,3,2,0,6,1,-0.15156778961702963,0,primo
+Algeria v Northern Ireland,2,4,0,4,1,-0.33977247602504224,0,primo
+Algeria v Russia,2,4,0,6,1,-0.4272456910597667,0,primo
+Algeria v Spain,3,2,0,4,1,-0.0640945745823052,0,primo
+Algeria v West Germany,3,2,0,3,1,-0.020357967064943003,0,primo
+Angola v Iran,2,6,0,6,1,-0.5288240841078811,0,primo
+Angola v Portugal,1,5,0,6,1,-0.6521343959784465,0,primo
+Argentina v Bosnia and Herzegovina,3,2,0,6,1,-0.15156778961702963,0,primo
+Argentina v Chile,4,0,0,0,1,0.3865297569298807,0,primo
+Argentina v East Germany,2,2,0,2,1,-0.15072086794220346,0,primo
+Argentina v El Salvador,2,5,0,4,1,-0.39056167254909946,0,primo
+Argentina v Iceland,2,0,0,6,1,-0.22408890496353784,0,primo
+Argentina v Iran,1,2,0,6,1,-0.49976680640627485,0,primo
+Argentina v Ivory Coast,3,5,0,6,1,-0.30393537918920127,0,primo
+Argentina v Japan,1,3,0,4,1,-0.46308278789560764,0,primo
+Argentina v Northern Ireland,4,0,0,0,1,0.3865297569298807,0,primo
+Argentina v Spain,3,0,0,0,1,0.21243024853525805,0,primo
+Australia v Brazil,2,5,0,6,1,-0.4780348875838239,0,primo
+Australia v Denmark,2,2,0,5,1,-0.28193069049429004,0,primo
+Australia v East Germany,2,3,0,1,1,-0.15777345694889844,0,primo
+Australia v France,3,4,0,6,1,-0.25314618266514405,0,primo
+Australia v Japan,4,7,0,6,1,-0.23141426384269298,0,primo
+Australia v Peru,2,6,0,6,1,-0.5288240841078811,0,primo
+Australia v Serbia,3,5,0,6,1,-0.30393537918920127,0,primo
+Australia v Spain,3,3,0,6,1,-0.20235698614108683,0,primo
+Australia v West Germany,3,0,0,4,1,0.03748381846580923,0,primo
+Austria v Cameroon,2,2,0,6,1,-0.3256672980116523,0,primo
+Austria v England,4,0,0,0,1,0.3865297569298807,0,primo
+Austria v Hungary,3,0,0,0,1,0.21243024853525805,0,primo
+Austria v Northern Ireland,4,1,0,3,1,0.20453073785373682,0,primo
+Austria v Scotland,1,0,0,0,1,-0.13576876825398723,0,primo
+Austria v Soviet Union,2,0,0,0,1,0.038330740140635394,0,primo
+Austria v Spain,3,0,0,4,1,0.03748381846580923,0,primo
+Austria v Sweden,1,0,0,3,1,-0.26697859080607383,0,primo
+Austria v Uruguay,4,0,0,0,1,0.3865297569298807,0,primo
+Belgium v Hungary,2,2,0,4,1,-0.23819408297692787,0,primo
+Belgium v Morocco,1,5,0,5,1,-0.6083977884610843,0,primo
+Belgium v Panama,3,8,0,6,1,-0.4563029687613729,0,primo
+Belgium v Poland,3,1,0,3,1,0.030431229459114185,0,primo
+Belgium v Saudi Arabia,1,4,0,4,1,-0.5138719844196649,0,primo
+Bolivia v Brazil,4,0,0,0,1,0.3865297569298807,0,primo
+Bolivia v Spain,4,2,0,4,1,0.11000493381231743,0,primo
+Bolivia v Yugoslavia,4,0,0,0,1,0.3865297569298807,0,primo
+Bosnia and Herzegovina v Iran,4,2,0,6,1,0.022531718777593027,0,primo
+Bosnia and Herzegovina v Nigeria,1,2,0,5,1,-0.4560301988889126,0,primo
+Brazil v Bulgaria,2,0,0,0,1,0.038330740140635394,0,primo
+Brazil v China,4,2,0,6,1,0.022531718777593027,0,primo
+Brazil v Colombia,3,4,0,6,1,-0.25314618266514405,0,primo
+Brazil v East Germany,1,5,0,2,1,-0.4771879659089977,0,primo
+Brazil v Morocco,3,4,0,6,1,-0.25314618266514405,0,primo
+Brazil v New Zealand,4,0,0,4,1,0.21158332686043185,0,primo
+Brazil v North Korea,3,1,0,4,1,-0.013305378058248022,0,primo
+Brazil v Northern Ireland,3,1,0,4,1,-0.013305378058248022,0,primo
+Brazil v Norway,3,2,0,3,1,-0.020357967064943003,0,primo
+Brazil v Russia,2,3,0,4,1,-0.288983279500985,0,primo
+Brazil v Serbia,2,3,0,6,1,-0.37645649453570945,0,primo
+Brazil v Wales,1,0,0,0,1,-0.13576876825398723,0,primo
+Brazil v Zaire,3,2,0,4,1,-0.0640945745823052,0,primo
+Bulgaria v England,0,0,0,0,1,-0.30986827664860966,0,primo
+Bulgaria v Germany,3,8,0,4,1,-0.36882975372664845,0,primo
+Bulgaria v Greece,4,8,0,4,1,-0.1947302453320258,0,primo
+Bulgaria v Morocco,2,0,0,4,1,-0.1366156899288134,0,primo
+Bulgaria v Portugal,3,0,0,0,1,0.21243024853525805,0,primo
+Bulgaria v South Korea,2,3,0,4,1,-0.288983279500985,0,primo
+Bulgaria v Uruguay,2,2,0,3,1,-0.19445747545956565,0,primo
+Cameroon v Colombia,3,6,0,4,1,-0.267251360678534,0,primo
+Cameroon v Denmark,3,4,0,6,1,-0.25314618266514405,0,primo
+Cameroon v Japan,1,2,0,6,1,-0.49976680640627485,0,primo
+Cameroon v Mexico,1,2,0,5,1,-0.4560301988889126,0,primo
+Cameroon v Netherlands,3,5,0,6,1,-0.30393537918920127,0,primo
+Cameroon v Peru,0,1,0,4,1,-0.5356039032421158,0,primo
+Cameroon v Poland,0,3,0,3,1,-0.593445688772868,0,primo
+Cameroon v Republic of Ireland,2,4,0,3,1,-0.29603586850768004,0,primo
+Cameroon v Romania,3,3,0,4,1,-0.1148837711063624,0,primo
+Cameroon v Saudi Arabia,1,2,0,6,1,-0.49976680640627485,0,primo
+Cameroon v Soviet Union,4,3,0,4,1,0.05921573728826024,0,primo
+Cameroon v Sweden,4,2,0,4,1,0.11000493381231743,0,primo
+Canada v France,1,0,0,3,1,-0.26697859080607383,0,primo
+Canada v Soviet Union,2,0,0,4,1,-0.1366156899288134,0,primo
+Chile v East Germany,2,3,0,4,1,-0.288983279500985,0,primo
+Chile v England,2,0,0,0,1,0.038330740140635394,0,primo
+Chile v France,1,0,0,0,1,-0.13576876825398723,0,primo
+Chile v Honduras,1,3,0,6,1,-0.550556002930332,0,primo
+Chile v Mexico,3,0,0,0,1,0.21243024853525805,0,primo
+Chile v Netherlands,2,2,0,6,1,-0.3256672980116523,0,primo
+Chile v North Korea,2,0,0,0,1,0.038330740140635394,0,primo
+Chile v Yugoslavia,1,0,0,0,1,-0.13576876825398723,0,primo
+China v Costa Rica,2,7,0,6,1,-0.5796132806319382,0,primo
+Colombia v Greece,3,3,0,6,1,-0.20235698614108683,0,primo
+Colombia v Ivory Coast,3,2,0,6,1,-0.15156778961702963,0,primo
+Colombia v Poland,3,2,0,6,1,-0.15156778961702963,0,primo
+Colombia v Senegal,1,2,0,6,1,-0.49976680640627485,0,primo
+Colombia v Switzerland,2,5,0,4,1,-0.39056167254909946,0,primo
+Colombia v Tunisia,1,3,0,6,1,-0.550556002930332,0,primo
+Colombia v United Arab Emirates,2,3,0,3,1,-0.24524667198362282,0,primo
+Colombia v United States,3,2,0,4,1,-0.0640945745823052,0,primo
+Colombia v West Germany,2,4,0,2,1,-0.25229926099031785,0,primo
+Costa Rica v Ecuador,3,5,0,6,1,-0.30393537918920127,0,primo
+Costa Rica v England,0,3,0,6,1,-0.7246555113249545,0,primo
+Costa Rica v Italy,1,2,0,6,1,-0.49976680640627485,0,primo
+Costa Rica v Netherlands,0,6,0,6,1,-0.8770231008971261,0,primo
+Costa Rica v Poland,3,10,0,6,1,-0.5578813618094872,0,primo
+Costa Rica v Scotland,1,0,0,3,1,-0.26697859080607383,0,primo
+Costa Rica v Serbia,1,4,0,6,1,-0.6013451994543892,0,primo
+Costa Rica v Sweden,3,4,0,4,1,-0.1656729676304196,0,primo
+Costa Rica v Switzerland,4,6,0,6,1,-0.18062506731863578,0,primo
+Costa Rica v Turkey,2,5,0,6,1,-0.4780348875838239,0,primo
+Croatia v Denmark,2,1,0,8,1,-0.36235131652231944,0,primo
+Croatia v Ecuador,1,3,0,5,1,-0.5068193954129698,0,primo
+Croatia v England,3,3,0,8,1,-0.2898302011758112,0,primo
+Croatia v Iceland,3,5,0,6,1,-0.30393537918920127,0,primo
+Croatia v Italy,3,2,0,5,1,-0.10783118209966741,0,primo
+Croatia v Jamaica,4,3,0,4,1,0.05921573728826024,0,primo
+Croatia v Netherlands,3,6,0,4,1,-0.267251360678534,0,primo
+Croatia v Nigeria,2,3,0,6,1,-0.37645649453570945,0,primo
+Croatia v Romania,1,5,0,5,1,-0.6083977884610843,0,primo
+Croatia v Russia,4,5,0,8,1,-0.217309085829303,0,primo
+Czech Republic v United States,3,6,0,6,1,-0.35472457571325844,0,primo
+Czechoslovakia v Germany,4,0,0,0,1,0.3865297569298807,0,primo
+Czechoslovakia v Hungary,1,0,0,0,1,-0.13576876825398723,0,primo
+Czechoslovakia v Kuwait,2,0,0,3,1,-0.09287908241145121,0,primo
+Czechoslovakia v Mexico,4,0,0,0,1,0.3865297569298807,0,primo
+Czechoslovakia v Netherlands,3,0,0,0,1,0.21243024853525805,0,primo
+Czechoslovakia v Spain,1,0,0,0,1,-0.13576876825398723,0,primo
+Czechoslovakia v Uruguay,2,0,0,0,1,0.038330740140635394,0,primo
+Czechoslovakia v Yugoslavia,4,0,0,0,1,0.3865297569298807,0,primo
+Denmark v England,3,2,0,5,1,-0.10783118209966741,0,primo
+Denmark v Japan,4,5,0,6,1,-0.1298358707945786,0,primo
+Denmark v Netherlands,2,3,0,6,1,-0.37645649453570945,0,primo
+Denmark v Peru,1,3,0,6,1,-0.550556002930332,0,primo
+Denmark v Saudi Arabia,1,4,0,6,1,-0.6013451994543892,0,primo
+Denmark v Scotland,1,1,0,4,1,-0.3615043948474933,0,primo
+East Germany v Netherlands,2,0,0,2,1,-0.04914247489408901,0,primo
+East Germany v West Germany,1,3,0,3,1,-0.41934618037824545,0,primo
+Ecuador v England,1,6,0,5,1,-0.6591869849851414,0,primo
+Ecuador v Germany,3,2,0,6,1,-0.15156778961702963,0,primo
+Ecuador v Honduras,3,5,0,6,1,-0.30393537918920127,0,primo
+Ecuador v Italy,2,4,0,6,1,-0.4272456910597667,0,primo
+Ecuador v Mexico,3,6,0,6,1,-0.35472457571325844,0,primo
+Ecuador v Poland,2,3,0,6,1,-0.37645649453570945,0,primo
+Ecuador v Switzerland,3,2,0,4,1,-0.0640945745823052,0,primo
+Egypt v England,1,3,0,4,1,-0.46308278789560764,0,primo
+Egypt v Netherlands,2,2,0,4,1,-0.23819408297692787,0,primo
+Egypt v Republic of Ireland,0,2,0,4,1,-0.5863930997661729,0,primo
+Egypt v Russia,4,2,0,6,1,0.022531718777593027,0,primo
+Egypt v Saudi Arabia,3,2,0,5,1,-0.10783118209966741,0,primo
+Egypt v Uruguay,1,2,0,6,1,-0.49976680640627485,0,primo
+El Salvador v Mexico,4,4,0,4,1,0.00842654076420306,0,primo
+El Salvador v Soviet Union,2,1,0,4,1,-0.18740488645287065,0,primo
+England v Hungary,3,0,0,0,1,0.21243024853525805,0,primo
+England v Kuwait,1,2,0,1,1,-0.28108376881946384,0,primo
+England v Mexico,2,0,0,0,1,0.038330740140635394,0,primo
+England v Netherlands,0,0,0,3,1,-0.4410780992006963,0,primo
+England v Nigeria,0,0,0,4,1,-0.4848147067180585,0,primo
+England v Poland,3,1,0,4,1,-0.013305378058248022,0,primo
+England v Republic of Ireland,2,1,0,3,1,-0.14366827893550843,0,primo
+England v Slovenia,1,4,0,4,1,-0.5138719844196649,0,primo
+England v Spain,1,2,0,8,2,-0.46591177041903964,0,primo
+England v Switzerland,2,0,0,0,1,0.038330740140635394,0,primo
+England v Trinidad and Tobago,2,6,0,5,1,-0.4850874765905189,0,primo
+France v Germany,1,2,0,6,1,-0.49976680640627485,0,primo
+France v Nigeria,2,1,0,4,1,-0.18740488645287065,0,primo
+France v Peru,1,4,0,6,1,-0.6013451994543892,0,primo
+France v Portugal,1,2,0,6,1,-0.49976680640627485,0,primo
+France v Scotland,3,0,0,0,1,0.21243024853525805,0,primo
+France v Senegal,1,2,0,2,1,-0.32482037633682603,0,primo
+France v South Korea,2,4,0,6,1,-0.4272456910597667,0,primo
+France v Soviet Union,2,4,0,4,1,-0.33977247602504224,0,primo
+France v Spain,4,4,0,5,1,-0.03531006675315915,0,primo
+France v Togo,2,4,0,5,1,-0.3835090835424044,0,primo
+Germany v Iran,2,3,0,4,1,-0.288983279500985,0,primo
+Germany v Italy,2,3,0,6,1,-0.37645649453570945,0,primo
+Germany v Republic of Ireland,2,0,0,6,1,-0.22408890496353784,0,primo
+Germany v Yugoslavia,4,1,0,6,1,0.07332091530165022,0,primo
+Ghana v Italy,2,5,0,6,1,-0.4780348875838239,0,primo
+Ghana v Portugal,3,4,0,6,1,-0.25314618266514405,0,primo
+Greece v Ivory Coast,3,3,0,6,1,-0.20235698614108683,0,primo
+Greece v South Korea,2,1,0,6,1,-0.27487810148759506,0,primo
+Haiti v Italy,4,1,0,2,1,0.248267345371099,0,primo
+Honduras v Northern Ireland,2,0,0,3,1,-0.09287908241145121,0,primo
+Hungary v Mexico,4,0,0,0,1,0.3865297569298807,0,primo
+Hungary v Portugal,4,0,0,0,1,0.3865297569298807,0,primo
+Hungary v Switzerland,2,0,0,0,1,0.038330740140635394,0,primo
+Iceland v Nigeria,2,1,0,6,1,-0.27487810148759506,0,primo
+Iran v Mexico,4,3,0,5,1,0.01547912977089805,0,primo
+Iran v Morocco,1,4,0,6,1,-0.6013451994543892,0,primo
+Iran v Netherlands,3,0,0,2,1,0.12495703350053364,0,primo
+Iran v Nigeria,0,1,0,5,1,-0.579340510759478,0,primo
+Iran v Scotland,2,0,0,4,1,-0.1366156899288134,0,primo
+Iran v Spain,1,2,0,6,1,-0.49976680640627485,0,primo
+Iran v United States,3,3,0,6,1,-0.20235698614108683,0,primo
+Iran v Yugoslavia,1,2,0,4,1,-0.4122935913715504,0,primo
+Iraq v Mexico,1,2,0,4,1,-0.4122935913715504,0,primo
+Iraq v Paraguay,1,2,0,3,1,-0.3685569838541882,0,primo
+Israel v Italy,0,3,0,2,1,-0.5497090812555058,0,primo
+Israel v Sweden,2,3,0,2,1,-0.20151006446626063,0,primo
+Israel v Uruguay,2,0,0,3,1,-0.09287908241145121,0,primo
+Italy v Netherlands,3,5,0,4,1,-0.21646216415447686,0,primo
+Italy v New Zealand,2,3,0,6,1,-0.37645649453570945,0,primo
+Italy v North Korea,1,0,0,0,1,-0.13576876825398723,0,primo
+Italy v Peru,2,2,0,3,1,-0.19445747545956565,0,primo
+Italy v Republic of Ireland,2,5,0,8,2,-0.4441798515965887,0,primo
+Italy v Soviet Union,1,0,0,0,1,-0.13576876825398723,0,primo
+Italy v Ukraine,3,3,0,6,1,-0.20235698614108683,0,primo
+Ivory Coast v Japan,3,4,0,6,1,-0.25314618266514405,0,primo
+Ivory Coast v Netherlands,3,7,0,6,1,-0.40551377223731566,0,primo
+Ivory Coast v North Korea,3,0,0,4,1,0.03748381846580923,0,primo
+Ivory Coast v Portugal,0,3,0,6,1,-0.7246555113249545,0,primo
+Jamaica v Japan,3,3,0,6,1,-0.20235698614108683,0,primo
+Japan v Netherlands,1,1,0,6,1,-0.44897760988221774,0,primo
+Japan v Paraguay,0,5,0,6,1,-0.8262339043730689,0,primo
+Japan v Poland,1,1,0,5,1,-0.4052410023648555,0,primo
+Japan v Russia,1,6,0,6,1,-0.7029235925025036,0,primo
+Japan v Senegal,4,5,0,6,1,-0.1298358707945786,0,primo
+Japan v Tunisia,2,2,0,6,1,-0.3256672980116523,0,primo
+Japan v Turkey,1,4,0,6,1,-0.6013451994543892,0,primo
+Mexico v Norway,1,3,0,4,1,-0.46308278789560764,0,primo
+Mexico v Paraguay,2,5,0,4,1,-0.39056167254909946,0,primo
+Mexico v Poland,4,0,0,3,1,0.25531993437779404,0,primo
+Mexico v Republic of Ireland,3,4,0,4,1,-0.1656729676304196,0,primo
+Mexico v South Africa,2,4,0,5,1,-0.3835090835424044,0,primo
+Mexico v Soviet Union,0,5,0,3,1,-0.6950240818209823,0,primo
+Mexico v Spain,1,0,0,0,1,-0.13576876825398723,0,primo
+Mexico v Switzerland,3,0,0,0,1,0.21243024853525805,0,primo
+Mexico v Tunisia,4,0,0,3,1,0.25531993437779404,0,primo
+Mexico v Uruguay,1,6,0,10,2,-0.7565417715499928,0,primo
+Mexico v Wales,2,0,0,0,1,0.038330740140635394,0,primo
+Morocco v Netherlands,3,7,0,4,1,-0.3180405572025912,0,primo
+Morocco v Norway,4,1,0,5,1,0.11705752281901244,0,primo
+Morocco v Peru,3,0,0,4,1,0.03748381846580923,0,primo
+Morocco v Poland,0,1,0,4,1,-0.5356039032421158,0,primo
+Morocco v Saudi Arabia,3,6,0,4,1,-0.267251360678534,0,primo
+Morocco v Spain,4,6,0,6,1,-0.18062506731863578,0,primo
+Netherlands v Peru,0,1,0,3,1,-0.49186729572475363,0,primo
+Netherlands v Saudi Arabia,3,5,0,4,1,-0.21646216415447686,0,primo
+Netherlands v Serbia and Montenegro,1,6,0,6,1,-0.7029235925025036,0,primo
+Netherlands v Slovakia,3,5,0,6,1,-0.30393537918920127,0,primo
+Netherlands v Sweden,0,5,0,3,1,-0.6950240818209823,0,primo
+Netherlands v Yugoslavia,3,3,0,2,1,-0.027410556071637993,0,primo
+New Zealand v Paraguay,0,3,0,4,1,-0.6371822962902302,0,primo
+New Zealand v Slovakia,2,3,0,5,1,-0.3327198870183472,0,primo
+New Zealand v Soviet Union,3,0,0,2,1,0.12495703350053364,0,primo
+Nigeria v Paraguay,4,2,0,5,1,0.06626832629495524,0,primo
+Nigeria v South Korea,4,4,0,6,1,-0.07904667427052135,0,primo
+Nigeria v Sweden,3,3,0,4,1,-0.1148837711063624,0,primo
+North Korea v Soviet Union,3,1,0,0,1,0.1616410520112008,0,primo
+Northern Ireland v West Germany,4,0,0,0,1,0.3865297569298807,0,primo
+Northern Ireland v Yugoslavia,0,1,0,0,1,-0.360657473172667,0,primo
+Norway v Republic of Ireland,0,5,0,4,1,-0.7387606893383445,0,primo
+Norway v Scotland,2,4,0,5,1,-0.3835090835424044,0,primo
+Panama v Tunisia,3,6,0,6,1,-0.35472457571325844,0,primo
+Paraguay v Slovakia,2,4,0,5,1,-0.3835090835424044,0,primo
+Paraguay v South Africa,4,8,0,5,1,-0.23846685284938798,0,primo
+Paraguay v Trinidad and Tobago,2,4,0,6,1,-0.4272456910597667,0,primo
+Paraguay v United States,3,0,0,0,1,0.21243024853525805,0,primo
+Peru v Scotland,4,1,0,4,1,0.16079413033637463,0,primo
+Peru v Uruguay,1,0,0,0,1,-0.13576876825398723,0,primo
+Peru v West Germany,4,0,0,4,1,0.21158332686043185,0,primo
+Poland v Senegal,3,3,0,6,1,-0.20235698614108683,0,primo
+Poland v South Korea,2,5,0,6,1,-0.4780348875838239,0,primo
+Poland v Soviet Union,0,5,0,3,1,-0.6950240818209823,0,primo
+Poland v Sweden,1,2,0,3,1,-0.3685569838541882,0,primo
+Poland v Tunisia,1,0,0,2,1,-0.22324198328871164,0,primo
+Poland v United States,4,5,0,6,1,-0.1298358707945786,0,primo
+Poland v West Germany,1,0,0,4,2,-0.1893869473014764,0,primo
+Poland v Yugoslavia,3,0,0,4,1,0.03748381846580923,0,primo
+Portugal v Soviet Union,3,0,0,0,1,0.21243024853525805,0,primo
+Portugal v Uruguay,3,1,0,6,1,-0.10077859309297243,0,primo
+Republic of Ireland v Romania,0,4,0,4,1,-0.6879714928142874,0,primo
+Republic of Ireland v Saudi Arabia,3,2,0,6,1,-0.15156778961702963,0,primo
+Republic of Ireland v Spain,2,3,0,6,1,-0.37645649453570945,0,primo
+Romania v Soviet Union,2,2,0,4,1,-0.23819408297692787,0,primo
+Romania v Tunisia,2,2,0,6,1,-0.3256672980116523,0,primo
+Romania v United States,1,4,0,4,1,-0.5138719844196649,0,primo
+Romania v Uruguay,4,0,0,0,1,0.3865297569298807,0,primo
+Russia v South Korea,2,4,0,6,1,-0.4272456910597667,0,primo
+Russia v Spain,2,3,0,8,1,-0.46392970957043383,0,primo
+Russia v Tunisia,2,4,0,6,1,-0.4272456910597667,0,primo
+Saudi Arabia v South Africa,4,3,0,5,1,0.01547912977089805,0,primo
+Saudi Arabia v Spain,1,5,0,6,1,-0.6521343959784465,0,primo
+Saudi Arabia v Sweden,4,4,0,4,1,0.00842654076420306,0,primo
+Saudi Arabia v Tunisia,4,4,0,6,1,-0.07904667427052135,0,primo
+Saudi Arabia v Ukraine,4,6,0,6,1,-0.18062506731863578,0,primo
+Saudi Arabia v Uruguay,1,0,0,6,1,-0.39818841335816046,0,primo
+Scotland v Soviet Union,4,1,0,3,1,0.20453073785373682,0,primo
+Scotland v Sweden,3,2,0,4,1,-0.0640945745823052,0,primo
+Scotland v West Germany,3,3,0,4,1,-0.1148837711063624,0,primo
+Scotland v Zaire,2,2,0,3,1,-0.19445747545956565,0,primo
+Senegal v Sweden,3,2,0,4,1,-0.0640945745823052,0,primo
+Senegal v Turkey,1,4,0,2,1,-0.4263987693849405,0,primo
+Serbia v Switzerland,3,5,0,5,1,-0.260198771671839,0,primo
+Slovenia v South Africa,1,6,0,6,1,-0.7029235925025036,0,primo
+Slovenia v Spain,4,3,0,6,1,-0.028257477746464168,0,primo
+Slovenia v United States,4,5,0,6,1,-0.1298358707945786,0,primo
+South Korea v Sweden,1,3,0,6,1,-0.550556002930332,0,primo
+South Korea v Switzerland,2,10,0,5,1,-0.6882442626867477,0,primo
+South Korea v United States,2,3,0,5,1,-0.3327198870183472,0,primo
+Soviet Union v Sweden,2,0,0,0,1,0.038330740140635394,0,primo
+Soviet Union v Yugoslavia,2,0,0,0,1,0.038330740140635394,0,primo
+Spain v Tunisia,4,8,0,6,1,-0.2822034603667502,0,primo
+Spain v United States,4,0,0,0,1,0.3865297569298807,0,primo
+Sweden v Wales,0,0,0,0,1,-0.30986827664860966,0,primo
+Sweden v Yugoslavia,3,2,0,2,1,0.023378640452419195,0,primo
+Switzerland v Togo,2,4,0,6,1,-0.4272456910597667,0,primo
+Switzerland v Ukraine,0,1,0,6,1,-0.6230771182768402,0,primo
+Switzerland v United States,2,3,0,4,1,-0.288983279500985,0,primo
+Switzerland v Yugoslavia,3,0,0,0,1,0.21243024853525805,0,primo
+Tunisia v West Germany,0,2,0,1,1,-0.45518327721408636,0,primo
+United States v Yugoslavia,1,3,0,6,1,-0.550556002930332,0,primo

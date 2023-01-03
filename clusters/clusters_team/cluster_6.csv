@@ -1,0 +1,29 @@
+match_name,total_teams_score,yellow_card,red_card,substitutions,n_same_squad_match,C-3,Segm K-means PCA,Segment
+Argentina v Brazil,8,17,4,33,4,0.818960514838486,6,settimo
+Argentina v Bulgaria,5,33,3,24,3,-0.6633570281575376,6,settimo
+Argentina v Hungary,8,6,4,14,3,2.0873089684110373,6,settimo
+Argentina v West Germany,10,22,2,12,4,0.9922961267489709,6,settimo
+Belgium v Mexico,8,17,4,22,3,1.1787349465075105,6,settimo
+Brazil v Turkey,4,18,4,24,2,0.22274625034827875,6,settimo
+Bulgaria v Mexico,4,26,4,10,2,0.428745183398892,6,settimo
+Cameroon v Italy,5,16,2,12,2,0.18387726187628173,6,settimo
+Chile v Italy,8,10,2,12,3,1.1322392172264526,6,settimo
+Chile v Switzerland,5,18,2,12,2,0.08229886882816732,6,settimo
+Chile v West Germany,8,15,3,21,3,0.904356857011447,6,settimo
+Croatia v France,9,12,2,20,2,0.7335392214121035,6,settimo
+Croatia v Mexico,5,6,4,22,2,1.0937893320663123,6,settimo
+England v Portugal,4,11,2,16,3,0.210105557054456,6,settimo
+France v South Africa,6,10,2,22,2,0.2253458742416255,6,settimo
+Germany v Portugal,8,12,2,24,2,0.384493282948032,6,settimo
+Greece v Nigeria,5,16,2,18,2,-0.07854238322789159,6,settimo
+Italy v Norway,5,27,3,33,3,-0.7522513166694541,6,settimo
+Italy v South Korea,8,32,2,18,2,-0.36887100242893894,6,settimo
+Italy v Uruguay,3,18,2,22,3,-0.5819379721127403,6,settimo
+Mexico v Netherlands,7,18,2,22,2,-0.006868189556209546,6,settimo
+Mexico v South Korea,7,14,2,24,2,0.10881538150529478,6,settimo
+Mexico v West Germany,6,24,4,12,2,0.7910493782015273,6,settimo
+Netherlands v Portugal,1,20,4,6,1,0.26480001640685663,6,settimo
+Netherlands v Uruguay,7,16,2,10,2,0.6195494937002514,6,settimo
+Netherlands v West Germany,10,19,4,9,3,1.99393146797435,6,settimo
+South Korea v Spain,8,17,2,24,3,0.25187555134970563,6,settimo
+Uruguay v West Germany,7,10,4,12,3,1.7975258889549104,6,settimo

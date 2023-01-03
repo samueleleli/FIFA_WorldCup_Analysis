@@ -1,0 +1,5 @@
+match_name,total_teams_score,yellow_card,red_card,substitutions,n_same_squad_match,C-3,Segm K-means PCA,Segment
+Argentina v Nigeria,13,38,0,67,5,-2.4216038350081193,8,nono
+Brazil v Chile,16,64,0,68,4,-3.3848892779890605,8,nono
+Brazil v Mexico,13,50,0,60,5,-2.72491794067527,8,nono
+Brazil v Sweden,29,51,1,62,7,0.5847613741853694,8,nono

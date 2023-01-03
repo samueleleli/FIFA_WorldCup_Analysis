@@ -1,0 +1,9 @@
+match_name,total_teams_score,yellow_card,red_card,substitutions,n_same_squad_match,C-3,Segm K-means PCA,Segment
+Argentina v England,13,39,5,45,5,0.5882777841574938,3,quarto
+Argentina v Italy,10,49,5,49,5,-0.6168591363363951,3,quarto
+Argentina v Netherlands,11,77,8,76,5,-1.7866662633995327,3,quarto
+Brazil v France,13,52,4,60,4,-1.269052224499183,3,quarto
+Brazil v Netherlands,15,61,6,52,5,-0.06734868514251482,3,quarto
+France v Italy,11,75,5,90,5,-3.55647964577911,3,quarto
+France v Uruguay,5,41,4,42,4,-1.315908194579015,3,quarto
+Germany v Sweden,8,33,6,36,3,0.5931814770026048,3,quarto

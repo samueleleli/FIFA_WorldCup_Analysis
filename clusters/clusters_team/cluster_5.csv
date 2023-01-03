@@ -1,0 +1,36 @@
+match_name,total_teams_score,yellow_card,red_card,substitutions,n_same_squad_match,C-3,Segm K-means PCA,Segment
+Argentina v France,11,10,0,12,3,0.8151515622872398,5,sesto
+Austria v Switzerland,12,0,0,0,1,1.7793258240868617,5,sesto
+Austria v West Germany,13,7,0,7,3,1.5344012062354675,5,sesto
+Belgium v France,11,11,0,14,3,0.6768891507284582,5,sesto
+Belgium v Germany,12,6,0,8,2,1.2460260358255804,5,sesto
+Belgium v Japan,9,6,0,9,2,0.6799909031243505,5,sesto
+Belgium v Soviet Union,13,3,0,16,3,1.3439285246754364,5,sesto
+Belgium v Tunisia,9,6,0,12,2,0.5487810805722638,5,sesto
+Brazil v Cameroon,8,6,1,10,2,0.881847877273906,5,sesto
+Brazil v England,8,5,1,13,4,1.0440837532897957,5,sesto
+Brazil v Germany,10,3,0,11,2,0.9189847860564203,5,sesto
+Brazil v Hungary,10,0,2,0,2,2.3918412384426566,5,sesto
+Brazil v Peru,9,0,0,16,2,0.6785698296471583,5,sesto
+Brazil v Yugoslavia,7,6,0,0,4,0.9680778560352842,5,sesto
+Bulgaria v Hungary,11,0,0,0,2,1.7265545667141986,5,sesto
+Colombia v Japan,8,5,1,12,2,0.8451638587632389,5,sesto
+Cuba v Romania,9,0,0,0,2,1.3783555499249536,5,sesto
+Denmark v Uruguay,10,8,1,10,2,1.1284685010150366,5,sesto
+El Salvador v Hungary,11,2,0,4,1,1.3287014925746756,5,sesto
+England v Uruguay,9,4,0,12,3,0.7716877246423379,5,sesto
+France v Northern Ireland,9,4,0,6,2,0.9127791187245515,5,sesto
+France v Paraguay,11,10,0,12,2,0.6938233112652802,5,sesto
+France v West Germany,17,7,0,10,3,2.0995894172618716,5,sesto
+Germany v Switzerland,8,0,2,0,2,2.0436422216534114,5,sesto
+Hungary v Italy,10,4,0,8,2,0.9994054120844497,5,sesto
+Hungary v Soviet Union,9,0,0,8,2,1.0284626897860558,5,sesto
+Hungary v Sweden,9,0,0,0,2,1.3783555499249536,5,sesto
+Hungary v West Germany,16,0,0,0,2,2.5970521086873117,5,sesto
+Italy v Switzerland,11,0,0,0,3,1.8478828177361581,5,sesto
+North Korea v Portugal,15,8,0,12,2,1.491799737891885,5,sesto
+South Korea v Turkey,12,3,0,6,2,1.4858668404324764,5,sesto
+Sweden v Uruguay,9,2,0,14,3,0.7857929026557279,5,sesto
+Sweden v West Germany,10,1,1,3,2,1.7901491293049723,5,sesto
+Turkey v West Germany,14,0,0,0,2,2.2488530918980665,5,sesto
+Uruguay v Yugoslavia,11,0,2,0,2,2.565940746837279,5,sesto
