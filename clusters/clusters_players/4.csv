@@ -1,0 +1,129 @@
+player_id,family_name,given_name,total_games_played,n_minutes_played,n_tournaments,n_tournaments_played,total_final_match_played,n_wc_wins,total_goals,total_penalty_scored,Segm K-means PCA,Segment
+P-07220,García Aspe,Alberto,8,627,3,3,0,0,2,2,4,4
+P-09137,Amoros,Manuel,12,1170,2,2,0,0,1,1,4,4
+P-08141,Moore,Craig,6,490,2,2,0,0,1,1,4,4
+P-06156,Lăcătuș,Marius,5,318,2,2,0,0,2,1,4,4
+P-03676,Rodríguez,James,8,553,2,2,0,0,6,1,4,4
+P-04406,Appiah,Stephen,7,468,2,2,0,0,1,1,4,4
+P-06879,Fadiga,Khalilou,4,364,1,1,0,0,1,1,4,4
+P-09932,Rekdal,Kjetil,7,473,2,2,0,0,2,1,4,4
+P-00057,Goikoetxea,Andoni,4,360,1,1,0,0,1,1,4,4
+P-00791,Samaras,Georgios,7,593,2,2,0,0,1,1,4,4
+P-01576,Neymar,not applicable,10,907,2,2,0,0,6,1,4,4
+P-04214,Hazard,Eden,11,887,2,2,0,0,3,1,4,4
+P-08602,Andersson,Kennet,7,579,1,1,0,0,5,0,4,4
+P-09033,Peña,Gustavo,7,630,2,2,0,0,1,1,4,4
+P-05131,Francescoli,Enzo,8,714,2,2,0,0,1,1,4,4
+P-06072,Sassi,Ferjani,3,195,1,1,0,0,1,1,4,4
+P-09697,Larsson,Henrik,13,927,3,3,0,0,5,1,4,4
+P-03271,Huntelaar,Klaas-Jan,7,107,2,2,0,0,2,1,4,4
+P-02640,Ansarifard,Karim,4,202,2,2,0,0,1,1,4,4
+P-04705,Šuker,Davor,8,694,3,2,0,0,6,1,4,4
+P-04765,Vieri,Christian,9,818,2,2,0,0,9,0,4,4
+P-02414,Karpin,Valeri,6,492,2,2,0,0,1,1,4,4
+P-02311,Abdelghani,Magdi,3,270,1,1,0,0,1,1,4,4
+P-04060,Gemmill,Archie,3,196,1,1,0,0,2,1,4,4
+P-03894,Shearer,Alan,4,390,1,1,0,0,2,1,4,4
+P-03413,Skuhravý,Tomáš,5,450,1,1,0,0,5,0,4,4
+P-03746,Claesen,Nico,8,718,2,2,0,0,3,1,4,4
+P-05374,Cuadrado,Juan,9,718,2,2,0,0,2,1,4,4
+P-08436,Juanito,not applicable,6,452,2,2,0,0,1,1,4,4
+P-08699,Careca,not applicable,9,833,2,2,0,0,7,1,4,4
+P-08571,Brolin,Tomas,10,874,2,2,0,0,4,1,4,4
+P-07915,Fortune,Quinton,6,504,2,2,0,0,1,1,4,4
+P-08013,Vittek,Róbert,4,354,1,1,0,0,4,1,4,4
+P-09467,Míchel,not applicable,9,836,2,2,0,0,4,1,4,4
+P-09841,Tomasson,Jon Dahl,6,536,2,2,0,0,5,1,4,4
+P-09401,Belanov,Ihor,4,313,1,1,0,0,4,2,4,4
+P-06229,Johnston,Mo,3,270,1,1,0,0,1,1,4,4
+P-06355,Koeman,Ronald,9,810,2,2,0,0,1,1,4,4
+P-05545,Herzog,Andi,6,409,2,2,0,0,1,1,4,4
+P-07268,Vázquez Ayala,Arturo,3,270,1,1,0,0,1,1,4,4
+P-07198,Panenka,Antonín,2,111,1,1,0,0,2,2,4,4
+P-07530,Platini,Michel,14,1261,3,3,0,0,5,1,4,4
+P-07422,Dindane,Aruna,6,326,2,2,0,0,2,1,4,4
+P-06801,Iaquinta,Vincenzo,8,462,2,2,1,1,2,1,4,4
+P-01901,Souayah,Skander,3,226,1,1,0,0,1,1,4,4
+P-01478,Bílek,Michal,5,427,1,1,0,0,2,2,4,4
+P-00798,Benzema,Karim,5,450,1,1,0,0,3,1,4,4
+P-07498,Kocsis,Sándor,5,480,1,1,1,0,11,0,4,4
+P-00614,Beckham,David,13,1028,3,3,0,0,3,1,4,4
+P-07891,Amarilla,Florencio,3,270,1,1,0,0,2,1,4,4
+P-07951,Neira,Miguel Ángel,3,186,1,1,0,0,1,1,4,4
+P-00643,Fontaine,Just,6,540,1,1,0,0,13,0,4,4
+P-07608,Butragueño,Emilio,9,763,2,2,0,0,5,1,4,4
+P-07658,Flowers,Ron,4,360,2,1,0,1,2,2,4,4
+P-00692,Verriest,Georges,1,120,1,1,0,0,1,1,4,4
+P-07709,Hernández,Héctor,3,270,1,1,0,0,1,1,4,4
+P-06536,Marcos,Rubén,3,270,1,1,0,0,2,1,4,4
+P-00985,Cavani,Edinson,14,1227,3,3,0,0,5,1,4,4
+P-06216,Míguez,Oscar,7,630,2,2,0,1,8,0,4,4
+P-06343,Vela,Carlos,6,415,2,2,0,0,1,1,4,4
+P-07023,Salenko,Oleg,3,216,1,1,0,0,6,2,4,4
+P-07100,Kopa,Raymond,8,720,2,2,0,0,4,2,4,4
+P-06818,Donovan,Landon,12,1095,3,3,0,0,5,1,4,4
+P-06737,Sánchez,Leonel,9,810,2,2,0,0,4,1,4,4
+P-06904,Andersson,Sune,5,450,1,1,0,0,2,1,4,4
+P-06890,Krankl,Hans,10,900,2,2,0,0,5,1,4,4
+P-09422,Salah,Mohamed,2,180,1,1,0,0,2,1,4,4
+P-09480,Al-Faraj,Salman,3,270,1,1,0,0,1,1,4,4
+P-09126,Feghouli,Sofiane,4,390,1,1,0,0,1,1,4,4
+P-09287,Begiristain,Txiki,1,30,1,1,0,0,1,1,4,4
+P-09183,Iraragorri,José,2,210,1,1,0,0,2,1,4,4
+P-09627,Altobelli,Alessandro,7,474,2,2,1,1,5,1,4,4
+P-09731,Kalou,Bonaventure,2,73,1,1,0,0,1,1,4,4
+P-09662,McParland,Peter,5,480,1,1,0,0,5,0,4,4
+P-00509,Yakubu,not applicable,3,250,1,1,0,0,1,1,4,4
+P-08493,Scherfke,Fryderyk,1,120,1,1,0,0,1,1,4,4
+P-00443,Petrović,Vladimir,5,350,2,2,0,0,1,1,4,4
+P-08487,Lambert,Raoul,2,180,1,1,0,0,2,1,4,4
+P-00467,Recoba,Álvaro,3,260,1,1,0,0,1,1,4,4
+P-08039,Haller,Helmut,9,796,3,3,1,0,6,1,4,4
+P-08264,Shevchenko,Andriy,5,474,1,1,0,0,2,1,4,4
+P-00334,Corbatta,Oreste,3,270,1,1,0,0,3,2,4,4
+P-08942,Szymaniak,Horst,10,900,2,2,0,0,1,1,4,4
+P-08628,Keane,Robbie,4,390,1,1,0,0,3,1,4,4
+P-08763,Deyna,Kazimierz,13,1160,2,2,0,0,4,1,4,4
+P-08787,Moses,Victor,5,411,2,2,0,0,1,1,4,4
+P-00374,Laudrup,Michael,9,763,2,2,0,0,2,1,4,4
+P-08718,Maca,Joe,3,270,1,1,0,0,1,1,4,4
+P-03577,Dvořák,Milan,4,390,1,1,0,0,2,1,4,4
+P-03716,Sócrates,not applicable,10,887,2,2,0,0,4,1,4,4
+P-03656,Clarke,Allan,1,90,1,1,0,0,1,1,4,4
+P-03653,Zico,not applicable,14,770,3,3,0,0,5,1,4,4
+P-01943,Probst,Erich,5,450,1,1,0,0,6,0,4,4
+P-03379,Kagawa,Shinji,6,437,2,2,0,0,1,1,4,4
+P-04091,Stojaspal,Ernst,4,360,1,1,0,0,3,1,4,4
+P-04188,Ademir,not applicable,6,540,1,1,0,0,9,0,4,4
+P-04171,Zuluaga,Francisco,1,90,1,1,0,0,1,1,4,4
+P-01793,Mészöly,Kálmán,8,720,2,2,0,0,2,1,4,4
+P-02333,Dzyuba,Artem,5,334,1,1,0,0,3,1,4,4
+P-02360,Skoblar,Josip,5,450,1,1,0,0,1,1,4,4
+P-02366,Sárosi,György,5,450,2,2,1,0,6,1,4,4
+P-03077,Finney,Tom,7,660,3,3,0,0,2,1,4,4
+P-03023,Leônidas,not applicable,5,510,2,2,0,0,8,0,4,4
+P-03030,Tóth,András,1,45,1,1,0,0,1,1,4,4
+P-02912,Ufarte,Roberto López,4,303,1,1,0,0,1,1,4,4
+P-02859,Sigurðsson,Gylfi,3,270,1,1,0,0,1,1,4,4
+P-02009,De Bourgoing,Héctor,1,90,1,1,0,0,1,1,4,4
+P-05476,Hügi,Josef,3,270,1,1,0,0,6,0,4,4
+P-01265,Guardiola,Josep,2,145,1,1,0,0,1,1,4,4
+P-05596,Bartlett,Shaun,3,169,1,1,0,0,2,1,4,4
+P-05627,Nejedlý,Oldřich,6,630,2,2,1,0,7,1,4,4
+P-05404,Collins,John,3,270,2,1,0,0,1,1,4,4
+P-06084,Olsen,Jesper,4,232,1,1,0,0,3,2,4,4
+P-04515,Dumitrache,Florea,3,252,1,1,0,0,2,1,4,4
+P-04687,Liedholm,Nils,5,450,1,1,1,0,2,1,4,4
+P-04616,Simão,not applicable,11,630,2,2,0,0,2,1,4,4
+P-04652,Rosas,Manuel,3,270,1,1,0,0,2,1,4,4
+P-04297,Kundé,Emmanuel,7,582,2,2,0,0,1,1,4,4
+P-04441,Granqvist,Andreas,5,450,1,1,0,0,2,2,4,4
+P-01628,Forlán,Diego,10,812,3,3,0,0,6,1,4,4
+P-04418,Stábile,Guillermo,4,360,1,1,1,0,8,0,4,4
+P-04373,Schillaci,Salvatore,7,536,1,1,0,0,6,1,4,4
+P-04992,Lantos,Mihály,5,480,1,1,1,0,2,1,4,4
+P-05183,Scherer,Adolf,6,540,2,1,1,0,3,1,4,4
+P-05168,Raí,not applicable,5,310,1,1,0,1,1,1,4,4
+P-04962,Al-Thunayan,Yousuf,2,88,1,1,0,0,1,1,4,4
+P-04878,Pandolfini,Egisto,4,360,2,2,0,0,2,1,4,4
+P-01505,Ortiz,Héctor,3,270,1,1,0,0,1,1,4,4

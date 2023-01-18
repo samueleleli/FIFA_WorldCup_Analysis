@@ -1,0 +1,187 @@
+player_id,family_name,given_name,total_games_played,n_minutes_played,n_tournaments,n_tournaments_played,total_final_match_played,n_wc_wins,total_goals,total_penalty_scored,0
+P-00485,Lahm,Philipp,20,1920,3,3,1,1,1,0,1
+P-00329,Vogts,Berti,19,1770,3,3,1,1,0,0,1
+P-08617,Cannavaro,Fabio,18,1710,4,4,1,1,0,0,1
+P-02456,Maier,Sepp,18,1680,4,3,1,1,0,0,1
+P-00260,Mertesacker,Per,19,1666,3,3,1,1,0,0,1
+P-03082,Schweinsteiger,Bastian,20,1657,3,3,1,1,2,0,1
+P-05815,Scirea,Gaetano,18,1620,3,3,1,1,0,0,1
+P-06875,Casillas,Iker,17,1620,4,4,1,1,0,0,1
+P-05548,Cabrini,Antonio,18,1609,3,3,1,1,1,0,1
+P-00234,Ramos,Sergio,17,1577,4,4,1,1,0,0,1
+P-03875,Zoff,Dino,17,1530,4,3,1,1,0,0,1
+P-01527,Lúcio,not applicable,17,1530,3,3,1,1,0,0,1
+P-06554,Neuer,Manuel,16,1500,3,3,1,1,0,0,1
+P-04483,Bergomi,Giuseppe,16,1464,4,4,1,1,0,0,1
+P-05458,Özil,Mesut,16,1422,3,3,1,1,2,0,1
+P-00568,Puyol,Carles,14,1344,3,3,1,1,1,0,1
+P-07605,Silva,Gilberto,16,1324,3,3,1,1,0,0,1
+P-03585,Schumacher,Harald,14,1320,2,2,2,0,0,0,1
+P-05905,Moore,Bobby,14,1320,3,3,1,1,0,0,1
+P-00132,Buffon,Gianluigi,14,1303,5,4,1,1,0,0,1
+P-01182,Förster,Karlheinz,14,1301,2,2,2,0,0,0,1
+P-02465,Krol,Ruud,14,1290,2,2,2,0,1,0,1
+P-04732,Lloris,Hugo,14,1260,3,3,1,1,0,0,1
+P-03221,Jansen,Wim,14,1243,2,2,2,0,0,0,1
+P-00227,Charlton,Bobby,14,1218,4,3,1,1,4,0,1
+P-02305,Zambrotta,Gianluca,13,1212,3,3,1,1,1,0,1
+P-02237,Iniesta,Andrés,14,1202,4,4,1,1,2,0,1
+P-06100,Busquets,Sergio,13,1201,3,3,1,1,0,0,1
+P-02665,Fillol,Ubaldo,13,1200,3,3,1,1,0,0,1
+P-09366,Haan,Arie,13,1200,2,2,2,0,2,0,1
+P-09300,Kohler,Jürgen,13,1200,3,3,1,1,0,0,1
+P-00766,Boateng,Jérôme,14,1195,3,3,1,1,0,0,1
+P-09857,Briegel,Hans-Peter,13,1180,2,2,2,0,0,0,1
+P-02669,Gentile,Claudio,13,1170,2,2,1,1,0,0,1
+P-06751,Tardelli,Marco,13,1155,3,2,1,1,2,0,1
+P-00448,Piqué,Gerard,12,1140,3,3,1,1,0,0,1
+P-02338,Branco,not applicable,12,1140,3,3,1,1,1,0,1
+P-06930,Xavi,not applicable,15,1127,4,4,1,1,0,0,1
+P-06922,Olguín,Jorge,12,1110,2,2,1,1,0,0,1
+P-02228,Illgner,Bodo,12,1110,2,2,1,1,0,0,1
+P-00040,Galván,Luis,12,1110,2,2,1,1,0,0,1
+P-08408,Häßler,Thomas,14,1105,3,3,1,1,0,0,1
+P-05505,Jongbloed,Jan,12,1090,2,2,2,0,0,0,1
+P-06305,Tarantini,Alberto,12,1071,2,2,1,1,1,0,1
+P-03473,Kroos,Toni,14,1023,3,3,1,1,3,0,1
+P-06400,Varane,Raphaël,12,1020,2,2,1,1,1,0,1
+P-01908,Gallego,Américo,11,1009,2,2,1,1,0,0,1
+P-01038,Giusti,Ricardo,11,981,2,2,1,1,0,0,1
+P-09247,Pirlo,Andrea,11,973,3,3,1,1,1,0,1
+P-08987,Suurbier,Wim,11,942,2,2,2,0,0,0,1
+P-00500,Conti,Bruno,11,940,2,2,1,1,1,0,1
+P-07128,Desailly,Marcel,10,932,2,2,1,1,0,0,1
+P-07255,Buchwald,Guido,10,930,2,2,1,1,0,0,1
+P-04619,Wilson,Ray,10,930,2,2,1,1,0,0,1
+P-06578,Ardiles,Osvaldo,11,922,2,2,1,1,1,0,1
+P-07607,Jorginho,not applicable,11,921,2,2,1,1,0,0,1
+P-02761,Baresi,Franco,10,919,3,2,1,1,0,0,1
+P-04824,Eckel,Horst,10,900,2,2,1,1,0,0,1
+P-05466,Bonhof,Rainer,10,900,2,2,1,1,1,0,1
+P-06083,Pogba,Paul,11,894,2,2,1,1,2,0,1
+P-05050,Bertoni,Daniel,11,879,2,2,1,1,4,0,1
+P-04585,Lizarazu,Bixente,9,864,2,2,1,1,1,0,1
+P-02986,Augenthaler,Klaus,9,840,2,2,1,1,0,0,1
+P-09652,Banks,Gordon,9,840,2,2,1,1,0,0,1
+P-01405,Peters,Martin,9,831,2,2,1,1,2,0,1
+P-07636,Leonardo,not applicable,11,830,2,2,1,1,0,0,1
+P-07030,Batista,Sergio,11,827,2,2,1,1,0,0,1
+P-02225,Olarticoechea,Julio,12,810,3,2,1,1,0,0,1
+P-07272,Piazza,not applicable,9,781,2,2,1,1,0,0,1
+P-08606,Matuidi,Blaise,10,764,2,2,1,1,1,0,1
+P-00371,Höttges,Horst-Dieter,10,762,3,3,1,1,0,0,1
+P-05887,Grabowski,Jürgen,11,757,3,2,1,1,1,0,1
+P-01918,Causio,Franco,11,748,3,3,1,1,1,0,1
+P-05448,Pumpido,Nery,9,731,3,2,1,1,0,0,1
+P-07489,Romário,not applicable,8,725,2,2,1,1,5,0,1
+P-08637,Trezeguet,David,12,719,3,3,1,1,1,0,1
+P-09623,Giroud,Olivier,12,716,2,2,1,1,1,0,1
+P-05909,Ball,Alan,8,716,2,2,1,1,0,0,1
+P-01388,Houseman,René,12,705,2,2,1,1,4,0,1
+P-02304,Höwedes,Benedikt,7,690,1,1,1,1,0,0,1
+P-03386,Hummels,Mats,8,689,2,2,1,1,2,0,1
+P-03946,Petit,Emmanuel,8,686,2,2,1,1,2,0,1
+P-04626,Valdano,Jorge,9,682,2,2,1,1,4,0,1
+P-05642,Gattuso,Gennaro,9,678,3,3,1,1,0,0,1
+P-03861,Hölzenbein,Bernd,9,672,2,2,1,1,1,0,1
+P-03698,Collovati,Fulvio,8,664,2,2,1,1,0,0,1
+P-04836,Capdevila,Joan,7,660,1,1,1,1,0,0,1
+P-03057,Santos,Márcio,7,660,1,1,1,1,1,0,1
+P-08025,Charlton,Jack,7,660,2,2,1,1,0,0,1
+P-07224,Orlando,not applicable,7,630,2,2,1,1,0,0,1
+P-07908,Brown,José Luis,7,630,1,1,1,1,1,0,1
+P-09985,Brito,not applicable,7,630,2,2,1,1,0,0,1
+P-05723,Marcos,not applicable,7,630,1,1,1,1,0,0,1
+P-04810,De Rossi,Daniele,8,628,3,3,1,1,1,0,1
+P-04166,Perrotta,Simone,7,615,1,1,1,1,0,0,1
+P-07966,Silva,Mauro,7,615,1,1,1,1,0,0,1
+P-02579,van de Kerkhof,René,8,611,2,2,2,0,1,0,1
+P-04806,Zinho,not applicable,7,610,1,1,1,1,0,0,1
+P-09492,Schwarzenbeck,Hans-Georg,7,608,2,1,1,1,0,0,1
+P-01461,Tostão,not applicable,7,608,2,2,1,1,3,0,1
+P-03234,Hurst,Geoff,6,600,2,2,1,1,5,0,1
+P-08133,Grosso,Fabio,6,600,1,1,1,1,1,0,1
+P-01366,Kanté,N'Golo,7,595,1,1,1,1,0,0,1
+P-09283,Deschamps,Didier,6,594,1,1,1,1,0,0,1
+P-09409,Hernandez,Lucas,7,590,1,1,1,1,0,0,1
+P-01606,Graziani,Francesco,10,572,2,2,1,1,1,0,1
+P-01893,Hunt,Roger,6,570,2,1,1,1,3,0,1
+P-09264,Cohen,George,6,570,1,1,1,1,0,0,1
+P-09076,Stiles,Nobby,6,570,2,1,1,1,0,0,1
+P-02573,Kohlmeyer,Werner,6,540,1,1,1,1,0,0,1
+P-07356,Umtiti,Samuel,6,540,1,1,1,1,1,0,1
+P-03232,Félix,not applicable,6,540,1,1,1,1,0,0,1
+P-00409,Pavard,Benjamin,6,540,1,1,1,1,1,0,1
+P-08231,Júnior,Roque,6,540,1,1,1,1,0,0,1
+P-06054,Cuciuffo,José Luis,6,540,1,1,1,1,0,0,1
+P-02917,Alberto,Carlos,6,540,1,1,1,1,1,0,1
+P-01775,Edmílson,not applicable,6,540,1,1,1,1,1,0,1
+P-02842,Mbappé,Kylian,7,535,1,1,1,1,4,0,1
+P-04805,Clodoaldo,not applicable,6,524,1,1,1,1,1,0,1
+P-05439,Allemandi,Luigi,5,510,1,1,1,1,0,0,1
+P-01889,Combi,Gianpiero,5,510,1,1,1,1,0,0,1
+P-06734,Orsi,Raimundo,5,510,1,1,1,1,3,0,1
+P-09417,Del Piero,Alessandro,12,506,3,3,1,1,2,0,1
+P-06449,Reuter,Stefan,7,503,2,2,1,1,0,0,1
+P-03638,Toni,Luca,6,483,1,1,1,1,2,0,1
+P-00328,Luque,Leopoldo,5,480,1,1,1,1,4,0,1
+P-00546,Walter,Ottmar,5,450,1,1,1,1,4,0,1
+P-00250,Turek,Toni,5,450,1,1,1,1,0,0,1
+P-01070,Morlock,Max,5,450,1,1,1,1,6,0,1
+P-05311,Posipal,Josef,5,450,1,1,1,1,0,0,1
+P-06027,Mai,Karl,5,450,1,1,1,1,0,0,1
+P-03745,Massaro,Daniele,6,444,2,1,1,1,1,0,1
+P-08630,Oriali,Gabriele,5,435,1,1,1,1,0,0,1
+P-06473,Materazzi,Marco,5,431,2,2,1,1,2,0,1
+P-06639,Camoranesi,Mauro,7,431,2,2,1,1,0,0,1
+P-05868,Everaldo,not applicable,5,420,1,1,1,1,0,0,1
+P-04599,Guaita,Enrique,4,420,1,1,1,1,1,0,1
+P-02250,Schiavio,Angelo,4,420,1,1,1,1,4,0,1
+P-03612,Gérson,not applicable,5,399,2,2,1,1,1,0,1
+P-06001,Rava,Pietro,4,390,1,1,1,1,0,0,1
+P-06194,Serantoni,Pietro,4,390,1,1,1,1,0,0,1
+P-01232,Bertolini,Luigi,4,390,1,1,1,1,0,0,1
+P-08824,Piola,Silvio,4,390,1,1,1,1,5,0,1
+P-09615,Andreolo,Michele,4,390,1,1,1,1,0,0,1
+P-09119,Olivieri,Aldo,4,390,1,1,1,1,0,0,1
+P-04607,Locatelli,Ugo,4,390,1,1,1,1,0,0,1
+P-05082,Mazinho,not applicable,6,388,2,1,1,1,0,0,1
+P-03059,Fàbregas,Cesc,10,381,3,3,1,1,0,0,1
+P-05989,Iriarte,Santos,4,360,1,1,1,1,2,0,1
+P-04382,Fernández,Lorenzo,4,360,1,1,1,1,0,0,1
+P-01989,Gestido,Álvaro,4,360,1,1,1,1,0,0,1
+P-01536,Andrade,José Leandro,4,360,1,1,1,1,0,0,1
+P-09951,Amarildo,not applicable,4,360,1,1,1,1,3,0,1
+P-08946,Nasazzi,José,4,360,1,1,1,1,0,0,1
+P-00724,Cea,Pedro,4,360,1,1,1,1,5,0,1
+P-03967,Liebrich,Werner,4,360,1,1,1,1,0,0,1
+P-01714,Ballesteros,Enrique,4,360,1,1,1,1,0,0,1
+P-03309,Enrique,Héctor,5,332,1,1,1,1,0,0,1
+P-03284,Ortiz,Oscar,6,325,1,1,1,1,0,0,1
+P-06994,Kléberson,not applicable,6,319,2,2,1,1,0,0,1
+P-01937,Leboeuf,Frank,5,300,2,2,1,1,0,0,1
+P-05320,Castilho,Carlos José,3,300,4,1,0,2,0,0,1
+P-06377,Pedro,not applicable,6,281,2,2,1,1,0,0,1
+P-03238,Colaussi,Gino,3,270,1,1,1,1,4,0,1
+P-02545,Mascheroni,Ernesto,3,270,1,1,1,1,0,0,1
+P-08777,Foni,Alfredo,3,270,1,1,1,1,0,0,1
+P-02775,Scarone,Héctor,3,270,1,1,1,1,1,0,1
+P-09786,Guivarc'h,Stéphane,6,270,1,1,1,1,0,0,1
+P-00275,Dorado,Pablo,3,270,1,1,1,1,2,0,1
+P-01621,Biavati,Amedeo,3,270,1,1,1,1,0,0,1
+P-08721,Paulista,Juninho,5,266,1,1,1,1,0,0,1
+P-02208,Götze,Mario,6,261,1,1,1,1,2,0,1
+P-09818,Schürrle,André,6,250,1,1,1,1,3,0,1
+P-08162,Karembeu,Christian,4,243,1,1,1,1,0,0,1
+P-02196,Boghossian,Alain,5,215,2,1,1,1,0,0,1
+P-01640,Ferraris,Attilio,2,210,1,1,1,1,0,0,1
+P-02083,Dugarry,Christophe,6,206,2,2,1,1,1,0,1
+P-06573,Tolisso,Corentin,5,197,1,1,1,1,0,0,1
+P-00826,Castro,Héctor,2,180,1,1,1,1,2,0,1
+P-03058,Navas,Jesús,3,180,1,1,1,1,0,0,1
+P-07081,Nzonzi,Steven,5,145,1,1,1,1,0,0,1
+P-09350,Larrosa,Omar,2,145,1,1,1,1,0,0,1
+P-02762,Fekir,Nabil,6,74,1,1,1,1,0,0,1
+P-05450,Kramer,Christoph,3,45,1,1,1,1,0,0,1
+P-07983,Viola,not applicable,1,15,1,1,1,1,0,0,1
+P-00660,Trobbiani,Marcelo,1,1,1,1,1,1,0,0,1
