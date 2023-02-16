@@ -22,9 +22,9 @@ import matplotlib.pyplot as plt
 warnings.filterwarnings('ignore')
 
 #PATH dove andare a leggere e a scrivere
-PATH_TO_WRITE_ETL = "./dataset_modificato/"
-PATH_FROM_READ_ETL = "./dataset_originale/"
-PATH_FROM_READ_ANALYSIS = "./dataset_modificato/" 
+PATH_TO_WRITE_ETL = "./dataset_modificato_WC/"
+PATH_FROM_READ_ETL = "./dataset_originale_WC/"
+PATH_FROM_READ_ANALYSIS = "./dataset_modificato_WC/" 
 
 
 #create dict
