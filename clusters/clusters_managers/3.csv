@@ -1,0 +1,50 @@
+manager_id,family_name,given_name,country_name,n_appearances,n_wc,goals_difference,win_rate,lose_rate,draw_rate,n_wc_wins_rate,Segm K-means PCA,Segment
+M-002,Adshead,John,England,3,1,-10,0.0,1.0,0.0,0.0,3,3
+M-006,Al-Johar,Nasser,Saudi Arabia,3,1,-12,0.0,1.0,0.0,0.0,3,3
+M-023,Beattie,Andy,Scotland,2,1,-8,0.0,1.0,0.0,0.0,3,3
+M-033,Blinda,Abdellah,Morocco,3,1,-3,0.0,1.0,0.0,0.0,3,3
+M-036,Borhy,Karol,Czechoslovakia,2,1,-7,0.0,1.0,0.0,0.0,3,3
+M-041,Bru,Francisco,Spain,2,1,-3,0.0,1.0,0.0,0.0,3,3
+M-046,Butler,Jack,England,1,1,-2,0.0,1.0,0.0,0.0,3,3
+M-053,Carrasco,Hernán,Chile,3,1,-9,0.0,1.0,0.0,0.0,3,3
+M-064,Cúper,Héctor,Argentina,3,1,-4,0.0,1.0,0.0,0.0,3,3
+M-069,de Macedo,Evaristo,Brazil,3,1,-3,0.0,1.0,0.0,0.0,3,3
+M-089,Finke,Volker,Germany,3,1,-8,0.0,1.0,0.0,0.0,3,3
+M-091,Foni,Alfredo,Italy,3,1,-8,0.0,1.0,0.0,0.0,3,3
+M-092,Gansler,Bob,United States,3,1,-6,0.0,1.0,0.0,0.0,3,3
+M-095,Glendenning,Bob,England,2,2,-4,0.0,1.0,0.0,0.0,3,3
+M-099,Goetinck,Hector,Belgium,3,2,-7,0.0,1.0,0.0,0.0,3,3
+M-100,Gómez,Hernán Darío,Colombia,9,3,-13,0.2222222222222222,0.7777777777777778,0.0,0.0,3,3
+M-104,Gould,David,United States,1,1,-6,0.0,1.0,0.0,0.0,3,3
+M-111,Halvorsen,Asbjørn,Norway,1,1,-1,0.0,1.0,0.0,0.0,3,3
+M-137,Kałuża,Józef,Poland,1,1,-1,0.0,1.0,0.0,0.0,3,3
+M-139,Katanec,Srečko,Slovenia,3,1,-5,0.0,1.0,0.0,0.0,3,3
+M-144,Kim,Jong-hun,North Korea,3,1,-11,0.0,1.0,0.0,0.0,3,3
+M-146,Kim,Yong-sik,South Korea,2,1,-16,0.0,1.0,0.0,0.0,3,3
+M-147,Kimpton,George,England,1,1,-1,0.0,1.0,0.0,0.0,3,3
+M-161,Le Guen,Paul,France,3,1,-3,0.0,1.0,0.0,0.0,3,3
+M-163,Lee,Hoe-taik,South Korea,3,1,-5,0.0,1.0,0.0,0.0,3,3
+M-171,López Herranz,Antonio,Spain,5,2,-13,0.0,0.8,0.2,0.0,3,3
+M-175,Luque de Serrallonga,Juan,Mexico,3,1,-9,0.0,1.0,0.0,0.0,3,3
+M-180,Marko,Jozef,Czechoslovakia,3,1,-5,0.0,1.0,0.0,0.0,3,3
+M-183,Mastenbroek,Johan,Netherlands,1,1,-6,0.0,1.0,0.0,0.0,3,3
+M-187,McCrae,James,Scotland,1,1,-2,0.0,1.0,0.0,0.0,3,3
+M-219,Nordin,Olle,Sweden,3,1,-3,0.0,1.0,0.0,0.0,3,3
+M-232,Panagoulias,Alketas,Greece,3,1,-10,0.0,1.0,0.0,0.0,3,3
+M-235,Pascucci,Felipe,Italy,1,1,-1,0.0,1.0,0.0,0.0,3,3
+M-240,Petković,Ilija,Serbia and Montenegro,3,1,-8,0.0,1.0,0.0,0.0,3,3
+M-244,Pfister,Otto,Germany,3,1,-5,0.0,1.0,0.0,0.0,3,3
+M-252,Postecoglou,Ange,Australia,3,1,-6,0.0,1.0,0.0,0.0,3,3
+M-255,Pretto,Mario,Italy,1,1,-8,0.0,1.0,0.0,0.0,3,3
+M-272,Roca,José Antonio,Mexico,3,1,-10,0.0,1.0,0.0,0.0,3,3
+M-273,Rodríguez,Mauricio,El Salvador,3,1,-12,0.0,1.0,0.0,0.0,3,3
+M-284,Sampson,Steve,United States,3,1,-4,0.0,1.0,0.0,0.0,3,3
+M-287,Santibáñez,Luis,Chile,3,1,-5,0.0,1.0,0.0,0.0,3,3
+M-290,Saucedo,Ulises,Bolivia,2,1,-8,0.0,1.0,0.0,0.0,3,3
+M-312,Suárez,Luis Fernando,Colombia,7,2,-6,0.2857142857142857,0.7142857142857143,0.0,0.0,3,3
+M-319,Tassy,Antoine,Haiti,3,1,-12,0.0,1.0,0.0,0.0,3,3
+M-329,Uridil,Josef,Romania,1,1,-1,0.0,1.0,0.0,0.0,3,3
+M-337,Vial,Octavio,Mexico,3,1,-8,0.0,1.0,0.0,0.0,3,3
+M-339,Vidinić,Blagoje,Yugoslavia,6,2,-18,0.0,0.8333333333333334,0.16666666666666666,0.0,3,3
+M-343,Vinhaes,Luiz,Brazil,1,1,-2,0.0,1.0,0.0,0.0,3,3
+M-348,Waiters,Tony,England,3,1,-5,0.0,1.0,0.0,0.0,3,3

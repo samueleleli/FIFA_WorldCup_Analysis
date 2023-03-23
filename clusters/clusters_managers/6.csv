@@ -1,0 +1,35 @@
+manager_id,family_name,given_name,country_name,n_appearances,n_wc,goals_difference,win_rate,lose_rate,draw_rate,n_wc_wins_rate,Segm K-means PCA,Segment
+M-001,Acosta,Nelson,Uruguay,4,1,-3,0.0,0.25,0.75,0.0,6,6
+M-005,Al-Gohari,Mahmoud,Egypt,3,1,-1,0.0,0.3333333333333333,0.6666666666666666,0.0,6,6
+M-039,Bradley,Bob,United States,4,1,0,0.25,0.25,0.5,0.0,6,6
+M-052,Carpegiani,Paulo César,Brazil,4,1,1,0.25,0.25,0.5,0.0,6,6
+M-068,de la Paz Herrera,José,Honduras,3,1,-1,0.0,0.3333333333333333,0.6666666666666666,0.0,6,6
+M-085,Faria,José,Brazil,4,1,1,0.25,0.25,0.5,0.0,6,6
+M-101,Gonçalves,Oliveira,Angola,3,1,-1,0.0,0.3333333333333333,0.6666666666666666,0.0,6,6
+M-113,Hareide,Åge,Norway,4,1,1,0.25,0.0,0.75,0.0,6,6
+M-115,Herbert,Ricki,New Zealand,3,1,0,0.0,0.0,1.0,0.0,6,6
+M-121,Hierro,Fernando,Spain,4,1,1,0.25,0.0,0.75,0.0,6,6
+M-133,Jenei,Emerich,Romania,4,1,1,0.25,0.25,0.5,0.0,6,6
+M-143,Kim,Ho,South Korea,3,1,-1,0.0,0.3333333333333333,0.6666666666666666,0.0,6,6
+M-151,Kranjčar,Zlatko,Croatia,3,1,-1,0.0,0.3333333333333333,0.6666666666666666,0.0,6,6
+M-154,Kuhn,Köbi,Switzerland,4,1,4,0.5,0.0,0.5,0.0,6,6
+M-158,Lapuente,Manuel,Mexico,4,1,1,0.25,0.25,0.5,0.0,6,6
+M-162,Le Roy,Claude,France,3,1,-3,0.0,0.3333333333333333,0.6666666666666666,0.0,6,6
+M-164,Leekens,Georges,Belgium,3,1,0,0.0,0.0,1.0,0.0,6,6
+M-182,Martino,Gerardo,Argentina,5,1,1,0.2,0.2,0.6,0.0,6,6
+M-186,McCarthy,Mick,Republic of Ireland,4,1,3,0.25,0.0,0.75,0.0,6,6
+M-190,Mejía Barón,Miguel,Mexico,4,1,0,0.25,0.25,0.5,0.0,6,6
+M-202,Mladenov,Hristo,Bulgaria,3,1,-3,0.0,0.3333333333333333,0.6666666666666666,0.0,6,6
+M-209,Murphy,Jimmy,Wales,5,1,0,0.2,0.2,0.6,0.0,6,6
+M-227,Ormond,Willie,Scotland,3,1,2,0.3333333333333333,0.0,0.6666666666666666,0.0,6,6
+M-241,Petković,Vladimir,Switzerland,4,1,0,0.25,0.25,0.5,0.0,6,6
+M-248,Pinto,Jorge Luis,Colombia,5,1,3,0.4,0.0,0.6,0.0,6,6
+M-256,Prohaska,Herbert,Austria,3,1,-1,0.0,0.3333333333333333,0.6666666666666666,0.0,6,6
+M-257,Púa,Víctor,Uruguay,3,1,-1,0.0,0.3333333333333333,0.6666666666666666,0.0,6,6
+M-267,Ré,Cayetano,Paraguay,4,1,-2,0.25,0.25,0.5,0.0,6,6
+M-294,Scheffer,Emmanuel,Israel,3,1,-2,0.0,0.3333333333333333,0.6666666666666666,0.0,6,6
+M-304,Söderberg,Tommy,Sweden,4,1,0,0.25,0.25,0.5,0.0,6,6
+M-321,Tim,not applicable,Brazil,3,1,-4,0.0,0.3333333333333333,0.6666666666666666,0.0,6,6
+M-340,Viera,Ondino,Uruguay,4,1,-3,0.25,0.25,0.5,0.0,6,6
+M-342,Vincent,Jean,France,3,1,0,0.0,0.0,1.0,0.0,6,6
+M-350,Waseige,Robert,Belgium,4,1,-1,0.25,0.25,0.5,0.0,6,6

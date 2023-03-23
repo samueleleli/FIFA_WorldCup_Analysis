@@ -1,0 +1,43 @@
+manager_id,family_name,given_name,country_name,n_appearances,n_wc,goals_difference,win_rate,lose_rate,draw_rate,n_wc_wins_rate,Segm K-means PCA,Segment
+M-013,Aragonés,Luis,Spain,4,1,5,0.75,0.25,0.0,0.0,8,8
+M-016,Arsenijević,Milorad,Yugoslavia,3,1,4,0.6666666666666666,0.3333333333333333,0.0,0.0,8,8
+M-021,Batteux,Albert,France,6,1,8,0.6666666666666666,0.3333333333333333,0.0,0.0,8,8
+M-032,Blažević,Miroslav,Croatia,7,1,6,0.7142857142857143,0.2857142857142857,0.0,0.0,8,8
+M-048,Camacho,José Antonio,Spain,5,1,5,0.6,0.0,0.4,0.0,8,8
+M-062,Costa,Flávio,Brazil,6,1,16,0.6666666666666666,0.16666666666666666,0.16666666666666666,0.0,8,8
+M-063,Coutinho,Cláudio,Brazil,7,1,7,0.5714285714285714,0.0,0.42857142857142855,0.0,8,8
+M-066,Dalić,Zlatko,Croatia,7,1,5,0.5714285714285714,0.14285714285714285,0.2857142857142857,0.0,8,8
+M-074,Dietz,Károly,Hungary,4,1,10,0.75,0.25,0.0,0.0,8,8
+M-078,Dunga,not applicable,Brazil,5,1,5,0.6,0.2,0.2,0.0,8,8
+M-096,Glória,Otto,Brazil,6,1,9,0.8333333333333334,0.16666666666666666,0.0,0.0,8,8
+M-103,Górski,Kazimierz,Poland,7,1,11,0.8571428571428571,0.14285714285714285,0.0,0.0,8,8
+M-105,Greenwood,Ron,England,5,1,5,0.6,0.0,0.4,0.0,8,8
+M-108,Güneş,Şenol,Turkey,7,1,4,0.5714285714285714,0.2857142857142857,0.14285714285714285,0.0,8,8
+M-160,Lazaroni,Sebastião,Brazil,4,1,2,0.75,0.25,0.0,0.0,8,8
+M-168,Lobanovsky,Valeri,Soviet Union,4,1,7,0.5,0.25,0.25,0.0,8,8
+M-179,Maradona,Diego,Argentina,5,1,4,0.8,0.2,0.0,0.0,8,8
+M-181,Martínez,Roberto,Spain,7,1,10,0.8571428571428571,0.14285714285714285,0.0,0.0,8,8
+M-197,Michels,Rinus,Netherlands,7,1,12,0.7142857142857143,0.14285714285714285,0.14285714285714285,0.0,8,8
+M-200,Millar,Robert,Scotland,3,1,1,0.6666666666666666,0.3333333333333333,0.0,0.0,8,8
+M-206,Morozov,Nikolai,Soviet Union,6,1,4,0.6666666666666666,0.3333333333333333,0.0,0.0,8,8
+M-208,Muñoz,Miguel,Spain,5,1,7,0.6,0.2,0.2,0.0,8,8
+M-213,Nausch,Walter,Austria,5,1,5,0.8,0.2,0.0,0.0,8,8
+M-216,Nerz,Otto,Germany,4,1,3,0.75,0.25,0.0,0.0,8,8
+M-222,Olazar,Francisco,Argentina,5,1,9,0.8,0.2,0.0,0.0,8,8
+M-228,Orth,György,Hungary,3,1,2,0.6666666666666666,0.3333333333333333,0.0,0.0,8,8
+M-229,Osim,Ivica,Yugoslavia,5,1,2,0.6,0.2,0.2,0.0,8,8
+M-236,Passarella,Daniel,Argentina,5,1,6,0.6,0.2,0.2,0.0,8,8
+M-242,Petrů,Karel,Czechoslovakia,4,1,3,0.75,0.25,0.0,0.0,8,8
+M-247,Pimenta,Adhemar,Brazil,5,1,3,0.6,0.2,0.2,0.0,8,8
+M-249,Piontek,Sepp,Germany,4,1,4,0.75,0.25,0.0,0.0,8,8
+M-270,Riera,Fernando,Chile,6,1,2,0.6666666666666666,0.3333333333333333,0.0,0.0,8,8
+M-280,Sabella,Alejandro,Argentina,7,1,4,0.7142857142857143,0.14285714285714285,0.14285714285714285,0.0,8,8
+M-281,Sacchi,Arrigo,Italy,7,1,3,0.5714285714285714,0.14285714285714285,0.2857142857142857,0.0,8,8
+M-293,Schaffer,Alfréd,Hungary,4,1,10,0.75,0.25,0.0,0.0,8,8
+M-298,Sebes,Gusztáv,Hungary,5,1,17,0.8,0.2,0.0,0.0,8,8
+M-323,Tite,not applicable,Brazil,5,1,5,0.6,0.2,0.2,0.0,8,8
+M-325,Tramutola,Juan José,Argentina,5,1,9,0.8,0.2,0.0,0.0,8,8
+M-332,van Gaal,Louis,Netherlands,7,1,11,0.7142857142857143,0.0,0.2857142857142857,0.0,8,8
+M-338,Vicini,Azeglio,Italy,7,1,8,0.8571428571428571,0.0,0.14285714285714285,0.0,8,8
+M-345,Völler,Rudi,Germany,7,1,11,0.7142857142857143,0.14285714285714285,0.14285714285714285,0.0,8,8
+M-353,Wilmots,Marc,Belgium,5,1,3,0.8,0.2,0.0,0.0,8,8
